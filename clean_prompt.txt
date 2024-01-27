@@ -1,0 +1,11 @@
+Clean up this OCR newspaper article from the year 1900 for common errors such as missing, added, or wrong characters, formatting issues, and line breaks in the middle of words and sentences. Look out for inconsistencies in punctuation, capitalization, and spacing. As you correct the errors, strive to preserve the original language and meaning of the article while at the same time making it coherent.
+
+Output a JSON object with a property "title" with the cleaned title and a property "text" with the cleaned text.
+
+Title: English Language win Spread.
+
+Article: A statistician calculates that in the year 2000 there will be ,700.000,O00 people who speak English, and that the other European languages will be spoken by only 50o,o0o,o 1000 people
+
+Title: JAMES W. RANL1FFE, AUcTIoNEER.
+
+Article: AND p TNIMPRovED REAL EsTATEIBRIcR is- B CT,\nSTORES AND DWELLINGS. nos. 148 c ST.\nSc. AND 800 9TH 81: Sc; BRICK DWELL\nSs Nos NJ sio 1sl2 aTn AZ ss isl4 6. 81 m\nNE, 1908 9TH ST. NV, AND sos SPRUCE\nST. LIE DROIT PARK. qNIMPROvED PROP\nERTY-15TH AND S. E.. d ST. BET. 18TH\nAND 2 18TH L sTs 4o sE 17TH sT ST BET Z AMP N\nSc, AND ON THE CORNER OF 5TH AND E\nSTS Me-\n\n\nThe undersigned, trustees. will sell. at public\nauction, In front of the respective premises. on\nTHURSDAY. FouRTEENTH DAY IA OF JUNE; 1902.\nPM, the following described real estate in Wash\n'\"kss. iss .ss 4 set % q 1916 81 s4s.\nOn On the be- SANE DAY. AT FIVE O'CLOCK Pm\nPIT. lot 9, SO. 1918.\n\n\nLots and 20. 50. 1889.\n\n\nLot 10. %. 1868.\n\n\nSs g. tss e e. s&Ms 4 e DAY. At SIX O'CLOCK PM\nLots SO to 81. included, So 1876.\nOn FRIDAY, FIFTEENTH DAY OF JUNE, AT\nHALF-PAsr -FOUR O'CLOCK Pm\nSAME DAY. AT FIVE O'CLOCK\nLot s2, block is. lie Droit Park\" together\nwith all the improvements, rights. &c.\nTerms: One-third cash, the balance in one and\ntwo years. with interest from date of sale at go\nspective premises or all cash. at option Of the pur-\nchaser. deposit Of 800 required on each parcel\nat the time Of sale. Terms to be compiled with\nIn Is days. All eonveyancing, stamps, &c, at the\ncost of the purchaser.\n\n\nBATES WARREN,\n\n\nJ. ]. DARLINGTON,\n\n\nCLARENCE A. BRANDENBURG.\n1e5d&da Trustees.

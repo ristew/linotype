@@ -1,0 +1,866 @@
+{
+    "lccn": {
+        "title": "Pine Bluff daily graphic.",
+        "geonames_ids": [
+            "4126226"
+        ],
+        "dbpedia_ids": [
+            "Pine_Bluff%2C_Arkansas"
+        ],
+        "issn": "",
+        "lccn": "sn89051168",
+        "start_year": "1893",
+        "end_year": "1942",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn89051168",
+        "edition": "ed-01",
+        "date": "1900-01-16",
+        "pages": [
+            "seq-3",
+            "seq-8",
+            "seq-5",
+            "seq-1",
+            "seq-2",
+            "seq-4",
+            "seq-7",
+            "seq-6"
+        ]
+    },
+    "page_number": "6",
+    "scan": {
+        "lccn": "sn89051168",
+        "edition": "ed-01",
+        "date": "1900-01-16",
+        "page": "6",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn89051168/1900-01-16/ed-1/seq-6.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn89051168/1900-01-16/ed-1/seq-6/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn89051168/1900-01-16/ed-1/seq-6/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/arhi_fugazi_ver01/data/sn89051168/00393343102/1900011601/0359.jp2",
+        "height": 7313,
+        "width": 4550
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 286,
+                "y0": 6570,
+                "x1": 1081,
+                "y1": 6851
+            },
+            "class": "article",
+            "raw_text": "The Italian government, for twenty seven years, has guaranteed to the pope an annual income of about l50,- 900. which he has steadily refused to accept. The arrears of this annuity amount now to over G4,000,000.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 498,
+                "y0": 6524,
+                "x1": 887,
+                "y1": 6559
+            },
+            "class": "headline",
+            "raw_text": "\\ Refused Income.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": -1
+        },
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1903,
+                "y0": 668,
+                "x1": 2704,
+                "y1": 3023
+            },
+            "class": "article",
+            "raw_text": "From the Indianapolis News: Frozen food plays a part in the English econ omy that we in this country do not re- aIize, although we are all familiar enough with cold storage houses and refrigerator cars. In 1880 London re- ceived it's first consignment of 400 frozen carcasses of Australian sheep. Tn spite of the prejudice against it, the traffic has grown until now there are eighty-eight vessels engaged in the traffic, with a carrying capacity of 6,700, 900 carcasses per annum. A single vessel sometimes lands at London TO- 900 carcasses of frozen mutton. At one wharf 10000 to 12,000 of such Sarcasses are handled daily and one warehouse will hold 250,000 of them; all are from Australia and New Zea- land. Sheep were imported into Aus tralia with the convicts to Botany bay a little more than century ago, and with the small population and the vast plains for grazing, flocks increased go that in 1867 a farmer is recorded who for four months of the year boiled down daily from 1000 to 1,500 sheep for their tallow and until 1880 1t was common in Australia and New Zea- land to kill fiocks of sheep for their hides and tallow, leaving the earcasses to manure the ground, as used to be done with cattle in South America. There is a difference between frozen and chilled meat. The meat that Eng land receives from America is chilled, but that sent from Australia, 13,000 miles away must be frozen. Australia and New Zealand have twenty-two freezing works in operation, whose total capacity is 100000 carcasses per annum. One of the results of the frozen and chilled meat trade is that people are now able to eat fresh meat who half a century ago could only get it as a l,v,7ry Naturally we are less dependent o. such food than England, but the growing use of refrigerator cars and cold storage houses is giving us a variety of diet that was impossible a few years ago.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1966,
+                "y0": 491,
+                "x1": 2630,
+                "y1": 543
+            },
+            "class": "headline",
+            "raw_text": "FROZEN FOOD INDUSTRY.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1903,
+                "y0": 565,
+                "x1": 2704,
+                "y1": 658
+            },
+            "class": "headline",
+            "raw_text": "Remarkable Increase In the Business in\n\n the Last Decade.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 275,
+                "y0": 3113,
+                "x1": 1081,
+                "y1": 5342
+            },
+            "class": "article",
+            "raw_text": "French Empire.\n\n The Cent Guards founded with the second empire in 1870. The corps dated from the time of the ZCrimean war, when visit from Queen Victoria was expected. The ta1lest and finest look ing men and officers were selected from the cavalry There were 137 of the former and eleven Of the latter, but the number of men was increased to POS. Their function was purely decorative, and they chiefly served within the palace. What sWe1ls the officers were in their sky-blue uniform bedight with golden lace! The corps had regula- tions of their own. They were on no account, when on duty, to stir unless to salute the emperor or empress, and only then when specially ordered. The worst breach of discipline would have been to forget they were to be motion less as caryatides One day Marshal Castellane, vain, old, peppery per- sonage, had occasion to see the em- peror soon after the creation of the Cent Guards. Two of them kept guard beside the door opening from the ante room on the presence chamber. They remained in the regulation attitude that is to say, with the right arm hori- zontally stretched out and holding musket by the bayonet. The butt end rested on the ground. The marshal was in uniform. Furious at not being saluted he asked the one nearest to him what 1t meant The Cent Guard seemed neither to see nor hear. Cas- tellane lost self-restraint and abused him. Still the soldier remained inn passive The irate marshal sent for Col. Verley to complain. The colonel failed to make him understand that approval and not ehastisement was due. Thus the matter was brought be- fore the emperor, who gave the com plainant sharp rap on the knuckles by expressing his pleasure at the Spartan attitude of household guard who was bound to ignore every rank but the imperial.-London Truth.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 321,
+                "y0": 2976,
+                "x1": 1041,
+                "y1": 3034
+            },
+            "class": "headline",
+            "raw_text": "OLD IMPERIAL sooYeuARD.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 286,
+                "y0": 3050,
+                "x1": 1076,
+                "y1": 3143
+            },
+            "class": "headline",
+            "raw_text": "Institution That Died with the Second\n\n French Empire.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1092,
+                "y0": 708,
+                "x1": 1887,
+                "y1": 2680
+            },
+            "class": "article",
+            "raw_text": "The authentic history and biography If China is doubtless the oldest in the world, even antedating that of the Jews. Those familiar with it's chro- nology state that it embraces 9 period\n\n ae year 122 of our era back to\n\n e period of 2,697 years before CA4 The historians of China em- bra succession of uninterrupted seri1s Of more than 2,400 years. The full and continuous history of the em- pire was compiled in the second cen tury of our era. The great libraries of Pekin contain volumes of books numbered by the hundreds of thou sands. In the archives of the govern meut are still to be found the ancient predictions of eclipses made with great accuracy, together with works on as- tronomy which show a fair knowledge of that interesting science. Biogra- phies, very succinctly written, Of the emperors of the most ancient dynas- ties still e1 1ist, and written works ot learned men are as yoluminous as those of European nations. And all this learning and love of learning has been acquired without help or sugges- tion from any foreign people. II thelr authentic histories reach back nearly five centuries ago, mythical history reaches still further back into the very night of time. When Nineveh and Babylon were in the splendor of their might men in China were pre- dieting eclipses, making catalogues and giving names to the stars. But Nineveh and Babylon were mere mounds of earth and rubbish when China was great, and to this date the civilization and life of the empire ara the wonder of the world.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1092,
+                "y0": 531,
+                "x1": 1876,
+                "y1": 595
+            },
+            "class": "headline",
+            "raw_text": "CHINESE HISTORY IS ANCIENT.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1092,
+                "y0": 611,
+                "x1": 1881,
+                "y1": 703
+            },
+            "class": "headline",
+            "raw_text": "Dates Hack to the Time When Nineveh\n\n Was Great Metropolis.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 275,
+                "y0": 719,
+                "x1": 1081,
+                "y1": 2937
+            },
+            "class": "article",
+            "raw_text": "There are no stronger advocates for electric lighting in houses than medical men, who say that an immense amount of sickness has been saved since the electric light took the place Of gas in modern houses. There can be 10 doult that in the matter of maintaining the purity of air during incandescence, electricity stands without rival Air is composed of four parts of nitrogen combined with one part of oxygen. The nitrogen, i'll sense, podifies the too active powers of oxygen, which, if undiluted, would make every one in- haling it so excessively energetic that the human framework would speedily be racked to pieces. When eombus tion takes place oxygen is absorbed, and carbon dioxide Ga poisonous gas) is given off The act of breathing pro- duces similar effect, and thus resem- bles the burning of lamp or candle. Air containing as little as 3 per cent of carbon dioxide Is difficult to breathe in, and when it is considered that medium gas burner produces as much of this gas as eight or nine men (about six feet per hour) it naturally follows that air in room so lighted soon be- comes dangerous. Besides carbon di- oxide, there are other impurities in gas, such as sulphurous acid. ammonia, sulphuretted hydrogen, etc, which vary in quantity according 10 the purity of the gas Each has its own deleterious effect on the air and surroundings, ana most of them cause flame to be less luminous. With an electric ineandes- cent lamp there is no combustion. The filament merely becomes ineandescent by reason of its resistance to the pas sage of the current. which is compelled to exert certain amount of energy in travelling through it. This energy is given back by the filament in the form of light, but the whole being hermetic- ally sealed in vaessa there is no ex- halation from | cess of incan- descenee, and 1, 4de air remains unvitiated by it",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 406,
+                "y0": 525,
+                "x1": 939,
+                "y1": 583
+            },
+            "class": "headline",
+            "raw_text": "ELECTRIC LIGHTING.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 269,
+                "y0": 622,
+                "x1": 1076,
+                "y1": 720
+            },
+            "class": "headline",
+            "raw_text": "Much Sickness Prevented by Its sub-\n\n stitution for Gas.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1909,
+                "y0": 3148,
+                "x1": 2704,
+                "y1": 5085
+            },
+            "class": "article",
+            "raw_text": "Day and Night.\n\n Within the next half century afti- f1cial light will be so inexpensive so excellent, and so abundant\" says scientist, that it will wipe out the demarcations of day and night. He continues Darkness is one Of the forces of nature against which eiyiliza- tion wages war. It facilitates crime, it impedes travel, it puts arbitrary 1in- its on human exertion. The time is coming when darkness will be thor oughly conquered and the great cit ies flooded from end to end with a light that will make every vocation Of life as easy and as practicable at one hour as another. In this latitude night is undoubtedly the best time to work especially during the summer. The temperature from sunset to sunrise is cool and equable, there is almost al ways a refreshing breeze, and as soon as darkness is abolished the people will gradually and naturally reverse their hours of toll. I venture the pre- dietion that noon in 1850 will see the streets of our great cities deserted, ex- cept for a few midday roysterers and policemen with sunshades. Respect able folks will be abed and asleep, en- toying that delightful repose which We now associate with an afternoon snooze--something, by the way, that should long ago have given us hint that day was the proper time to rest. Then, when the wonderful incandes- cents of the future blaze forth at dusk, everybody will arise invigorated and alert, and get ready to begin the nights work. It is a beautiful vision. Whenever I conjure it up, could weep for vexation to think that I was born a century too soon.'",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 2063,
+                "y0": 3028,
+                "x1": 2544,
+                "y1": 3074
+            },
+            "class": "headline",
+            "raw_text": "ARTIFICIAL LIGHT.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 1915,
+                "y0": 3096,
+                "x1": 2715,
+                "y1": 3189
+            },
+            "class": "headline",
+            "raw_text": "May Soon Wipe Out the Distinctions of\n\n Day and Night.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1103,
+                "y0": 2759,
+                "x1": 1893,
+                "y1": 4337
+            },
+            "class": "article",
+            "raw_text": "St. Georges church, at the top of Lord street, Liverpool, England, is undergoing demolition, and the work men have just come upon curious relic of by-gone days The church stands on the site of baronfal castle said to have been first built by Roger de Poictiers in 1073. After being used for various purposes, the castle was demolished early last century to make room for the church. While at work the demolishers of the church came upon a large slab in the east aisle, in- mediately under the stained glass Win- dow facing Lord street. The slab be- ing raised disclosed twelve steps cut in rock and leading to platform, and an arched doorway led to another flight of five steps. at the foot of which was a square chamber about fourteen feet in height, also cut in the rock. From this place there is a passage aPpar- ently running in the direction of the river, while marks on the walls sug- gested that the tide flowed in at high water, though the church is on high level and nearly 200 yards from the river. It is supposed that these steps and passages were hewn in the rock to provide an outlet from the castle near the Waterside. and that when the castle was removed it was thought easier to cover the entrance than to fill up the passage Foul air prevented the workmen from explo ing further.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1258,
+                "y0": 2708,
+                "x1": 1733,
+                "y1": 2754
+            },
+            "class": "headline",
+            "raw_text": "Relic of By-gone Days.",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 1103,
+                "y0": 6610,
+                "x1": 1893,
+                "y1": 6851
+            },
+            "class": "article",
+            "raw_text": "A statistician calculates that in the year 2000 there will be ,700.000,O00 people who speak English, and that the other European languages will be spoken by only 50o,o0o,o 1000 people",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 39,
+            "bbox": {
+                "x0": 1183,
+                "y0": 6570,
+                "x1": 1818,
+                "y1": 6605
+            },
+            "class": "headline",
+            "raw_text": "English Language win Spread.",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1109,
+                "y0": 4439,
+                "x1": 1893,
+                "y1": 5565
+            },
+            "class": "article",
+            "raw_text": "An extraordinary story is reported from Komorn, in Hungary. The off, cials of the municipality of Mocsa, il the Komorn Comitat, are accused et having applied torture to persons i'm prisoned on suspicion of theft. It seems that some time ago the safe of the municipality was robbed of nearly 5000 forins. Numerous arrests were made, but the thieves were not discov- cred. It was then that torture was applied to six of the prisoners, among whom are three women. The mayor and councillors were present. Tke pris- oners were thrashed with red-hot iron rods, burning spirit lamps were placed under their bare feet, and the blades of pen knives inserted under their fin ger nails. These barbarous proceed ings did not lead to the desired result, and finally the thief, who was not among the six, confessed his guilt. Strange to say neither the mayor nor the worthy members of the council have yet been suspended.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 1155,
+                "y0": 4387,
+                "x1": 1841,
+                "y1": 4440
+            },
+            "class": "headline",
+            "raw_text": "aArbarous Proceedings h Hungary",
+            "legibility": "Questionable",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1915,
+                "y0": 5193,
+                "x1": 2704,
+                "y1": 5594
+            },
+            "class": "article",
+            "raw_text": "Charles D. Poston, upon whom the Territory of Arizona has just conferred a pension of $25 month, is known as 9The Father of Arizona\" He is the first delegate to Congress from that sec ton. He has been a worldwide tray. eler and is full of stories of China sea pirates and how A~ ~9verned his little KinedQ.le of 1T,",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2069,
+                "y0": 5141,
+                "x1": 2544,
+                "y1": 5182
+            },
+            "class": "headline",
+            "raw_text": "The Father of Arizon ma.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1103,
+                "y0": 5656,
+                "x1": 1887,
+                "y1": 6548
+            },
+            "class": "article",
+            "raw_text": "At Dorchester, Dorset, England, which has proved so rich in ancient Roman relics, another interesting dis covery has just been made. During some excavations on building estate on the confines of the borough, and only few hundred yards from the an eient Roman amphitheater, a splendid specimen of villa pavement has been disclosed. Several similar discoveries have been made of late years, but noth- ing so fine or well preserved has yet been recorded. The pavement is about two feet below the surface and the de- sign is unusually elaborate, while the colcring of the tesserae remains al most as fresh as when laid down The discovery is regarded as of great im- portance. The find will probably be secured for the British museum.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 1183,
+                "y0": 5599,
+                "x1": 1801,
+                "y1": 5645
+            },
+            "class": "headline",
+            "raw_text": "E1cn in Ancient Roman Relies.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 286,
+                "y0": 5421,
+                "x1": 1081,
+                "y1": 6508
+            },
+            "class": "article",
+            "raw_text": "A native Maori chieftain. the des- cendant of cannibal kings, is now com- pleting his medical education in Chi cago. Cannibalism ended in his tribe, he says, when Bishop Selwyn converted his grandfather; but he tells some stories of it which have a distinctly humorous flavor. For instance: It is said that once chief captured mis- sionary who was anything but tooth some morsel, as he was old and thin. and looked as if his flesh would be tough. The missionary warned the chief that he would not make a good dinner. and pulling up his trousers. cut a slice off the calf of his leg and offered it to the chief The chief tast- ed it. said he didn't like 1t, and passed it to 2 suhchief The sub tasted it. made face, and passed it on The an who took a bite of it spat The missionary was re- leasea .ef he had gone 1t was dis covere t he wore q cork leg.\n\n ",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 395,
+                "y0": 5370,
+                "x1": 979,
+                "y1": 5417
+            },
+            "class": "headline",
+            "raw_text": "The MlssionarY,s Little Joker.",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                35,
+                31
+            ],
+            "headline": "\\ Refused Income.",
+            "article": "The Italian government, for twenty seven years, has guaranteed to the pope an annual income of about l50,- 900. which he has steadily refused to accept. The arrears of this annuity amount now to over G4,000,000.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 498,
+                    "y0": 6524,
+                    "x1": 887,
+                    "y1": 6559
+                },
+                {
+                    "x0": 286,
+                    "y0": 6570,
+                    "x1": 1081,
+                    "y1": 6851
+                }
+            ],
+            "bbox": [
+                286,
+                6524,
+                1081,
+                6851
+            ],
+            "full_article_id": 32,
+            "id": "32_1900-01-16_p6_sn89051168_00393343102_1900011601_0359.json"
+        },
+        {
+            "object_ids": [
+                20,
+                19,
+                0
+            ],
+            "headline": "FROZEN FOOD INDUSTRY.\n\nRemarkable Increase In the Business in\n\n the Last Decade.",
+            "article": "From the Indianapolis News: Frozen food plays a part in the English econ omy that we in this country do not re- aIize, although we are all familiar enough with cold storage houses and refrigerator cars. In 1880 London re- ceived it's first consignment of 400 frozen carcasses of Australian sheep. Tn spite of the prejudice against it, the traffic has grown until now there are eighty-eight vessels engaged in the traffic, with a carrying capacity of 6,700, 900 carcasses per annum. A single vessel sometimes lands at London TO- 900 carcasses of frozen mutton. At one wharf 10000 to 12,000 of such Sarcasses are handled daily and one warehouse will hold 250,000 of them; all are from Australia and New Zea- land. Sheep were imported into Aus tralia with the convicts to Botany bay a little more than century ago, and with the small population and the vast plains for grazing, flocks increased go that in 1867 a farmer is recorded who for four months of the year boiled down daily from 1000 to 1,500 sheep for their tallow and until 1880 1t was common in Australia and New Zea- land to kill fiocks of sheep for their hides and tallow, leaving the earcasses to manure the ground, as used to be done with cattle in South America. There is a difference between frozen and chilled meat. The meat that Eng land receives from America is chilled, but that sent from Australia, 13,000 miles away must be frozen. Australia and New Zealand have twenty-two freezing works in operation, whose total capacity is 100000 carcasses per annum. One of the results of the frozen and chilled meat trade is that people are now able to eat fresh meat who half a century ago could only get it as a l,v,7ry Naturally we are less dependent o. such food than England, but the growing use of refrigerator cars and cold storage houses is giving us a variety of diet that was impossible a few years ago.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1966,
+                    "y0": 491,
+                    "x1": 2630,
+                    "y1": 543
+                },
+                {
+                    "x0": 1903,
+                    "y0": 565,
+                    "x1": 2704,
+                    "y1": 658
+                },
+                {
+                    "x0": 1903,
+                    "y0": 668,
+                    "x1": 2704,
+                    "y1": 3023
+                }
+            ],
+            "bbox": [
+                1903,
+                491,
+                2704,
+                3023
+            ],
+            "full_article_id": 1,
+            "id": "1_1900-01-16_p6_sn89051168_00393343102_1900011601_0359.json"
+        },
+        {
+            "object_ids": [
+                21,
+                37,
+                1
+            ],
+            "headline": "OLD IMPERIAL sooYeuARD.\n\nInstitution That Died with the Second\n\n French Empire.",
+            "article": "French Empire.\n\n The Cent Guards founded with the second empire in 1870. The corps dated from the time of the ZCrimean war, when visit from Queen Victoria was expected. The ta1lest and finest look ing men and officers were selected from the cavalry There were 137 of the former and eleven Of the latter, but the number of men was increased to POS. Their function was purely decorative, and they chiefly served within the palace. What sWe1ls the officers were in their sky-blue uniform bedight with golden lace! The corps had regula- tions of their own. They were on no account, when on duty, to stir unless to salute the emperor or empress, and only then when specially ordered. The worst breach of discipline would have been to forget they were to be motion less as caryatides One day Marshal Castellane, vain, old, peppery per- sonage, had occasion to see the em- peror soon after the creation of the Cent Guards. Two of them kept guard beside the door opening from the ante room on the presence chamber. They remained in the regulation attitude that is to say, with the right arm hori- zontally stretched out and holding musket by the bayonet. The butt end rested on the ground. The marshal was in uniform. Furious at not being saluted he asked the one nearest to him what 1t meant The Cent Guard seemed neither to see nor hear. Cas- tellane lost self-restraint and abused him. Still the soldier remained inn passive The irate marshal sent for Col. Verley to complain. The colonel failed to make him understand that approval and not ehastisement was due. Thus the matter was brought be- fore the emperor, who gave the com plainant sharp rap on the knuckles by expressing his pleasure at the Spartan attitude of household guard who was bound to ignore every rank but the imperial.-London Truth.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 321,
+                    "y0": 2976,
+                    "x1": 1041,
+                    "y1": 3034
+                },
+                {
+                    "x0": 286,
+                    "y0": 3050,
+                    "x1": 1076,
+                    "y1": 3143
+                },
+                {
+                    "x0": 275,
+                    "y0": 3113,
+                    "x1": 1081,
+                    "y1": 5342
+                }
+            ],
+            "bbox": [
+                275,
+                2976,
+                1081,
+                5342
+            ],
+            "full_article_id": 2,
+            "id": "2_1900-01-16_p6_sn89051168_00393343102_1900011601_0359.json"
+        },
+        {
+            "object_ids": [
+                23,
+                16,
+                2
+            ],
+            "headline": "CHINESE HISTORY IS ANCIENT.\n\nDates Hack to the Time When Nineveh\n\n Was Great Metropolis.",
+            "article": "The authentic history and biography If China is doubtless the oldest in the world, even antedating that of the Jews. Those familiar with it's chro- nology state that it embraces 9 period\n\n ae year 122 of our era back to\n\n e period of 2,697 years before CA4 The historians of China em- bra succession of uninterrupted seri1s Of more than 2,400 years. The full and continuous history of the em- pire was compiled in the second cen tury of our era. The great libraries of Pekin contain volumes of books numbered by the hundreds of thou sands. In the archives of the govern meut are still to be found the ancient predictions of eclipses made with great accuracy, together with works on as- tronomy which show a fair knowledge of that interesting science. Biogra- phies, very succinctly written, Of the emperors of the most ancient dynas- ties still e1 1ist, and written works ot learned men are as yoluminous as those of European nations. And all this learning and love of learning has been acquired without help or sugges- tion from any foreign people. II thelr authentic histories reach back nearly five centuries ago, mythical history reaches still further back into the very night of time. When Nineveh and Babylon were in the splendor of their might men in China were pre- dieting eclipses, making catalogues and giving names to the stars. But Nineveh and Babylon were mere mounds of earth and rubbish when China was great, and to this date the civilization and life of the empire ara the wonder of the world.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1092,
+                    "y0": 531,
+                    "x1": 1876,
+                    "y1": 595
+                },
+                {
+                    "x0": 1092,
+                    "y0": 611,
+                    "x1": 1881,
+                    "y1": 703
+                },
+                {
+                    "x0": 1092,
+                    "y0": 708,
+                    "x1": 1887,
+                    "y1": 2680
+                }
+            ],
+            "bbox": [
+                1092,
+                531,
+                1887,
+                2680
+            ],
+            "full_article_id": 3,
+            "id": "3_1900-01-16_p6_sn89051168_00393343102_1900011601_0359.json"
+        },
+        {
+            "object_ids": [
+                17,
+                28,
+                3
+            ],
+            "headline": "ELECTRIC LIGHTING.\n\nMuch Sickness Prevented by Its sub-\n\n stitution for Gas.",
+            "article": "There are no stronger advocates for electric lighting in houses than medical men, who say that an immense amount of sickness has been saved since the electric light took the place Of gas in modern houses. There can be 10 doult that in the matter of maintaining the purity of air during incandescence, electricity stands without rival Air is composed of four parts of nitrogen combined with one part of oxygen. The nitrogen, i'll sense, podifies the too active powers of oxygen, which, if undiluted, would make every one in- haling it so excessively energetic that the human framework would speedily be racked to pieces. When eombus tion takes place oxygen is absorbed, and carbon dioxide Ga poisonous gas) is given off The act of breathing pro- duces similar effect, and thus resem- bles the burning of lamp or candle. Air containing as little as 3 per cent of carbon dioxide Is difficult to breathe in, and when it is considered that medium gas burner produces as much of this gas as eight or nine men (about six feet per hour) it naturally follows that air in room so lighted soon be- comes dangerous. Besides carbon di- oxide, there are other impurities in gas, such as sulphurous acid. ammonia, sulphuretted hydrogen, etc, which vary in quantity according 10 the purity of the gas Each has its own deleterious effect on the air and surroundings, ana most of them cause flame to be less luminous. With an electric ineandes- cent lamp there is no combustion. The filament merely becomes ineandescent by reason of its resistance to the pas sage of the current. which is compelled to exert certain amount of energy in travelling through it. This energy is given back by the filament in the form of light, but the whole being hermetic- ally sealed in vaessa there is no ex- halation from | cess of incan- descenee, and 1, 4de air remains unvitiated by it",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 406,
+                    "y0": 525,
+                    "x1": 939,
+                    "y1": 583
+                },
+                {
+                    "x0": 269,
+                    "y0": 622,
+                    "x1": 1076,
+                    "y1": 720
+                },
+                {
+                    "x0": 275,
+                    "y0": 719,
+                    "x1": 1081,
+                    "y1": 2937
+                }
+            ],
+            "bbox": [
+                269,
+                525,
+                1081,
+                2937
+            ],
+            "full_article_id": 4,
+            "id": "4_1900-01-16_p6_sn89051168_00393343102_1900011601_0359.json"
+        },
+        {
+            "object_ids": [
+                25,
+                38,
+                4
+            ],
+            "headline": "ARTIFICIAL LIGHT.\n\nMay Soon Wipe Out the Distinctions of\n\n Day and Night.",
+            "article": "Day and Night.\n\n Within the next half century afti- f1cial light will be so inexpensive so excellent, and so abundant\" says scientist, that it will wipe out the demarcations of day and night. He continues Darkness is one Of the forces of nature against which eiyiliza- tion wages war. It facilitates crime, it impedes travel, it puts arbitrary 1in- its on human exertion. The time is coming when darkness will be thor oughly conquered and the great cit ies flooded from end to end with a light that will make every vocation Of life as easy and as practicable at one hour as another. In this latitude night is undoubtedly the best time to work especially during the summer. The temperature from sunset to sunrise is cool and equable, there is almost al ways a refreshing breeze, and as soon as darkness is abolished the people will gradually and naturally reverse their hours of toll. I venture the pre- dietion that noon in 1850 will see the streets of our great cities deserted, ex- cept for a few midday roysterers and policemen with sunshades. Respect able folks will be abed and asleep, en- toying that delightful repose which We now associate with an afternoon snooze--something, by the way, that should long ago have given us hint that day was the proper time to rest. Then, when the wonderful incandes- cents of the future blaze forth at dusk, everybody will arise invigorated and alert, and get ready to begin the nights work. It is a beautiful vision. Whenever I conjure it up, could weep for vexation to think that I was born a century too soon.'",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2063,
+                    "y0": 3028,
+                    "x1": 2544,
+                    "y1": 3074
+                },
+                {
+                    "x0": 1915,
+                    "y0": 3096,
+                    "x1": 2715,
+                    "y1": 3189
+                },
+                {
+                    "x0": 1909,
+                    "y0": 3148,
+                    "x1": 2704,
+                    "y1": 5085
+                }
+            ],
+            "bbox": [
+                1909,
+                3028,
+                2715,
+                5085
+            ],
+            "full_article_id": 5,
+            "id": "5_1900-01-16_p6_sn89051168_00393343102_1900011601_0359.json"
+        },
+        {
+            "object_ids": [
+                26,
+                5
+            ],
+            "headline": "Relic of By-gone Days.",
+            "article": "St. Georges church, at the top of Lord street, Liverpool, England, is undergoing demolition, and the work men have just come upon curious relic of by-gone days The church stands on the site of baronfal castle said to have been first built by Roger de Poictiers in 1073. After being used for various purposes, the castle was demolished early last century to make room for the church. While at work the demolishers of the church came upon a large slab in the east aisle, in- mediately under the stained glass Win- dow facing Lord street. The slab be- ing raised disclosed twelve steps cut in rock and leading to platform, and an arched doorway led to another flight of five steps. at the foot of which was a square chamber about fourteen feet in height, also cut in the rock. From this place there is a passage aPpar- ently running in the direction of the river, while marks on the walls sug- gested that the tide flowed in at high water, though the church is on high level and nearly 200 yards from the river. It is supposed that these steps and passages were hewn in the rock to provide an outlet from the castle near the Waterside. and that when the castle was removed it was thought easier to cover the entrance than to fill up the passage Foul air prevented the workmen from explo ing further.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1258,
+                    "y0": 2708,
+                    "x1": 1733,
+                    "y1": 2754
+                },
+                {
+                    "x0": 1103,
+                    "y0": 2759,
+                    "x1": 1893,
+                    "y1": 4337
+                }
+            ],
+            "bbox": [
+                1103,
+                2708,
+                1893,
+                4337
+            ],
+            "full_article_id": 6,
+            "id": "6_1900-01-16_p6_sn89051168_00393343102_1900011601_0359.json"
+        },
+        {
+            "object_ids": [
+                39,
+                32
+            ],
+            "headline": "English Language win Spread.",
+            "article": "A statistician calculates that in the year 2000 there will be ,700.000,O00 people who speak English, and that the other European languages will be spoken by only 50o,o0o,o 1000 people",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1183,
+                    "y0": 6570,
+                    "x1": 1818,
+                    "y1": 6605
+                },
+                {
+                    "x0": 1103,
+                    "y0": 6610,
+                    "x1": 1893,
+                    "y1": 6851
+                }
+            ],
+            "bbox": [
+                1103,
+                6570,
+                1893,
+                6851
+            ],
+            "full_article_id": 33,
+            "id": "33_1900-01-16_p6_sn89051168_00393343102_1900011601_0359.json"
+        },
+        {
+            "object_ids": [
+                27,
+                11
+            ],
+            "headline": "aArbarous Proceedings h Hungary",
+            "article": "An extraordinary story is reported from Komorn, in Hungary. The off, cials of the municipality of Mocsa, il the Komorn Comitat, are accused et having applied torture to persons i'm prisoned on suspicion of theft. It seems that some time ago the safe of the municipality was robbed of nearly 5000 forins. Numerous arrests were made, but the thieves were not discov- cred. It was then that torture was applied to six of the prisoners, among whom are three women. The mayor and councillors were present. Tke pris- oners were thrashed with red-hot iron rods, burning spirit lamps were placed under their bare feet, and the blades of pen knives inserted under their fin ger nails. These barbarous proceed ings did not lead to the desired result, and finally the thief, who was not among the six, confessed his guilt. Strange to say neither the mayor nor the worthy members of the council have yet been suspended.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1155,
+                    "y0": 4387,
+                    "x1": 1841,
+                    "y1": 4440
+                },
+                {
+                    "x0": 1109,
+                    "y0": 4439,
+                    "x1": 1893,
+                    "y1": 5565
+                }
+            ],
+            "bbox": [
+                1109,
+                4387,
+                1893,
+                5565
+            ],
+            "full_article_id": 12,
+            "id": "12_1900-01-16_p6_sn89051168_00393343102_1900011601_0359.json"
+        },
+        {
+            "object_ids": [
+                18,
+                12
+            ],
+            "headline": "The Father of Arizon ma.",
+            "article": "Charles D. Poston, upon whom the Territory of Arizona has just conferred a pension of $25 month, is known as 9The Father of Arizona\" He is the first delegate to Congress from that sec ton. He has been a worldwide tray. eler and is full of stories of China sea pirates and how A~ ~9verned his little KinedQ.le of 1T,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2069,
+                    "y0": 5141,
+                    "x1": 2544,
+                    "y1": 5182
+                },
+                {
+                    "x0": 1915,
+                    "y0": 5193,
+                    "x1": 2704,
+                    "y1": 5594
+                }
+            ],
+            "bbox": [
+                1915,
+                5141,
+                2704,
+                5594
+            ],
+            "full_article_id": 13,
+            "id": "13_1900-01-16_p6_sn89051168_00393343102_1900011601_0359.json"
+        },
+        {
+            "object_ids": [
+                24,
+                22
+            ],
+            "headline": "E1cn in Ancient Roman Relies.",
+            "article": "At Dorchester, Dorset, England, which has proved so rich in ancient Roman relics, another interesting dis covery has just been made. During some excavations on building estate on the confines of the borough, and only few hundred yards from the an eient Roman amphitheater, a splendid specimen of villa pavement has been disclosed. Several similar discoveries have been made of late years, but noth- ing so fine or well preserved has yet been recorded. The pavement is about two feet below the surface and the de- sign is unusually elaborate, while the colcring of the tesserae remains al most as fresh as when laid down The discovery is regarded as of great im- portance. The find will probably be secured for the British museum.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1183,
+                    "y0": 5599,
+                    "x1": 1801,
+                    "y1": 5645
+                },
+                {
+                    "x0": 1103,
+                    "y0": 5656,
+                    "x1": 1887,
+                    "y1": 6548
+                }
+            ],
+            "bbox": [
+                1103,
+                5599,
+                1887,
+                6548
+            ],
+            "full_article_id": 23,
+            "id": "23_1900-01-16_p6_sn89051168_00393343102_1900011601_0359.json"
+        },
+        {
+            "object_ids": [
+                36,
+                29
+            ],
+            "headline": "The MlssionarY,s Little Joker.",
+            "article": "A native Maori chieftain. the des- cendant of cannibal kings, is now com- pleting his medical education in Chi cago. Cannibalism ended in his tribe, he says, when Bishop Selwyn converted his grandfather; but he tells some stories of it which have a distinctly humorous flavor. For instance: It is said that once chief captured mis- sionary who was anything but tooth some morsel, as he was old and thin. and looked as if his flesh would be tough. The missionary warned the chief that he would not make a good dinner. and pulling up his trousers. cut a slice off the calf of his leg and offered it to the chief The chief tast- ed it. said he didn't like 1t, and passed it to 2 suhchief The sub tasted it. made face, and passed it on The an who took a bite of it spat The missionary was re- leasea .ef he had gone 1t was dis covere t he wore q cork leg.\n\n ",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 395,
+                    "y0": 5370,
+                    "x1": 979,
+                    "y1": 5417
+                },
+                {
+                    "x0": 286,
+                    "y0": 5421,
+                    "x1": 1081,
+                    "y1": 6508
+                }
+            ],
+            "bbox": [
+                286,
+                5370,
+                1081,
+                6508
+            ],
+            "full_article_id": 30,
+            "id": "30_1900-01-16_p6_sn89051168_00393343102_1900011601_0359.json"
+        }
+    ]
+}

@@ -1,0 +1,2225 @@
+{
+    "lccn": {
+        "title": "New-York tribune.",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "1941-0646",
+        "lccn": "sn83030214",
+        "start_year": "1866",
+        "end_year": "1924",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn83030213",
+            "sn83030352"
+        ],
+        "successors": [
+            "sn83030215",
+            "sn83045774"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83030214",
+        "edition": "ed-01",
+        "date": "1900-09-30",
+        "pages": [
+            "seq-32",
+            "seq-14",
+            "seq-45",
+            "seq-20",
+            "seq-8",
+            "seq-30",
+            "seq-24",
+            "seq-4",
+            "seq-18",
+            "seq-23",
+            "seq-43",
+            "seq-17",
+            "seq-15",
+            "seq-42",
+            "seq-37",
+            "seq-44",
+            "seq-16",
+            "seq-13",
+            "seq-1",
+            "seq-19",
+            "seq-26",
+            "seq-31",
+            "seq-9",
+            "seq-38",
+            "seq-7",
+            "seq-25",
+            "seq-11",
+            "seq-28",
+            "seq-36",
+            "seq-41",
+            "seq-27",
+            "seq-12",
+            "seq-5",
+            "seq-21",
+            "seq-6",
+            "seq-39",
+            "seq-35",
+            "seq-34",
+            "seq-46",
+            "seq-29",
+            "seq-40",
+            "seq-33",
+            "seq-22",
+            "seq-3",
+            "seq-2",
+            "seq-10"
+        ]
+    },
+    "page_number": "3",
+    "scan": {
+        "lccn": "sn83030214",
+        "edition": "ed-01",
+        "date": "1900-09-30",
+        "page": "3",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83030214/1900-09-30/ed-1/seq-3.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83030214/1900-09-30/ed-1/seq-3/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83030214/1900-09-30/ed-1/seq-3/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/dlc_kenya_ver01/data/sn83030214/00175040912/1900093001/0558.jp2",
+        "height": 8866,
+        "width": 6409
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 4264,
+                "y0": 3103,
+                "x1": 5262,
+                "y1": 4648
+            },
+            "class": "article",
+            "raw_text": "TO SHIP GRAIN FROM QUEBEC.\nTHE GREAT NORTHERN RAILWAY WILL con-\n\n\nMeet THAT CITY WITH LAKE GRAIN BOATS.\n\n\nMontreal Sept 20 (SpeciaD.-The Great Northern\nRailway is all but completed. and will within\na month take It's place as of the great grain\ncarrying roads Of Canada This road. starting\nfrom Quebec, runs in a southwesterly direction to\nHawkesbury, Ontario, where It joins the Canada\nAtlantic system. which to Parry Sound on\nthe Georgian Bay and has in connection with 1t\na fleet Of grain boats on the upper Great Lakes.\nThe great bridge over the Ottawa River is not\nyet altogether completed. but trains will be able\nto cross by the middle of October. and the line\nwill then be formally opened to traffic. In order\nrailway has built a million bushel elevator at\nQuebec.\n\n\nThe company thinks that Quebec and not Mon\ntreal is the natural outlet for the ST. Lawrence\nroute and with a view of doing business with\nbarges that may have passed Montreal has added\na marine tower that can transship wheat either\ninto the elevator or an ocean steamer at the rate\nof 1900 bushels an hour. The company has made\nan arrangement with leading English steamship\nservice to Great Britain. Large vessels are 70\nbe used. Steamships to carry this seasons grain\nhave also been contracted for. The Great North\nern will also build spur from toilette into Mon\ntreal. a distance of rhirty-stX miles The chieI\ndifficulty in the way of doing this is the necessity\nof bridging the river but II is promised that the\nroad will be running into Montreal In a year\ntime.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 4416,
+                "y0": 2950,
+                "x1": 5110,
+                "y1": 3027
+            },
+            "class": "headline",
+            "raw_text": "RAILROAD INTERESTS.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 81,
+            "bbox": {
+                "x0": 4291,
+                "y0": 3082,
+                "x1": 5228,
+                "y1": 3187
+            },
+            "class": "headline",
+            "raw_text": "TO SHIP GRAIN FROM QUEBEC.\nTHE GREAT NORTHERN RAILWAY WILL, CO.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2200,
+                "y0": 6788,
+                "x1": 3205,
+                "y1": 7779
+            },
+            "class": "article",
+            "raw_text": "Washington, Sept. % (SpeciaD.-The Treasury\nDepartment to-day exonerated Gilbert Taylor, a\nmessenger and watchman at the NewYork Barge\nOffice who charged among other with scan\ndalous conduct. Commissioner Fitchie having\nfound no grounds for his dismissal The In\nvestgating Committee which examined the affairs\nof the Barge Office specifically stated in its report\nthat 1t believed ''the success of any recommended\ntions 1t could make that could be made. having\nfor their purpose a correct administration of the\nBarge Office would be dependent upon the dis\nmissal of the present Assistant Commissioner. Ed\nward F. McSweeney and the other officials dn-\ncludng Taylor. who had accepted bribes been\nguilty Of brutality to women etc.\n\n\nMcSweeney has not been officially informed OF\nthe committees findings concerning his alleged\ndisgraceful actions. Molthan. who not men\ntoned in the report being among those who\nshould be dismissed, dropped last Saturday\nThe officials do consider the recommendation\nof the Investigation Committee final but are\ndisposed to remove some employees and exonerate\nothers regardless OF the report. Assistant Secre-\ntary Taylor said to-day that in about week de-\ncisions will be made concerning all the employees",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 57,
+            "bbox": {
+                "x0": 2207,
+                "y0": 6725,
+                "x1": 3198,
+                "y1": 6782
+            },
+            "class": "headline",
+            "raw_text": "BARGE OFFICE W4TCHmAN ExONERATED",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1175,
+                "y0": 263,
+                "x1": 2187,
+                "y1": 1171
+            },
+            "class": "article",
+            "raw_text": "~ ~aaener ana mother both We're dead. You would\nSlo\" up hungry and dirty. The few clothes you\ntice \" ~oulu @ oe shabby. The most frequent prac\nuce OF your guardians and superiors would per\nmaps oe tnat of deceit And when you got a lit\nHe oluer instead of having green fields to play\nIII ana innocent and happy companions or in\noetesuhg animal pets, as do many country boys;\nNhaI II you had the same old monotonous sur\nIouIhulhss' the same old smells, the same old\nn,UiSes-Woulont you get desperately tired of II\nal ana suppose little later you earned few\ncents day, and, not having any better place\n10 CO. you visited some of these East Side candy\nstores, where soda water and cigarettes are so\ncheap. If you were invited into the back room\nOF some or them and asked to shoot craps\"\nWIN other boys wouldn't you, with nothing bet\nTer to DO. and nothing to prevent you, probably\ntake hand in It?\n\n\nand then a little later, when the candy shop\ngrew 10 be an old story and you earned more\nmoney ana had your evenings to yourself\nwouldn't you go TO the saloon with other young",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 75,
+            "bbox": {
+                "x0": 1923,
+                "y0": 138,
+                "x1": 4486,
+                "y1": 236
+            },
+            "class": "headline",
+            "raw_text": "YORK DAILY TRIBUNE. SUNDAY. SEPTEMBER 1900.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2214,
+                "y0": 270,
+                "x1": 3219,
+                "y1": 1095
+            },
+            "class": "article",
+            "raw_text": "was looked upon as common disturber by\nCaptain Herlihy when he requested action from\nthe police that would have been construed as\nhostility to the disorderly elements. These\nwomen had paid their dues to the police, and by\na crude and mighty dangerous sense OF honor\ncertain police officials consider that they ought\nto have something in return for their money.\nMr.. Paddock appeared on the scene as dis\nturber. Hence his treatment. Herlihy is not so\nmuch to blame for his hostility to Mr.. Paddock\nand his friends as most people too hastily as\nsumo He's got his orders. and, as they say In\npolice circles. he knows his book\" The trou-\nBILE is higher up in the Police Department.\nhave no sympathy for those who say that poll\ntics ought to be kept out of this agitation for\nthe rights of the poor against their oppressors.\npolitical machine is directly back Of the police\nofficials who directing the control of the rank\nand file. Until the political machine is routed,\nthere will be no change.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2214,
+                "y0": 1489,
+                "x1": 3226,
+                "y1": 2529
+            },
+            "class": "article",
+            "raw_text": "The announcement in The Tribune that a plan\nof merger of the Big Four (the Cleveland, Cincin-\nnatl, Chicago and St Lous) Railway Company\nwith the New-York Central had been drafted. and\nwas under consideration by William K. Wander\nbilt and J. Pierpont Morgan, was accepted by\nWall Street yesterday accurate, although no\nformal confirmation from any official source devel-\noped. While the New-York Central has controlled\nthe Big Four for nearly year, the belief has\nbeen general that it would before long follow the\ncourse which it had adopted with the Lake Shore\nthe Michigan Central and the West Shore, and IN\ncrease its holdings of Big Four stock to an amount\nwhich would cradle 1t readily to merge the Big\nFour with the New-York Central system.\n\n\nIn the last fortnight there has been unusual\nactivity in the stock, about 10000 shares OF the\ncommon having changed hands, and in the last\nweek the common stock has made q net advance Of\nthree points, the close yesterday having been at\n81 and the preferred has advanced 32 points, clos\ning at 1101a-fgures which indicate to the mind Of\nWall Street that something is up; that somebody\nis acquiring the stock for a purpose. The Big\nFour. which has termini at Sandusky and Cleve-",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 42,
+            "bbox": {
+                "x0": 2262,
+                "y0": 1122,
+                "x1": 3163,
+                "y1": 1213
+            },
+            "class": "headline",
+            "raw_text": "BELTETED IN WALL STREET.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 2220,
+                "y0": 1267,
+                "x1": 3219,
+                "y1": 1462
+            },
+            "class": "headline",
+            "raw_text": "PLAN OF MERGER OF THE BIG FOUR AND\nTHE NETWORK CENTRAL EX-\n\n\nCITES INTEREST.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 4264,
+                "y0": 7058,
+                "x1": 5269,
+                "y1": 8236
+            },
+            "class": "article",
+            "raw_text": "Fort Worth, Tex. Sept. 29.-Trinity River con-\ntnued to rise yesterday and last night. The depth\nhere IS thirty-hve feet The waters now reach out\nover mile In the valley. inundating the entire\nbottoms. Many valuable farms have been ruined\nand crops destroyed. The Rock Island bridge over\nWestfork. Newark has been washed away.\n\n\nMuch of the Cotton Belt railroad track has been\ncarried away. The Cotton Belt station is sur\nrounded with water three four feet deep. and all\nbusiness is suspended temporarily. trains canot\nget into the yards within mile OF them.\n\n\nThe waters have interfered with the running OF\ntrains and streetcars in the city Service over the\nNorth Side streetcar lines has been abandoned. II\nhas been many years since the waters OF the Trim\nity have reached such high stage\n\n\nAs vet loss OF life has been reported. but IL Is\nbelieved that possibly some people have perished\nbelow this city In the Trinity River bottoms from\nthe unprecedented overflow The people below here\nwere not informed of the great rise they were\nat this point The damage TO farms along the\nriver Will be very great. and possibly the loss will\nreach 100000\n\n\nLast night water surrounding the waterworks sta\ntion three feet deep. II the flood continues to\nrise damage 20 the waterworks cannot be averted.\nThe family OF Captain Samuel Evans were saved\nfrom the swollen stream by friends who went TO\nthem with rOwboat- There have been several\nother narrow escapes.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 4326,
+                "y0": 6781,
+                "x1": 5207,
+                "y1": 6858
+            },
+            "class": "headline",
+            "raw_text": "HIGH WATER IN TRINITY RIVER.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 39,
+            "bbox": {
+                "x0": 4271,
+                "y0": 6912,
+                "x1": 5269,
+                "y1": 7038
+            },
+            "class": "headline",
+            "raw_text": "MUCH DAMAGE DONE BY THE FLoOD-Loss OF\n\n\nLIFE FEARED.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3232,
+                "y0": 6019,
+                "x1": 4237,
+                "y1": 6664
+            },
+            "class": "article",
+            "raw_text": "Norfolk Va Sept. 29-The United States Light\nhouse Board has given notice that 1t will establish\nlight vessel No. Il at the tail of the horseshoe.\nThe vessel will be placed in position or about\nOctober II It Will be established in about five\nand a half fathOms of water approximately In the\nposition now occupied by Junction bell buoy. to\nseaward of the southeasterly end of the tail of the\nhorseshoe in the entrance to Chesapeake Bay\nand at the junction of the main ship channel up\nthe bay with the channel to Hampton Roads. The\nvessel will show two fixed white lights, one from\neach masthead and each produced by three lens\nlanters encircling the masthead. The focal plane\nof each light will be ffty-six feet above the sea-\nand the lights will be visible thirteen miles in clear\nweather the observers eye fifteen feet above the\n",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 55,
+            "bbox": {
+                "x0": 3239,
+                "y0": 5942,
+                "x1": 4230,
+                "y1": 5999
+            },
+            "class": "headline",
+            "raw_text": "NEW LIGHT AT CHESAPEAKE ENTRANCE",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1154,
+                "y0": 4640,
+                "x1": 2187,
+                "y1": 8707
+            },
+            "class": "article",
+            "raw_text": "men whom you liked? That is wherein the\nsaloon-the jokes are cracked and the stories\nare told and the news is exchanged\n\n\nAnd after the saloon habit got fastened\nyou. wouldn't you be likely to choose female\nI society plane with 1t? And after you drank\ntoo hard and life became desperate and souless,\nand the prospect of State prison or hell itself\nceased to startle or worry you and some early\nmorning YOU saw a richly dressed man reeling\nalong your block, wouldn't you take a chance\nthe penitentiary term and get his money.\nwhether you had to knock him in the head or\nnot? Just likely not you would. 1t would\nbe entirely natural and logical. That is why the\ncitizen in luxurious circumstances should be-\ncome interested in the work here-not necessa-\nry the work of this particular parish, but mis-\nsion work in this city.\n\n\nThere is really little opportunity for a small\nboy to let off his surplus steam to use hgure\nHe cannot do much of anything to have any\nfun. He ought to be forgiven when he engages\nin a street fight with another urchin or tips\nover a pushcart. The country boy would take\nIt out in climbing trees playing with his dog or\nrunning and jumping with his schoolmates II\nthe boys and girls TO be made into good men\nand women they must have something new to\ndo The dreary and harmful things which oc-\ncupy their minds now must be expelled with\nsomething which they will love better\n\n\nGYMNASIUM A BENEFICENT AGENCY.\n\n\nOur gymnasium here is a great help. 1t is\nopen every night for boys and girls and men.\nand in the afternoon it is open for the boys who\ndo not work during the day. The boys have\nhorizontal bars, dumbbells. CLUBS boxing gloves\nand shower baths. These things give them\nchange, and when they are exercising 1t gives\nthe clergymen and assistants an opportunity to\nget at them and to talk TO them on temperance\nand purity, and those things which tend direct\n\" TO make the body stronger and the eye ana\nmuscle quicker The gymnasium is among the\nmost powerful forces for the betterment OF\nsocial conditions. It gives the boys and girls\na chance, if you will pardon the expression, to\nget tired legitimately. that afterward sleep\nwill be wholesome and the mind will be COM\nposed We do not allow boxing to go to brutal\nextent Boxing is helpful, because it teaches the\nboys TO control their tempers and to remember\nthat others are just as skilful as themselves. 1t\nwould pay the city in the long run 10 estaolls9\nrunning tracks and baseball grounds all around\nthe East Side. If. when feeling nervous and\ndiscouraged our East Side boys could run\naround the tanbark or jump into plunge bath\ninstead of going to a saloon and filling up with\nwhiskey, the future citizen would be a gooo\ndeal better off We have a cadet corps of about\neeyantv-6Z,e members. drilled by 7th Regiment\ncaptain who loves the work While they are\ntaught to handle guns. stand straight and\nobey orders they also taught to love the\nnag TO take pride in civic honesty and TO re-\nspect women.\n\n\nAS a result Of certain Investigations made in\nthe last six months. mission workers on the\nFast Side have been compelled TO take notice\nOF the fact that the conditions which became\n,,rbearable in 1893 and 1894. preceding the\nI,exow investigation, are fully as bad now. and\nthat the prevalence Of vice, with the knowledge,\n~ not with the promotion. of officers of the law\nis spreading from its old strongholds into new\nlocalities\n\n\nThere was a llIIle \"HCl <AilclI-S'' 'A4OA40 \"'~N\nnv common consent called the bailiwick of disor-\nderly women. Other streets were known to\nbarbor them, but, generally speaking they re-\nuained in Allen-st. Now there are other streets\nlust as bad as Alen-st. Some OF them are\nChrystie Forsyth Delaney, First Second\nThird Fourth. Eighth and Ninth SITS. Second\nave between Fourteenth-st, and StuyVesant\nSquare, and East Houston-st.\n\n\nAS matter of fact. the Twelfth and Fiji\nteenth precincts are besprinkled with these un-\nfcrtunates. and the old system Of assessing them\nfor police protection is known to be in full\nswing\n\n\nTHE OLD PROTECTION\" SYSTEM\n\n\nA man interested in the University Settlement\nwork said TO a Tribune reporter yesterday:\n\n\nThe old system of protection to vice in all its\nresponsiveness and wickedness is in complete\noneration again. and that is why Mr.. Paddock",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 73,
+            "bbox": {
+                "x0": 960,
+                "y0": 4495,
+                "x1": 2270,
+                "y1": 4579
+            },
+            "class": "headline",
+            "raw_text": "GYMNASIUM OF THE PRO-cATHEDRAL",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3252,
+                "y0": 1440,
+                "x1": 4244,
+                "y1": 2390
+            },
+            "class": "article",
+            "raw_text": "SPENT HIS TIME IN ENGLAND-TALKs OF\n\n\nTHE MOLINEUX CASE\n\n\nJudge John Clinton Gray. of the New-York State\nCourt of Appeals. arrived here yesterday from\nSouthampton the American Line steamer St\nLouis He went abroad early in June partly on ac-\ncount of Ill health. He spent the entire time in\nEngland. The Paris Exposition. he said yesterday\ndid not attract him, because he heard so many\nexpressions of disappointment regarding 1t from\nthose who did attend It,\n\n\nAS he left the steamer a reporter asked him\nabout the progress of the Molineux case\n\n\nThis case\" he said, will be a very wearyine\none to try. because the Judge is Obliged to base\nms decision upon his construction of the facts as\nwell as OF the questions of law. This means to a\nconscientious judge that the entire testimony must\nbe gone over. Until few years ago. when law\nwas passed requiring 1t, the Court of Appeals was\n,6 no1 expected to pass upon the question of fact\nJudge Gray 1880",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 43,
+            "bbox": {
+                "x0": 3287,
+                "y0": 1309,
+                "x1": 4216,
+                "y1": 1386
+            },
+            "class": "headline",
+            "raw_text": "JUDGE GRAY RETURNS HOME.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 94,
+                "y0": 4640,
+                "x1": 1134,
+                "y1": 8749
+            },
+            "class": "article",
+            "raw_text": "ously when he takes up the task OF clearing the\nmission field occupied by the parish OF the Pro-\nCathedral Of illegitimate and uncalled for OBJ\nstructions there is little doubt in the minds of\nthose who possess the Bishops confidence.\n\n\nIn 1895 Bishop Potter spent a month Of his\nannual vacation at the Pro-Cathedral, work\ning among the people Of the tenements At the\nend OF that time his labor had become so fasci-\nmating to him that he went back to his ac-\ncustorned tasks with considerable reluctance.\nSince then he has more than once expressed a\ndesire 70 engage again in practical day by day\nmission work al the Stanton-st- church.\n\n\nThe resolution adopted by the Diocesan Con-\nvention directing Bishop Potter TO investigate\nthe alleged indignities offered by the police TO\nthe Rev. Robert L. Paddock, who merely asked\nthe police to DO their duty. has aroused wide\nspread interest in the city and is causing a\ngreat deal Of uneasiness at Police Headquarters.\nThe suggestion was made yesterday that Rich\nard Croker was anxious to get rid Of Chief\nDevery. and that if Bishop Potter made serious\ncharges against Inspector Cross Devery would\nbe promptly retired for not keeping things in\nbetter shape in the Department Cross's friends\nsay that ne will remain in the Department with\nout doubt as he is in line for promotion to the\nOffice Of Chief\n\n\nPresident York Of the Police Board said yes\nterdsy that he understood that the entire trouble\ncame from the alleged insult offered the Rev.\nMr Paddock by Captain Herlihy. He asserted\nthat he was going to investigate the circum-\nstances and If It was found that Herlihy in\nsuited Ny. Paddock he would compel Herhy\n10 apologize or take action against him. In\nspector Cross's friends said yesterday that he\nwas going TO try 10 see Bishop Potter personally\nand smooth over the matter, that he, Cross\nwould not appear in his present bad light\n\n\nCROSS SEES YORK.\n\n\nInspector Cross was closeted with President\nYork yesterday afternoon for two hours, talking\nabout the charges made against him and cap\ntain Herlihy. After the consultation President\nYork was asked II any action would be taken\nbv the Board and he said he did not know.\n\n\nThe whole matter now rests with Bishop\nPotter\" he said and until we hear from him\nnothing viii be done. am certain he VIII be\nfair in the matter and any report he makes or\nany complaint will doubtless be a just one\n\n\nMr. Paddock meanwhile is quietly doing his\naccustomed work among the tenement mousse\npeople in and Stanton-st- He Is son OF\nthe late Bishop John A Paddock. Of Washing\nton State, and has been attached to the FRO\nCathedral for the last two years. IN that time\nhe has become acquainted with the social con-\nditions Of the neighborhood and when he says\nthat the tendency seems to be downward IN\nstead Of upward, and that the police instead OF\nassisting IN the amelioration OF the conullionS\nthere deliberately and Systematically oostruct\nand retard the work he speaks with positive\nknowledge.\n\n\nSpeaking Of the conditions on the East Slde\nyesterday. Mr.. Paddock said:\n\n\nThe work here certainly merits the earnest\nconsideration Of thoughtful men interested IN\nthe welfare Of the city. There is a growing uIi-\nrest The conditions well calculated 10\nbreed anarchy and eventual violence. one uoes\nnot need 70 be an alarmist to see the pIiLom9 pI\nahead. We need encouragement from SUI stIVHs -\nmen The rich men Of the city who mo II\ndfficult TO interest their in business en-\nterprises should encourage some or theh 70\ncome over here and take part in our extremely\ninteresting work There ought TO be a coiiese\nor university settlement on every BLOCK\n\n\nA PICTURE OF EAST SIDE CONDITIONS.\n\n\nTurning to a reporter. the young rector SAID\nwith more than usual gravity and earnestness:\n\n\nSuppose that you were the child Of drunkaro.\nhere in this tenement district, or that your",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3239,
+                "y0": 5361,
+                "x1": 4237,
+                "y1": 5923
+            },
+            "class": "article",
+            "raw_text": "Harrisburg Penn, Sept. 29.-George H. Welshons,\nOf the best known newspaper men In Pennsyl-\nvania committed suicide by severing the arteries\non his with penknife this evening in bed\nroom of a Harrisburg hotel. Weshons had\nbeen drinking hard since he came to this city\ntwo weeks ago. and labored under the hallucnaton\nthat he pursued by enemies He left this mes\nsage. which written in a clear hand, on the\nwall of the room: Facing my God, die innocent\nand believing in my wife's fidelity. The future will\naCquit me- Welshons was formerly member of\nthe State Committee, and in the last GovernOrship\nconvention he had charge of the press bureau at\nthe Republican State headquarters.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 79,
+            "bbox": {
+                "x0": 3322,
+                "y0": 5284,
+                "x1": 4147,
+                "y1": 5348
+            },
+            "class": "headline",
+            "raw_text": "SUICIDE OF NEWsPAPER MAN",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 115,
+                "y0": 609,
+                "x1": 1141,
+                "y1": 1150
+            },
+            "class": "article",
+            "raw_text": "Bishop Potter is in position 10 make puh,,o\nconclusive proof of downright oppression nv,\nthe police Of the Eldridgest station Of scores Of\npeople who have come within the influence of\nthe parish work Of the Pro-Cathedral in stan\nton-st. He viii be able. If he so das,ras 80\nshow that petty prosecutions by the officers %\nthe law have made the work of Christian mon\nand women who are trying to better the CON\n\n\nditions of the poor extremely hard in the lower\nEast Side. That he will work and talk v,sor-",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 41,
+            "bbox": {
+                "x0": 122,
+                "y0": 221,
+                "x1": 1148,
+                "y1": 312
+            },
+            "class": "headline",
+            "raw_text": "BISHOP HAS PROOF ENOUGH",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -2
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 115,
+                "y0": 374,
+                "x1": 1141,
+                "y1": 575
+            },
+            "class": "headline",
+            "raw_text": "WELL EQUIPPED FOR THE FIGHT\nAGAINST POLICE OPPRESSION ON .\n\n\nTHE EAST SIDE.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 4264,
+                "y0": 8332,
+                "x1": 5276,
+                "y1": 8707
+            },
+            "class": "article",
+            "raw_text": "Five men arrested yesterday by Acting Cap\ntain Maude. OF the Hamiton-ave. police station.\nafter he had been cruising in the Atlantic Basin\nin search OF them for some time. The Pennsyl-\nvania Railroad had been missing pig iron from\nbarge on the South Brooklyn waterfront The po-\nlice learned that several men leaving pig iron\nat McCormacks junk shop. No. 10 Harrison-st.\nThe men were finally found, and escaped on a",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 51,
+            "bbox": {
+                "x0": 4312,
+                "y0": 8263,
+                "x1": 5221,
+                "y1": 8319
+            },
+            "class": "headline",
+            "raw_text": "FIVE CAPTURED AFTER A CRUISE.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2207,
+                "y0": 5208,
+                "x1": 3212,
+                "y1": 5867
+            },
+            "class": "article",
+            "raw_text": "Newport News. Va, Sept. % (SpeciaD.-The\nChesapeake and Ohio Railway recently secured the\nentire stock Of the Coastwise Steamship Company\nand now controls it outright. The Coastwise COM\npany is engaged in shipping coal from Newport\nNews to New-Engand ports. 1t owns three ocean\ntugs fifteen large coal barges and charters three\nocean steamers. 1t is doing probably a larger\ncoal business than any other coastwise shipping\ncompany.\n\n\n1t is announced to-day that beginning on Mon\nday, the price Of Pocahontas steam coal will be\nadvanced 10 cents ton, due to the heavy demand\nfor steam coal caused by the Pennsylvania strike\nAS far as known the Chesapeake and Ohio Rail\nway, operating here. win not increase the price\nof it's New River steam coal for which there is a\nheavier demand now than ever before.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 62,
+            "bbox": {
+                "x0": 2207,
+                "y0": 4931,
+                "x1": 3205,
+                "y1": 5001
+            },
+            "class": "headline",
+            "raw_text": "NEW CONTROL OF CoAsTWIsE COMPANY.",
+            "legibility": "Questionable",
+            "full_article_id": 17,
+            "reading_order_id": -2
+        },
+        {
+            "id": 40,
+            "bbox": {
+                "x0": 2214,
+                "y0": 5056,
+                "x1": 3212,
+                "y1": 5182
+            },
+            "class": "headline",
+            "raw_text": "CHESAPEAKE AND OHIO WILL SHIP COAL TO\n\n\nEW-ENGLAND PORTS.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3232,
+                "y0": 8284,
+                "x1": 4230,
+                "y1": 8707
+            },
+            "class": "article",
+            "raw_text": "Washington. Sept 90 CSpeciaD-Through the\nefforts Of Congressman James F. Stewart of the\nWith New-Jersey Congress District. the Postoffice\nDepartment has allowed a reimbursement OF POST\nmaster McMuen. of Rochelle Park N J.. for $40\nin stamps stolen from the postolce at that place.\nMr. Stewart has also secured pensions for John\nTerhune Of Hackensack. n. j., and James Hand.\nOf Paterson, n. j. Application for postoffice at\nHudson Heights, Bergen County, n. j., was made\nby the same Congressman",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 65,
+            "bbox": {
+                "x0": 3391,
+                "y0": 8221,
+                "x1": 4071,
+                "y1": 8271
+            },
+            "class": "headline",
+            "raw_text": "pOSTuASTER REIvBrRSED",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2200,
+                "y0": 7868,
+                "x1": 3205,
+                "y1": 8271
+            },
+            "class": "article",
+            "raw_text": "A conference of the New-Jersey Democratic State\nCommittee was held yesterday afternoon at the\nheadquarters in Jersey City 1t decided to\nhave Mr.. Bryan speak in Jersey City October 25\nThe meeting will be held under the auspices of the\nHudson County Democratic Committee. with\nview OF patching up the differences between the\nlocal committee and Chairman Courley. The State\nCommittee completed arrangements for the con-\nvention of the New-Jersey Democratic Clubs In\nTrenton on October Is.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 49,
+            "bbox": {
+                "x0": 2387,
+                "y0": 7806,
+                "x1": 3004,
+                "y1": 7855
+            },
+            "class": "headline",
+            "raw_text": "BRYAN IN NEW-JERSEY.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3239,
+                "y0": 4446,
+                "x1": 4237,
+                "y1": 5272
+            },
+            "class": "article",
+            "raw_text": "Washington, Sept. 29.-Owing to the advance in\nthe price OF silver the Director OF the Mint. Mr..\nRoberts, to-day increased the price to be paid by\nthe Government for silver purchased from So cents\n10 81 cents a standard ounce. The Government at\npresent purchases only such silver is contained\nin gold deposits from the Klondike and other gold\nproducing sections Under the existing statute all\nsilver In gold deposits is paid for at the market\nprice The price has advanced steadily since 1895.\nwhen It touched n cents for a standard ounce. The\nnew price is to go into effect on Monday.\n\n\nThe Director of the Mint also has changed the\nIndian rupee from its silver to it's gold value to go\nAlthough England placed India gold basis\nsome time ago, official informatan was received\nto that effect until recently The silver rupee had\npreviously been the standard Indian coin. and was\nvalued 20.5 cents. Under the gold standard the\nsovereign succeeds the rupee the standard, and\nhereafter the rupee will be reckoned at its gold\nvalue. 32.4 cents",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 48,
+            "bbox": {
+                "x0": 3356,
+                "y0": 4190,
+                "x1": 4133,
+                "y1": 4260
+            },
+            "class": "headline",
+            "raw_text": "PRICE OF SILVER INCREASED.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -2
+        },
+        {
+            "id": 66,
+            "bbox": {
+                "x0": 3239,
+                "y0": 4322,
+                "x1": 4244,
+                "y1": 4433
+            },
+            "class": "headline",
+            "raw_text": "FIXED AT 81 CENTS AN OUNCE BY THE DIRECTOR\n\n\nOF THE MINT.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3239,
+                "y0": 7750,
+                "x1": 4237,
+                "y1": 8195
+            },
+            "class": "article",
+            "raw_text": "New-Haven. Conn. Sept 29.-The Old Guard, Of\nNew-York. commanded by Major S. Ellis Briggs.\ncame New-Haven to-day as guests of the I'd\nCompany. Governors Foot Guards. The business\nblocks and many private houses were decorated\nin honor Of the visitors After a tour about the\ncity they entertained at luncheon at the\nhome OF Major Edward Clark of the Foot Guards\ntheir visitors attended by an escort of police\nparaded the principal streets of the city and at\no'clock dinner served at the Hotel Tontine.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 64,
+            "bbox": {
+                "x0": 3294,
+                "y0": 7688,
+                "x1": 4168,
+                "y1": 7737
+            },
+            "class": "headline",
+            "raw_text": "rHE on GUARD AT NEN.HArEN.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 4264,
+                "y0": 4862,
+                "x1": 5269,
+                "y1": 6047
+            },
+            "class": "article",
+            "raw_text": "The next International Railway Congress will be\nheld in Washington in October, 1904. cable dis\npatch from w. F. Allen. secretary of the American\nRailway Association announcing that fact was re-\nceived yesterday the offices OF the association.\nMr.. Allen who is of the American delegates to\nthe International Railway Congress which has been\nin session in the French capital during the last\nweek says that pressing invitation by the dele\ngates from this country had been extended to the\nCongress- and that the members of that body had\ninformed Mr. Allen of their acceptance.\n\n\nThe following officials of American railways have\nbeen In attendance at the sixth session OF the In\nternational Congress- which closed yesterday: L.\nF. Loree general manager Pennsylvania lines west\nof Pittsburg; ]. Ramsey, jr., v!ce-presdent and\ngeneral manager Wabash; j. T. Harahan. second\nvice-president Illinois Central; c. w Buchholz\nchief engineer Erie; s T. Crapo general manager\nFlint and Pere Marquette; G. L. BretZ. general\nmanager West Virginia Central and Pittsburg; Paul\nDidier assistant chief engineer Pittsburg and\nWESTERN c. P. Clark director New-York New\nHaven and Hartford: P. H. Dudley. inspecting an\ngineer New-York Central: DR. c. B. Dudley. chem\nist Pennsylvania: A NJ. Gibbs. assistant mechanical\nengineer Pennsylvania; Colonel James L. Taylor.\nPennsylvania: Martin a. Knapp chairman OF the\nInterstate Commerce Commission, and W. F. Allen,\nsecretary of the American Railway Association.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 71,
+            "bbox": {
+                "x0": 4278,
+                "y0": 4661,
+                "x1": 5234,
+                "y1": 4731
+            },
+            "class": "headline",
+            "raw_text": "WORLDS RAILWAY CONGRESS IN 1901",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -2
+        },
+        {
+            "id": 76,
+            "bbox": {
+                "x0": 4278,
+                "y0": 4716,
+                "x1": 5262,
+                "y1": 4849
+            },
+            "class": "headline",
+            "raw_text": "AMERICAN INVITATION ACCEPTED AT THE\n\n\nMEETING JUST CLOSING IN PARIS.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3225,
+                "y0": 7210,
+                "x1": 4237,
+                "y1": 7654
+            },
+            "class": "article",
+            "raw_text": "Montclair, n. j., Sept % (SpeciaD.-Henry Dob\nbins said to be a New-York business man, was\nheld in $500 bail by Recorder Yost to-day on a\ncharge of breaking and entering. made by Miss\nDora Taft. Dobbins boarded with the complainant\nduring the summer. He refused 1t Is said TO pay\na bill Of $32 for the use of a barn as a storage place\nfor his automobile He paid his board bill yester-\nday. before returning TO New York out declined\npay the bill for storage and. is alleged sawed\nthe lock off the barn and got his automobile when\nbir",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 59,
+            "bbox": {
+                "x0": 3232,
+                "y0": 7141,
+                "x1": 4230,
+                "y1": 7197
+            },
+            "class": "headline",
+            "raw_text": "cHARGED WITH BREAKING AND ENTERING.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 5296,
+                "y0": 7328,
+                "x1": 6308,
+                "y1": 7786
+            },
+            "class": "article",
+            "raw_text": "Long Branch. \". J., Sept. % (SpecaD.-The Daniel\nDouShe-ty cottage. in Ocean-ave.. at the West End\noccupied by Fritz Loeb. OF No. 541 Madison-aye.\nNew-York and the Lane cottage, In Chelsea-sve.\nwhere Uriah Herman and family are living, were\nentered by thieves at early hour this morning\nMr. Loeb's loss is said TO be 1900. which includes\ns1s5 in cash. a watch and chain and breastpin.\nthe latter being a highly priced gem. Mr.. Her\nmans loss was small. The thieves were discovered\nin time to prevent wholesale robbery, but they\nescaped and stin at large.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 58,
+            "bbox": {
+                "x0": 5337,
+                "y0": 7259,
+                "x1": 6280,
+                "y1": 7315
+            },
+            "class": "headline",
+            "raw_text": "COTTAGES ROBBED AT LONG BRAycH.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3232,
+                "y0": 6760,
+                "x1": 4244,
+                "y1": 7107
+            },
+            "class": "article",
+            "raw_text": "San Antonio, Tex, Sept. 29.-United States Consul\nw. w Mills, at Chihuahua. Mex, has sent note\nto the Federal authorities here and also the\nState Department at Washington detailing an in\nsuit to the American flag his consulate\nSeptember 16. the anniversary of Mexican inde-\npendence. by mob of Mexcans. He had hoisted\nthe United States and Mexican flags in honor of\nthe day. and the mob tore down the United States",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 61,
+            "bbox": {
+                "x0": 3232,
+                "y0": 6691,
+                "x1": 4244,
+                "y1": 6747
+            },
+            "class": "headline",
+            "raw_text": "AMERICAN FLAG PULLED DOWN IN MEXICO",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": -1
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 5296,
+                "y0": 7882,
+                "x1": 6315,
+                "y1": 8153
+            },
+            "class": "article",
+            "raw_text": "washington Sept. alt has been decided 20 sell\nthe old single turret monitor Nantucket and the tug\nCheyenne A Naval Board recently appraised the\nformer at $50 and the latter 5000. No bids\nwere received on September q. when proposals\nto be opened for the purchase OF the ships.\nand bids will be invited again.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 53,
+            "bbox": {
+                "x0": 5379,
+                "y0": 7813,
+                "x1": 6204,
+                "y1": 7869
+            },
+            "class": "headline",
+            "raw_text": "TWO NAVAL VESSELS FOR SALE.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": -1
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 4264,
+                "y0": 6130,
+                "x1": 5262,
+                "y1": 6754
+            },
+            "class": "article",
+            "raw_text": "San Francisco Sept. 2s-\"The Examiner to-day\nsays that the latest gossip in Southern Pacific\ncircles is that James Speyer. Charles H. Tweed and\nD. o. Mills as a special committee of the director\nate have offered H e Huntington the presidency\nof the company, but that he has declined 1t on the\nground that his duties first vce-president OF the\nroad together with the work of looking after the\nlarge fortune left him by his uncle. will more than\noccupy his time\n\n\nThe officials who indulging in talk of this\ncharacter assert that H. Z. Huntington does not\nwant outsider president. His particular can\ndidate for the place is the third cepresident j..\nG. Stubbs. He also wants. 1t is said. Edwin Haw-\nley. of New-York. to succeed c. P. Huntington as\npresident of the Pacific Mail",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 69,
+            "bbox": {
+                "x0": 4298,
+                "y0": 6067,
+                "x1": 5214,
+                "y1": 6124
+            },
+            "class": "headline",
+            "raw_text": "PRESIDENCY OF SOUTHERN PACIFIC.",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": -1
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 5303,
+                "y0": 8249,
+                "x1": 6322,
+                "y1": 8527
+            },
+            "class": "article",
+            "raw_text": "washington. Sept 2s.-Lleutenant Hobson has sp-\npiled to the Navy Department for six months\nleave OF absence because OF trouble with his eyes\nHe has experienced considerable pain In his eyes\nOF late. particularly when exposed 70 a strong\nlight. and Il Is understood that specialist has\nrecommended a complete rest for six months.",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 56,
+            "bbox": {
+                "x0": 5344,
+                "y0": 8187,
+                "x1": 6260,
+                "y1": 8243
+            },
+            "class": "headline",
+            "raw_text": "HOBsoy ASKS SIN MONTHS LEAVE.",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": -1
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 2200,
+                "y0": 4640,
+                "x1": 3212,
+                "y1": 4911
+            },
+            "class": "article",
+            "raw_text": "land. the Lake Shore line, and also crosses the\nLake Shore at Goshen, Ind is, President Gala\nway of the NewYork Central said last January\nprofitable feeder the Vanderbilt system to\nwhich it brings interchanging business from its\nlines extending south and Columbus and\nCincinnati, Louisville and Indianapolis Peoria and\nSt. Louis.",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 2200,
+                "y0": 6164,
+                "x1": 3205,
+                "y1": 6698
+            },
+            "class": "article",
+            "raw_text": "North Tonawanda, N Y, Sept. pa sensation\nwas sprung the Genesee Methodist Conference\nwhen 1t learned that Bishop McCabe had\ncalled a clergyman before him and threatened him\nwith discipline unless he desisted from preaching\nheretical doctrines The preacher taught the doc\ntrines of organization called the Christian and\nMissionary Alliance, Of which DR.. Simpson, of\nNewly orf. is the leader This believes in\nthe laying on Of hands for the cure of physical i'll\nThe clergyman used his influence for the\nadvancement of the faith healing ideas until there\nhas been much division and some Withdrawals\nfrom his church",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 44,
+            "bbox": {
+                "x0": 2269,
+                "y0": 5894,
+                "x1": 3136,
+                "y1": 5957
+            },
+            "class": "headline",
+            "raw_text": "METH0D1sTs OPPOSE FAITH CURE.",
+            "legibility": "Questionable",
+            "full_article_id": 32,
+            "reading_order_id": -2
+        },
+        {
+            "id": 60,
+            "bbox": {
+                "x0": 2207,
+                "y0": 6012,
+                "x1": 3219,
+                "y1": 6137
+            },
+            "class": "headline",
+            "raw_text": "BISHOP M'CABE REPRIMANDs CLERGYMAN FOR\n\n\nHERETICAL DOCTRINES.",
+            "legibility": "Questionable",
+            "full_article_id": 32,
+            "reading_order_id": -1
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 3246,
+                "y0": 2590,
+                "x1": 4244,
+                "y1": 3353
+            },
+            "class": "article",
+            "raw_text": "LATIoN OF STATES THIS WEEK.\n\n\nwashington, Sept. 29-The Census Bureau to-\nday finished the enumeration of all the cities in\nthe United States of 25.OOO inha abitants with\nthe exception OF Los Angeles Cal, and\nSeattle and Tacoma Wash. The work Of an\nnouncing the population OF States will come next\nbeginning with Arkansas probably next Monde\nor Tuesday. The States will be announced in short\nbulletins giving the total population. increase over\nthe two preceding census reports. the popula alton\nby counties and the population OF each Of the\nunder 25,Ooo' Including all the incorporated towns\nwithin the State limits. II is hoped to complete\nthe work on the States by the time Congress\nassemblies, after which the vital statistics will be\npushed.\n\n\nIt IS probable that the present census will cost\nin the neighborhood Of S15OOO,O00.",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 47,
+            "bbox": {
+                "x0": 3377,
+                "y0": 2417,
+                "x1": 4119,
+                "y1": 2487
+            },
+            "class": "headline",
+            "raw_text": "PROGRESS OF CENSUS WORK.",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": -2
+        },
+        {
+            "id": 68,
+            "bbox": {
+                "x0": 3246,
+                "y0": 2535,
+                "x1": 4244,
+                "y1": 2674
+            },
+            "class": "headline",
+            "raw_text": "THE BUREAU WILL BEGIN TO ANNOUNCE PoPu-\n\n\nLATIoN OF STATES THIS WEEK.",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": -1
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 5303,
+                "y0": 7065,
+                "x1": 6301,
+                "y1": 7239
+            },
+            "class": "article",
+            "raw_text": "n,er after an exciting chase. They were captured\nagain. however. by policemen who had been sta\ntoned at the entrance to the pier In court the\nprisoners were held in $3.50 bail suspicious per-\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 34,
+            "reading_order_id": 0
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 3246,
+                "y0": 477,
+                "x1": 4237,
+                "y1": 1289
+            },
+            "class": "article",
+            "raw_text": "OF PEDESTRIAN.\n\n\nMrs. Margaret Gilman. eighty-three years old.\nOF No. 273 Madson-ave.. with her maid, Miss c.\nMcguire, was passing No II East hirty-eighth-st.\nyesterday afternoon. when lighted lamp struck\nthe sidewalk directly In front of her. The lamp\nwas broken and the oil famed up setting fire TO\nthe clothing OF Mrs. Gilman. Miss Mcguire\npromptly beat out the flames with her hands. Sc\nverely burning them and her arms in doing so.\nMrs. Gilman not injured. The two women\nentered a cab and were driven home\n\n\nThe lamp was thrown from the second floor of\nthe building by Fritz Gunther. decorator. who\nlives at No. SlS Cedar Place. in The Bronx. He\nwas at work in the building. when the wick of the\nlamp suddenly hared UP. Fearing that the infam-\nmable material with which he was working would\nbecome ignited, Gunther grabbed the lamp and\nthrew II into the street. Mrs Gilman refused 70\nmake n complaint against Gunther, and he not\narrested.",
+            "legibility": "Legible",
+            "full_article_id": 36,
+            "reading_order_id": 0
+        },
+        {
+            "id": 50,
+            "bbox": {
+                "x0": 3246,
+                "y0": 263,
+                "x1": 4230,
+                "y1": 333
+            },
+            "class": "headline",
+            "raw_text": "THROWS LAMP AT WoMEN's FEET.",
+            "legibility": "Legible",
+            "full_article_id": 36,
+            "reading_order_id": -2
+        },
+        {
+            "id": 78,
+            "bbox": {
+                "x0": 3239,
+                "y0": 387,
+                "x1": 4237,
+                "y1": 513
+            },
+            "class": "headline",
+            "raw_text": "woRKINGMANs ACT IMPERILs THE LIFE\n\n\nOF PEDESTRIAN",
+            "legibility": "Legible",
+            "full_article_id": 36,
+            "reading_order_id": -1
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 2193,
+                "y0": 8367,
+                "x1": 3198,
+                "y1": 8562
+            },
+            "class": "article",
+            "raw_text": "Mrs. Mary Catherwood, wife of Samuel Gather\nwood. of No. 35l Fifteenth-ave.. Newark. n. J..\ngave birth yesterday to a child without arms or\notherwise.",
+            "legibility": "Legible",
+            "full_article_id": 39,
+            "reading_order_id": 0
+        },
+        {
+            "id": 63,
+            "bbox": {
+                "x0": 2283,
+                "y0": 8304,
+                "x1": 3115,
+                "y1": 8361
+            },
+            "class": "headline",
+            "raw_text": "BORN WTTHOrT ARns OR LEGS.",
+            "legibility": "Legible",
+            "full_article_id": 39,
+            "reading_order_id": -1
+        },
+        {
+            "id": 46,
+            "bbox": {
+                "x0": 3239,
+                "y0": 3608,
+                "x1": 4237,
+                "y1": 4163
+            },
+            "class": "article",
+            "raw_text": "\n\n\nPlainfeld, n. Y, Sept 2e.-Suit has been begun\nby J. D. Spcer. of the firm of Spcer & Hubbard\nmill owners. in this city, for 1000 against the\nlumber firm of Boice, Runyon & Co., for injuries\nreceived last spring by the breaking of a scaffold\nIN the lumber yard. The suit is in reality against\nthe Travellers Insurance Company. but has to be\nbrought against the firm, which insured\nagainst accidents of this kind.\n\n\nMr.. Spicer and John D. Runyon the scat\nfold twenty feet from the ground, examining um-\nDer. when the scaffold broke. Mr. Runyon died\nfrom his injuries but Mr.. Spicer after long ILL\nness Is able to be about again.",
+            "legibility": "Legible",
+            "full_article_id": 47,
+            "reading_order_id": 0
+        },
+        {
+            "id": 45,
+            "bbox": {
+                "x0": 3343,
+                "y0": 3373,
+                "x1": 4133,
+                "y1": 3450
+            },
+            "class": "headline",
+            "raw_text": "SUIT AGAINST A LUMBER FIRM.",
+            "legibility": "Legible",
+            "full_article_id": 47,
+            "reading_order_id": -2
+        },
+        {
+            "id": 77,
+            "bbox": {
+                "x0": 3239,
+                "y0": 3511,
+                "x1": 4230,
+                "y1": 3623
+            },
+            "class": "headline",
+            "raw_text": "PLA1NFIELD MILL OWNER INJURED BY A BREAK\n\n\nING sCAFFoLD WANTS $4,000",
+            "legibility": "Legible",
+            "full_article_id": 47,
+            "reading_order_id": -1
+        },
+        {
+            "id": 52,
+            "bbox": {
+                "x0": 2200,
+                "y0": 8588,
+                "x1": 3198,
+                "y1": 8707
+            },
+            "class": "article",
+            "raw_text": "ALMOST EVERY BRANCH OF INDUSTRY\nis represented in the little advertisements Of the\npeople In the narrow columns.",
+            "legibility": "Legible",
+            "full_article_id": 53,
+            "reading_order_id": 0
+        },
+        {
+            "id": 54,
+            "bbox": {
+                "x0": 5310,
+                "y0": 8568,
+                "x1": 6308,
+                "y1": 8700
+            },
+            "class": "article",
+            "raw_text": "THE REAL THING\nin bargains may be found IN the little advsrtfse-\nments OF the people In the narrow columns ~ to-\ndays papo--",
+            "legibility": "Legible",
+            "full_article_id": 55,
+            "reading_order_id": 0
+        },
+        {
+            "id": 80,
+            "bbox": {
+                "x0": 5573,
+                "y0": 8554,
+                "x1": 6045,
+                "y1": 8589
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 55,
+            "reading_order_id": -1
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                34,
+                81,
+                0
+            ],
+            "headline": "RAILROAD INTERESTS.\n\nTO SHIP GRAIN FROM QUEBEC.\nTHE GREAT NORTHERN RAILWAY WILL, CO.",
+            "article": "TO SHIP GRAIN FROM QUEBEC.\nTHE GREAT NORTHERN RAILWAY WILL con-\n\n\nMeet THAT CITY WITH LAKE GRAIN BOATS.\n\n\nMontreal Sept 20 (SpeciaD.-The Great Northern\nRailway is all but completed. and will within\na month take It's place as of the great grain\ncarrying roads Of Canada This road. starting\nfrom Quebec, runs in a southwesterly direction to\nHawkesbury, Ontario, where It joins the Canada\nAtlantic system. which to Parry Sound on\nthe Georgian Bay and has in connection with 1t\na fleet Of grain boats on the upper Great Lakes.\nThe great bridge over the Ottawa River is not\nyet altogether completed. but trains will be able\nto cross by the middle of October. and the line\nwill then be formally opened to traffic. In order\nrailway has built a million bushel elevator at\nQuebec.\n\n\nThe company thinks that Quebec and not Mon\ntreal is the natural outlet for the ST. Lawrence\nroute and with a view of doing business with\nbarges that may have passed Montreal has added\na marine tower that can transship wheat either\ninto the elevator or an ocean steamer at the rate\nof 1900 bushels an hour. The company has made\nan arrangement with leading English steamship\nservice to Great Britain. Large vessels are 70\nbe used. Steamships to carry this seasons grain\nhave also been contracted for. The Great North\nern will also build spur from toilette into Mon\ntreal. a distance of rhirty-stX miles The chieI\ndifficulty in the way of doing this is the necessity\nof bridging the river but II is promised that the\nroad will be running into Montreal In a year\ntime.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4416,
+                    "y0": 2950,
+                    "x1": 5110,
+                    "y1": 3027
+                },
+                {
+                    "x0": 4291,
+                    "y0": 3082,
+                    "x1": 5228,
+                    "y1": 3187
+                },
+                {
+                    "x0": 4264,
+                    "y0": 3103,
+                    "x1": 5262,
+                    "y1": 4648
+                }
+            ],
+            "bbox": [
+                4264,
+                2950,
+                5262,
+                4648
+            ],
+            "full_article_id": 1,
+            "id": "1_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                57,
+                1
+            ],
+            "headline": "BARGE OFFICE W4TCHmAN ExONERATED",
+            "article": "Washington, Sept. % (SpeciaD.-The Treasury\nDepartment to-day exonerated Gilbert Taylor, a\nmessenger and watchman at the NewYork Barge\nOffice who charged among other with scan\ndalous conduct. Commissioner Fitchie having\nfound no grounds for his dismissal The In\nvestgating Committee which examined the affairs\nof the Barge Office specifically stated in its report\nthat 1t believed ''the success of any recommended\ntions 1t could make that could be made. having\nfor their purpose a correct administration of the\nBarge Office would be dependent upon the dis\nmissal of the present Assistant Commissioner. Ed\nward F. McSweeney and the other officials dn-\ncludng Taylor. who had accepted bribes been\nguilty Of brutality to women etc.\n\n\nMcSweeney has not been officially informed OF\nthe committees findings concerning his alleged\ndisgraceful actions. Molthan. who not men\ntoned in the report being among those who\nshould be dismissed, dropped last Saturday\nThe officials do consider the recommendation\nof the Investigation Committee final but are\ndisposed to remove some employees and exonerate\nothers regardless OF the report. Assistant Secre-\ntary Taylor said to-day that in about week de-\ncisions will be made concerning all the employees",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2207,
+                    "y0": 6725,
+                    "x1": 3198,
+                    "y1": 6782
+                },
+                {
+                    "x0": 2200,
+                    "y0": 6788,
+                    "x1": 3205,
+                    "y1": 7779
+                }
+            ],
+            "bbox": [
+                2200,
+                6725,
+                3205,
+                7779
+            ],
+            "full_article_id": 2,
+            "id": "2_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                75,
+                2
+            ],
+            "headline": "YORK DAILY TRIBUNE. SUNDAY. SEPTEMBER 1900.",
+            "article": "~ ~aaener ana mother both We're dead. You would\nSlo\" up hungry and dirty. The few clothes you\ntice \" ~oulu @ oe shabby. The most frequent prac\nuce OF your guardians and superiors would per\nmaps oe tnat of deceit And when you got a lit\nHe oluer instead of having green fields to play\nIII ana innocent and happy companions or in\noetesuhg animal pets, as do many country boys;\nNhaI II you had the same old monotonous sur\nIouIhulhss' the same old smells, the same old\nn,UiSes-Woulont you get desperately tired of II\nal ana suppose little later you earned few\ncents day, and, not having any better place\n10 CO. you visited some of these East Side candy\nstores, where soda water and cigarettes are so\ncheap. If you were invited into the back room\nOF some or them and asked to shoot craps\"\nWIN other boys wouldn't you, with nothing bet\nTer to DO. and nothing to prevent you, probably\ntake hand in It?\n\n\nand then a little later, when the candy shop\ngrew 10 be an old story and you earned more\nmoney ana had your evenings to yourself\nwouldn't you go TO the saloon with other young",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1923,
+                    "y0": 138,
+                    "x1": 4486,
+                    "y1": 236
+                },
+                {
+                    "x0": 1175,
+                    "y0": 263,
+                    "x1": 2187,
+                    "y1": 1171
+                }
+            ],
+            "bbox": [
+                1175,
+                138,
+                4486,
+                1171
+            ],
+            "full_article_id": 3,
+            "id": "3_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "was looked upon as common disturber by\nCaptain Herlihy when he requested action from\nthe police that would have been construed as\nhostility to the disorderly elements. These\nwomen had paid their dues to the police, and by\na crude and mighty dangerous sense OF honor\ncertain police officials consider that they ought\nto have something in return for their money.\nMr.. Paddock appeared on the scene as dis\nturber. Hence his treatment. Herlihy is not so\nmuch to blame for his hostility to Mr.. Paddock\nand his friends as most people too hastily as\nsumo He's got his orders. and, as they say In\npolice circles. he knows his book\" The trou-\nBILE is higher up in the Police Department.\nhave no sympathy for those who say that poll\ntics ought to be kept out of this agitation for\nthe rights of the poor against their oppressors.\npolitical machine is directly back Of the police\nofficials who directing the control of the rank\nand file. Until the political machine is routed,\nthere will be no change.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2214,
+                    "y0": 270,
+                    "x1": 3219,
+                    "y1": 1095
+                }
+            ],
+            "bbox": [
+                2214,
+                270,
+                3219,
+                1095
+            ],
+            "full_article_id": 4,
+            "id": "4_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                42,
+                29,
+                4
+            ],
+            "headline": "BELTETED IN WALL STREET.\n\nPLAN OF MERGER OF THE BIG FOUR AND\nTHE NETWORK CENTRAL EX-\n\n\nCITES INTEREST.",
+            "article": "The announcement in The Tribune that a plan\nof merger of the Big Four (the Cleveland, Cincin-\nnatl, Chicago and St Lous) Railway Company\nwith the New-York Central had been drafted. and\nwas under consideration by William K. Wander\nbilt and J. Pierpont Morgan, was accepted by\nWall Street yesterday accurate, although no\nformal confirmation from any official source devel-\noped. While the New-York Central has controlled\nthe Big Four for nearly year, the belief has\nbeen general that it would before long follow the\ncourse which it had adopted with the Lake Shore\nthe Michigan Central and the West Shore, and IN\ncrease its holdings of Big Four stock to an amount\nwhich would cradle 1t readily to merge the Big\nFour with the New-York Central system.\n\n\nIn the last fortnight there has been unusual\nactivity in the stock, about 10000 shares OF the\ncommon having changed hands, and in the last\nweek the common stock has made q net advance Of\nthree points, the close yesterday having been at\n81 and the preferred has advanced 32 points, clos\ning at 1101a-fgures which indicate to the mind Of\nWall Street that something is up; that somebody\nis acquiring the stock for a purpose. The Big\nFour. which has termini at Sandusky and Cleve-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2262,
+                    "y0": 1122,
+                    "x1": 3163,
+                    "y1": 1213
+                },
+                {
+                    "x0": 2220,
+                    "y0": 1267,
+                    "x1": 3219,
+                    "y1": 1462
+                },
+                {
+                    "x0": 2214,
+                    "y0": 1489,
+                    "x1": 3226,
+                    "y1": 2529
+                }
+            ],
+            "bbox": [
+                2214,
+                1122,
+                3226,
+                2529
+            ],
+            "full_article_id": 5,
+            "id": "5_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                37,
+                39,
+                5
+            ],
+            "headline": "HIGH WATER IN TRINITY RIVER.\n\nMUCH DAMAGE DONE BY THE FLoOD-Loss OF\n\n\nLIFE FEARED.",
+            "article": "Fort Worth, Tex. Sept. 29.-Trinity River con-\ntnued to rise yesterday and last night. The depth\nhere IS thirty-hve feet The waters now reach out\nover mile In the valley. inundating the entire\nbottoms. Many valuable farms have been ruined\nand crops destroyed. The Rock Island bridge over\nWestfork. Newark has been washed away.\n\n\nMuch of the Cotton Belt railroad track has been\ncarried away. The Cotton Belt station is sur\nrounded with water three four feet deep. and all\nbusiness is suspended temporarily. trains canot\nget into the yards within mile OF them.\n\n\nThe waters have interfered with the running OF\ntrains and streetcars in the city Service over the\nNorth Side streetcar lines has been abandoned. II\nhas been many years since the waters OF the Trim\nity have reached such high stage\n\n\nAs vet loss OF life has been reported. but IL Is\nbelieved that possibly some people have perished\nbelow this city In the Trinity River bottoms from\nthe unprecedented overflow The people below here\nwere not informed of the great rise they were\nat this point The damage TO farms along the\nriver Will be very great. and possibly the loss will\nreach 100000\n\n\nLast night water surrounding the waterworks sta\ntion three feet deep. II the flood continues to\nrise damage 20 the waterworks cannot be averted.\nThe family OF Captain Samuel Evans were saved\nfrom the swollen stream by friends who went TO\nthem with rOwboat- There have been several\nother narrow escapes.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4326,
+                    "y0": 6781,
+                    "x1": 5207,
+                    "y1": 6858
+                },
+                {
+                    "x0": 4271,
+                    "y0": 6912,
+                    "x1": 5269,
+                    "y1": 7038
+                },
+                {
+                    "x0": 4264,
+                    "y0": 7058,
+                    "x1": 5269,
+                    "y1": 8236
+                }
+            ],
+            "bbox": [
+                4264,
+                6781,
+                5269,
+                8236
+            ],
+            "full_article_id": 6,
+            "id": "6_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                55,
+                6
+            ],
+            "headline": "NEW LIGHT AT CHESAPEAKE ENTRANCE",
+            "article": "Norfolk Va Sept. 29-The United States Light\nhouse Board has given notice that 1t will establish\nlight vessel No. Il at the tail of the horseshoe.\nThe vessel will be placed in position or about\nOctober II It Will be established in about five\nand a half fathOms of water approximately In the\nposition now occupied by Junction bell buoy. to\nseaward of the southeasterly end of the tail of the\nhorseshoe in the entrance to Chesapeake Bay\nand at the junction of the main ship channel up\nthe bay with the channel to Hampton Roads. The\nvessel will show two fixed white lights, one from\neach masthead and each produced by three lens\nlanters encircling the masthead. The focal plane\nof each light will be ffty-six feet above the sea-\nand the lights will be visible thirteen miles in clear\nweather the observers eye fifteen feet above the\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3239,
+                    "y0": 5942,
+                    "x1": 4230,
+                    "y1": 5999
+                },
+                {
+                    "x0": 3232,
+                    "y0": 6019,
+                    "x1": 4237,
+                    "y1": 6664
+                }
+            ],
+            "bbox": [
+                3232,
+                5942,
+                4237,
+                6664
+            ],
+            "full_article_id": 7,
+            "id": "7_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                73,
+                7
+            ],
+            "headline": "GYMNASIUM OF THE PRO-cATHEDRAL",
+            "article": "men whom you liked? That is wherein the\nsaloon-the jokes are cracked and the stories\nare told and the news is exchanged\n\n\nAnd after the saloon habit got fastened\nyou. wouldn't you be likely to choose female\nI society plane with 1t? And after you drank\ntoo hard and life became desperate and souless,\nand the prospect of State prison or hell itself\nceased to startle or worry you and some early\nmorning YOU saw a richly dressed man reeling\nalong your block, wouldn't you take a chance\nthe penitentiary term and get his money.\nwhether you had to knock him in the head or\nnot? Just likely not you would. 1t would\nbe entirely natural and logical. That is why the\ncitizen in luxurious circumstances should be-\ncome interested in the work here-not necessa-\nry the work of this particular parish, but mis-\nsion work in this city.\n\n\nThere is really little opportunity for a small\nboy to let off his surplus steam to use hgure\nHe cannot do much of anything to have any\nfun. He ought to be forgiven when he engages\nin a street fight with another urchin or tips\nover a pushcart. The country boy would take\nIt out in climbing trees playing with his dog or\nrunning and jumping with his schoolmates II\nthe boys and girls TO be made into good men\nand women they must have something new to\ndo The dreary and harmful things which oc-\ncupy their minds now must be expelled with\nsomething which they will love better\n\n\nGYMNASIUM A BENEFICENT AGENCY.\n\n\nOur gymnasium here is a great help. 1t is\nopen every night for boys and girls and men.\nand in the afternoon it is open for the boys who\ndo not work during the day. The boys have\nhorizontal bars, dumbbells. CLUBS boxing gloves\nand shower baths. These things give them\nchange, and when they are exercising 1t gives\nthe clergymen and assistants an opportunity to\nget at them and to talk TO them on temperance\nand purity, and those things which tend direct\n\" TO make the body stronger and the eye ana\nmuscle quicker The gymnasium is among the\nmost powerful forces for the betterment OF\nsocial conditions. It gives the boys and girls\na chance, if you will pardon the expression, to\nget tired legitimately. that afterward sleep\nwill be wholesome and the mind will be COM\nposed We do not allow boxing to go to brutal\nextent Boxing is helpful, because it teaches the\nboys TO control their tempers and to remember\nthat others are just as skilful as themselves. 1t\nwould pay the city in the long run 10 estaolls9\nrunning tracks and baseball grounds all around\nthe East Side. If. when feeling nervous and\ndiscouraged our East Side boys could run\naround the tanbark or jump into plunge bath\ninstead of going to a saloon and filling up with\nwhiskey, the future citizen would be a gooo\ndeal better off We have a cadet corps of about\neeyantv-6Z,e members. drilled by 7th Regiment\ncaptain who loves the work While they are\ntaught to handle guns. stand straight and\nobey orders they also taught to love the\nnag TO take pride in civic honesty and TO re-\nspect women.\n\n\nAS a result Of certain Investigations made in\nthe last six months. mission workers on the\nFast Side have been compelled TO take notice\nOF the fact that the conditions which became\n,,rbearable in 1893 and 1894. preceding the\nI,exow investigation, are fully as bad now. and\nthat the prevalence Of vice, with the knowledge,\n~ not with the promotion. of officers of the law\nis spreading from its old strongholds into new\nlocalities\n\n\nThere was a llIIle \"HCl <AilclI-S'' 'A4OA40 \"'~N\nnv common consent called the bailiwick of disor-\nderly women. Other streets were known to\nbarbor them, but, generally speaking they re-\nuained in Allen-st. Now there are other streets\nlust as bad as Alen-st. Some OF them are\nChrystie Forsyth Delaney, First Second\nThird Fourth. Eighth and Ninth SITS. Second\nave between Fourteenth-st, and StuyVesant\nSquare, and East Houston-st.\n\n\nAS matter of fact. the Twelfth and Fiji\nteenth precincts are besprinkled with these un-\nfcrtunates. and the old system Of assessing them\nfor police protection is known to be in full\nswing\n\n\nTHE OLD PROTECTION\" SYSTEM\n\n\nA man interested in the University Settlement\nwork said TO a Tribune reporter yesterday:\n\n\nThe old system of protection to vice in all its\nresponsiveness and wickedness is in complete\noneration again. and that is why Mr.. Paddock",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 960,
+                    "y0": 4495,
+                    "x1": 2270,
+                    "y1": 4579
+                },
+                {
+                    "x0": 1154,
+                    "y0": 4640,
+                    "x1": 2187,
+                    "y1": 8707
+                }
+            ],
+            "bbox": [
+                960,
+                4495,
+                2270,
+                8707
+            ],
+            "full_article_id": 8,
+            "id": "8_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                43,
+                8
+            ],
+            "headline": "JUDGE GRAY RETURNS HOME.",
+            "article": "SPENT HIS TIME IN ENGLAND-TALKs OF\n\n\nTHE MOLINEUX CASE\n\n\nJudge John Clinton Gray. of the New-York State\nCourt of Appeals. arrived here yesterday from\nSouthampton the American Line steamer St\nLouis He went abroad early in June partly on ac-\ncount of Ill health. He spent the entire time in\nEngland. The Paris Exposition. he said yesterday\ndid not attract him, because he heard so many\nexpressions of disappointment regarding 1t from\nthose who did attend It,\n\n\nAS he left the steamer a reporter asked him\nabout the progress of the Molineux case\n\n\nThis case\" he said, will be a very wearyine\none to try. because the Judge is Obliged to base\nms decision upon his construction of the facts as\nwell as OF the questions of law. This means to a\nconscientious judge that the entire testimony must\nbe gone over. Until few years ago. when law\nwas passed requiring 1t, the Court of Appeals was\n,6 no1 expected to pass upon the question of fact\nJudge Gray 1880",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3287,
+                    "y0": 1309,
+                    "x1": 4216,
+                    "y1": 1386
+                },
+                {
+                    "x0": 3252,
+                    "y0": 1440,
+                    "x1": 4244,
+                    "y1": 2390
+                }
+            ],
+            "bbox": [
+                3252,
+                1309,
+                4244,
+                2390
+            ],
+            "full_article_id": 9,
+            "id": "9_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "ously when he takes up the task OF clearing the\nmission field occupied by the parish OF the Pro-\nCathedral Of illegitimate and uncalled for OBJ\nstructions there is little doubt in the minds of\nthose who possess the Bishops confidence.\n\n\nIn 1895 Bishop Potter spent a month Of his\nannual vacation at the Pro-Cathedral, work\ning among the people Of the tenements At the\nend OF that time his labor had become so fasci-\nmating to him that he went back to his ac-\ncustorned tasks with considerable reluctance.\nSince then he has more than once expressed a\ndesire 70 engage again in practical day by day\nmission work al the Stanton-st- church.\n\n\nThe resolution adopted by the Diocesan Con-\nvention directing Bishop Potter TO investigate\nthe alleged indignities offered by the police TO\nthe Rev. Robert L. Paddock, who merely asked\nthe police to DO their duty. has aroused wide\nspread interest in the city and is causing a\ngreat deal Of uneasiness at Police Headquarters.\nThe suggestion was made yesterday that Rich\nard Croker was anxious to get rid Of Chief\nDevery. and that if Bishop Potter made serious\ncharges against Inspector Cross Devery would\nbe promptly retired for not keeping things in\nbetter shape in the Department Cross's friends\nsay that ne will remain in the Department with\nout doubt as he is in line for promotion to the\nOffice Of Chief\n\n\nPresident York Of the Police Board said yes\nterdsy that he understood that the entire trouble\ncame from the alleged insult offered the Rev.\nMr Paddock by Captain Herlihy. He asserted\nthat he was going to investigate the circum-\nstances and If It was found that Herlihy in\nsuited Ny. Paddock he would compel Herhy\n10 apologize or take action against him. In\nspector Cross's friends said yesterday that he\nwas going TO try 10 see Bishop Potter personally\nand smooth over the matter, that he, Cross\nwould not appear in his present bad light\n\n\nCROSS SEES YORK.\n\n\nInspector Cross was closeted with President\nYork yesterday afternoon for two hours, talking\nabout the charges made against him and cap\ntain Herlihy. After the consultation President\nYork was asked II any action would be taken\nbv the Board and he said he did not know.\n\n\nThe whole matter now rests with Bishop\nPotter\" he said and until we hear from him\nnothing viii be done. am certain he VIII be\nfair in the matter and any report he makes or\nany complaint will doubtless be a just one\n\n\nMr. Paddock meanwhile is quietly doing his\naccustomed work among the tenement mousse\npeople in and Stanton-st- He Is son OF\nthe late Bishop John A Paddock. Of Washing\nton State, and has been attached to the FRO\nCathedral for the last two years. IN that time\nhe has become acquainted with the social con-\nditions Of the neighborhood and when he says\nthat the tendency seems to be downward IN\nstead Of upward, and that the police instead OF\nassisting IN the amelioration OF the conullionS\nthere deliberately and Systematically oostruct\nand retard the work he speaks with positive\nknowledge.\n\n\nSpeaking Of the conditions on the East Slde\nyesterday. Mr.. Paddock said:\n\n\nThe work here certainly merits the earnest\nconsideration Of thoughtful men interested IN\nthe welfare Of the city. There is a growing uIi-\nrest The conditions well calculated 10\nbreed anarchy and eventual violence. one uoes\nnot need 70 be an alarmist to see the pIiLom9 pI\nahead. We need encouragement from SUI stIVHs -\nmen The rich men Of the city who mo II\ndfficult TO interest their in business en-\nterprises should encourage some or theh 70\ncome over here and take part in our extremely\ninteresting work There ought TO be a coiiese\nor university settlement on every BLOCK\n\n\nA PICTURE OF EAST SIDE CONDITIONS.\n\n\nTurning to a reporter. the young rector SAID\nwith more than usual gravity and earnestness:\n\n\nSuppose that you were the child Of drunkaro.\nhere in this tenement district, or that your",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 94,
+                    "y0": 4640,
+                    "x1": 1134,
+                    "y1": 8749
+                }
+            ],
+            "bbox": [
+                94,
+                4640,
+                1134,
+                8749
+            ],
+            "full_article_id": 12,
+            "id": "12_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                79,
+                13
+            ],
+            "headline": "SUICIDE OF NEWsPAPER MAN",
+            "article": "Harrisburg Penn, Sept. 29.-George H. Welshons,\nOf the best known newspaper men In Pennsyl-\nvania committed suicide by severing the arteries\non his with penknife this evening in bed\nroom of a Harrisburg hotel. Weshons had\nbeen drinking hard since he came to this city\ntwo weeks ago. and labored under the hallucnaton\nthat he pursued by enemies He left this mes\nsage. which written in a clear hand, on the\nwall of the room: Facing my God, die innocent\nand believing in my wife's fidelity. The future will\naCquit me- Welshons was formerly member of\nthe State Committee, and in the last GovernOrship\nconvention he had charge of the press bureau at\nthe Republican State headquarters.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3322,
+                    "y0": 5284,
+                    "x1": 4147,
+                    "y1": 5348
+                },
+                {
+                    "x0": 3239,
+                    "y0": 5361,
+                    "x1": 4237,
+                    "y1": 5923
+                }
+            ],
+            "bbox": [
+                3239,
+                5284,
+                4237,
+                5923
+            ],
+            "full_article_id": 14,
+            "id": "14_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                41,
+                36,
+                14
+            ],
+            "headline": "BISHOP HAS PROOF ENOUGH\n\nWELL EQUIPPED FOR THE FIGHT\nAGAINST POLICE OPPRESSION ON .\n\n\nTHE EAST SIDE.",
+            "article": "Bishop Potter is in position 10 make puh,,o\nconclusive proof of downright oppression nv,\nthe police Of the Eldridgest station Of scores Of\npeople who have come within the influence of\nthe parish work Of the Pro-Cathedral in stan\nton-st. He viii be able. If he so das,ras 80\nshow that petty prosecutions by the officers %\nthe law have made the work of Christian mon\nand women who are trying to better the CON\n\n\nditions of the poor extremely hard in the lower\nEast Side. That he will work and talk v,sor-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 122,
+                    "y0": 221,
+                    "x1": 1148,
+                    "y1": 312
+                },
+                {
+                    "x0": 115,
+                    "y0": 374,
+                    "x1": 1141,
+                    "y1": 575
+                },
+                {
+                    "x0": 115,
+                    "y0": 609,
+                    "x1": 1141,
+                    "y1": 1150
+                }
+            ],
+            "bbox": [
+                115,
+                221,
+                1148,
+                1150
+            ],
+            "full_article_id": 15,
+            "id": "15_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                51,
+                15
+            ],
+            "headline": "FIVE CAPTURED AFTER A CRUISE.",
+            "article": "Five men arrested yesterday by Acting Cap\ntain Maude. OF the Hamiton-ave. police station.\nafter he had been cruising in the Atlantic Basin\nin search OF them for some time. The Pennsyl-\nvania Railroad had been missing pig iron from\nbarge on the South Brooklyn waterfront The po-\nlice learned that several men leaving pig iron\nat McCormacks junk shop. No. 10 Harrison-st.\nThe men were finally found, and escaped on a",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4312,
+                    "y0": 8263,
+                    "x1": 5221,
+                    "y1": 8319
+                },
+                {
+                    "x0": 4264,
+                    "y0": 8332,
+                    "x1": 5276,
+                    "y1": 8707
+                }
+            ],
+            "bbox": [
+                4264,
+                8263,
+                5276,
+                8707
+            ],
+            "full_article_id": 16,
+            "id": "16_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                62,
+                40,
+                16
+            ],
+            "headline": "NEW CONTROL OF CoAsTWIsE COMPANY.\n\nCHESAPEAKE AND OHIO WILL SHIP COAL TO\n\n\nEW-ENGLAND PORTS.",
+            "article": "Newport News. Va, Sept. % (SpeciaD.-The\nChesapeake and Ohio Railway recently secured the\nentire stock Of the Coastwise Steamship Company\nand now controls it outright. The Coastwise COM\npany is engaged in shipping coal from Newport\nNews to New-Engand ports. 1t owns three ocean\ntugs fifteen large coal barges and charters three\nocean steamers. 1t is doing probably a larger\ncoal business than any other coastwise shipping\ncompany.\n\n\n1t is announced to-day that beginning on Mon\nday, the price Of Pocahontas steam coal will be\nadvanced 10 cents ton, due to the heavy demand\nfor steam coal caused by the Pennsylvania strike\nAS far as known the Chesapeake and Ohio Rail\nway, operating here. win not increase the price\nof it's New River steam coal for which there is a\nheavier demand now than ever before.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2207,
+                    "y0": 4931,
+                    "x1": 3205,
+                    "y1": 5001
+                },
+                {
+                    "x0": 2214,
+                    "y0": 5056,
+                    "x1": 3212,
+                    "y1": 5182
+                },
+                {
+                    "x0": 2207,
+                    "y0": 5208,
+                    "x1": 3212,
+                    "y1": 5867
+                }
+            ],
+            "bbox": [
+                2207,
+                4931,
+                3212,
+                5867
+            ],
+            "full_article_id": 17,
+            "id": "17_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                65,
+                17
+            ],
+            "headline": "pOSTuASTER REIvBrRSED",
+            "article": "Washington. Sept 90 CSpeciaD-Through the\nefforts Of Congressman James F. Stewart of the\nWith New-Jersey Congress District. the Postoffice\nDepartment has allowed a reimbursement OF POST\nmaster McMuen. of Rochelle Park N J.. for $40\nin stamps stolen from the postolce at that place.\nMr. Stewart has also secured pensions for John\nTerhune Of Hackensack. n. j., and James Hand.\nOf Paterson, n. j. Application for postoffice at\nHudson Heights, Bergen County, n. j., was made\nby the same Congressman",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3391,
+                    "y0": 8221,
+                    "x1": 4071,
+                    "y1": 8271
+                },
+                {
+                    "x0": 3232,
+                    "y0": 8284,
+                    "x1": 4230,
+                    "y1": 8707
+                }
+            ],
+            "bbox": [
+                3232,
+                8221,
+                4230,
+                8707
+            ],
+            "full_article_id": 18,
+            "id": "18_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                49,
+                18
+            ],
+            "headline": "BRYAN IN NEW-JERSEY.",
+            "article": "A conference of the New-Jersey Democratic State\nCommittee was held yesterday afternoon at the\nheadquarters in Jersey City 1t decided to\nhave Mr.. Bryan speak in Jersey City October 25\nThe meeting will be held under the auspices of the\nHudson County Democratic Committee. with\nview OF patching up the differences between the\nlocal committee and Chairman Courley. The State\nCommittee completed arrangements for the con-\nvention of the New-Jersey Democratic Clubs In\nTrenton on October Is.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2387,
+                    "y0": 7806,
+                    "x1": 3004,
+                    "y1": 7855
+                },
+                {
+                    "x0": 2200,
+                    "y0": 7868,
+                    "x1": 3205,
+                    "y1": 8271
+                }
+            ],
+            "bbox": [
+                2200,
+                7806,
+                3205,
+                8271
+            ],
+            "full_article_id": 19,
+            "id": "19_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                48,
+                66,
+                19
+            ],
+            "headline": "PRICE OF SILVER INCREASED.\n\nFIXED AT 81 CENTS AN OUNCE BY THE DIRECTOR\n\n\nOF THE MINT.",
+            "article": "Washington, Sept. 29.-Owing to the advance in\nthe price OF silver the Director OF the Mint. Mr..\nRoberts, to-day increased the price to be paid by\nthe Government for silver purchased from So cents\n10 81 cents a standard ounce. The Government at\npresent purchases only such silver is contained\nin gold deposits from the Klondike and other gold\nproducing sections Under the existing statute all\nsilver In gold deposits is paid for at the market\nprice The price has advanced steadily since 1895.\nwhen It touched n cents for a standard ounce. The\nnew price is to go into effect on Monday.\n\n\nThe Director of the Mint also has changed the\nIndian rupee from its silver to it's gold value to go\nAlthough England placed India gold basis\nsome time ago, official informatan was received\nto that effect until recently The silver rupee had\npreviously been the standard Indian coin. and was\nvalued 20.5 cents. Under the gold standard the\nsovereign succeeds the rupee the standard, and\nhereafter the rupee will be reckoned at its gold\nvalue. 32.4 cents",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3356,
+                    "y0": 4190,
+                    "x1": 4133,
+                    "y1": 4260
+                },
+                {
+                    "x0": 3239,
+                    "y0": 4322,
+                    "x1": 4244,
+                    "y1": 4433
+                },
+                {
+                    "x0": 3239,
+                    "y0": 4446,
+                    "x1": 4237,
+                    "y1": 5272
+                }
+            ],
+            "bbox": [
+                3239,
+                4190,
+                4244,
+                5272
+            ],
+            "full_article_id": 20,
+            "id": "20_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                64,
+                20
+            ],
+            "headline": "rHE on GUARD AT NEN.HArEN.",
+            "article": "New-Haven. Conn. Sept 29.-The Old Guard, Of\nNew-York. commanded by Major S. Ellis Briggs.\ncame New-Haven to-day as guests of the I'd\nCompany. Governors Foot Guards. The business\nblocks and many private houses were decorated\nin honor Of the visitors After a tour about the\ncity they entertained at luncheon at the\nhome OF Major Edward Clark of the Foot Guards\ntheir visitors attended by an escort of police\nparaded the principal streets of the city and at\no'clock dinner served at the Hotel Tontine.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3294,
+                    "y0": 7688,
+                    "x1": 4168,
+                    "y1": 7737
+                },
+                {
+                    "x0": 3239,
+                    "y0": 7750,
+                    "x1": 4237,
+                    "y1": 8195
+                }
+            ],
+            "bbox": [
+                3239,
+                7688,
+                4237,
+                8195
+            ],
+            "full_article_id": 21,
+            "id": "21_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                71,
+                76,
+                21
+            ],
+            "headline": "WORLDS RAILWAY CONGRESS IN 1901\n\nAMERICAN INVITATION ACCEPTED AT THE\n\n\nMEETING JUST CLOSING IN PARIS.",
+            "article": "The next International Railway Congress will be\nheld in Washington in October, 1904. cable dis\npatch from w. F. Allen. secretary of the American\nRailway Association announcing that fact was re-\nceived yesterday the offices OF the association.\nMr.. Allen who is of the American delegates to\nthe International Railway Congress which has been\nin session in the French capital during the last\nweek says that pressing invitation by the dele\ngates from this country had been extended to the\nCongress- and that the members of that body had\ninformed Mr. Allen of their acceptance.\n\n\nThe following officials of American railways have\nbeen In attendance at the sixth session OF the In\nternational Congress- which closed yesterday: L.\nF. Loree general manager Pennsylvania lines west\nof Pittsburg; ]. Ramsey, jr., v!ce-presdent and\ngeneral manager Wabash; j. T. Harahan. second\nvice-president Illinois Central; c. w Buchholz\nchief engineer Erie; s T. Crapo general manager\nFlint and Pere Marquette; G. L. BretZ. general\nmanager West Virginia Central and Pittsburg; Paul\nDidier assistant chief engineer Pittsburg and\nWESTERN c. P. Clark director New-York New\nHaven and Hartford: P. H. Dudley. inspecting an\ngineer New-York Central: DR. c. B. Dudley. chem\nist Pennsylvania: A NJ. Gibbs. assistant mechanical\nengineer Pennsylvania; Colonel James L. Taylor.\nPennsylvania: Martin a. Knapp chairman OF the\nInterstate Commerce Commission, and W. F. Allen,\nsecretary of the American Railway Association.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4278,
+                    "y0": 4661,
+                    "x1": 5234,
+                    "y1": 4731
+                },
+                {
+                    "x0": 4278,
+                    "y0": 4716,
+                    "x1": 5262,
+                    "y1": 4849
+                },
+                {
+                    "x0": 4264,
+                    "y0": 4862,
+                    "x1": 5269,
+                    "y1": 6047
+                }
+            ],
+            "bbox": [
+                4264,
+                4661,
+                5269,
+                6047
+            ],
+            "full_article_id": 22,
+            "id": "22_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                59,
+                22
+            ],
+            "headline": "cHARGED WITH BREAKING AND ENTERING.",
+            "article": "Montclair, n. j., Sept % (SpeciaD.-Henry Dob\nbins said to be a New-York business man, was\nheld in $500 bail by Recorder Yost to-day on a\ncharge of breaking and entering. made by Miss\nDora Taft. Dobbins boarded with the complainant\nduring the summer. He refused 1t Is said TO pay\na bill Of $32 for the use of a barn as a storage place\nfor his automobile He paid his board bill yester-\nday. before returning TO New York out declined\npay the bill for storage and. is alleged sawed\nthe lock off the barn and got his automobile when\nbir",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3232,
+                    "y0": 7141,
+                    "x1": 4230,
+                    "y1": 7197
+                },
+                {
+                    "x0": 3225,
+                    "y0": 7210,
+                    "x1": 4237,
+                    "y1": 7654
+                }
+            ],
+            "bbox": [
+                3225,
+                7141,
+                4237,
+                7654
+            ],
+            "full_article_id": 23,
+            "id": "23_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                58,
+                23
+            ],
+            "headline": "COTTAGES ROBBED AT LONG BRAycH.",
+            "article": "Long Branch. \". J., Sept. % (SpecaD.-The Daniel\nDouShe-ty cottage. in Ocean-ave.. at the West End\noccupied by Fritz Loeb. OF No. 541 Madison-aye.\nNew-York and the Lane cottage, In Chelsea-sve.\nwhere Uriah Herman and family are living, were\nentered by thieves at early hour this morning\nMr. Loeb's loss is said TO be 1900. which includes\ns1s5 in cash. a watch and chain and breastpin.\nthe latter being a highly priced gem. Mr.. Her\nmans loss was small. The thieves were discovered\nin time to prevent wholesale robbery, but they\nescaped and stin at large.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 5337,
+                    "y0": 7259,
+                    "x1": 6280,
+                    "y1": 7315
+                },
+                {
+                    "x0": 5296,
+                    "y0": 7328,
+                    "x1": 6308,
+                    "y1": 7786
+                }
+            ],
+            "bbox": [
+                5296,
+                7259,
+                6308,
+                7786
+            ],
+            "full_article_id": 24,
+            "id": "24_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                61,
+                24
+            ],
+            "headline": "AMERICAN FLAG PULLED DOWN IN MEXICO",
+            "article": "San Antonio, Tex, Sept. 29.-United States Consul\nw. w Mills, at Chihuahua. Mex, has sent note\nto the Federal authorities here and also the\nState Department at Washington detailing an in\nsuit to the American flag his consulate\nSeptember 16. the anniversary of Mexican inde-\npendence. by mob of Mexcans. He had hoisted\nthe United States and Mexican flags in honor of\nthe day. and the mob tore down the United States",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3232,
+                    "y0": 6691,
+                    "x1": 4244,
+                    "y1": 6747
+                },
+                {
+                    "x0": 3232,
+                    "y0": 6760,
+                    "x1": 4244,
+                    "y1": 7107
+                }
+            ],
+            "bbox": [
+                3232,
+                6691,
+                4244,
+                7107
+            ],
+            "full_article_id": 25,
+            "id": "25_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                53,
+                26
+            ],
+            "headline": "TWO NAVAL VESSELS FOR SALE.",
+            "article": "washington Sept. alt has been decided 20 sell\nthe old single turret monitor Nantucket and the tug\nCheyenne A Naval Board recently appraised the\nformer at $50 and the latter 5000. No bids\nwere received on September q. when proposals\nto be opened for the purchase OF the ships.\nand bids will be invited again.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 5379,
+                    "y0": 7813,
+                    "x1": 6204,
+                    "y1": 7869
+                },
+                {
+                    "x0": 5296,
+                    "y0": 7882,
+                    "x1": 6315,
+                    "y1": 8153
+                }
+            ],
+            "bbox": [
+                5296,
+                7813,
+                6315,
+                8153
+            ],
+            "full_article_id": 27,
+            "id": "27_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                69,
+                27
+            ],
+            "headline": "PRESIDENCY OF SOUTHERN PACIFIC.",
+            "article": "San Francisco Sept. 2s-\"The Examiner to-day\nsays that the latest gossip in Southern Pacific\ncircles is that James Speyer. Charles H. Tweed and\nD. o. Mills as a special committee of the director\nate have offered H e Huntington the presidency\nof the company, but that he has declined 1t on the\nground that his duties first vce-president OF the\nroad together with the work of looking after the\nlarge fortune left him by his uncle. will more than\noccupy his time\n\n\nThe officials who indulging in talk of this\ncharacter assert that H. Z. Huntington does not\nwant outsider president. His particular can\ndidate for the place is the third cepresident j..\nG. Stubbs. He also wants. 1t is said. Edwin Haw-\nley. of New-York. to succeed c. P. Huntington as\npresident of the Pacific Mail",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4298,
+                    "y0": 6067,
+                    "x1": 5214,
+                    "y1": 6124
+                },
+                {
+                    "x0": 4264,
+                    "y0": 6130,
+                    "x1": 5262,
+                    "y1": 6754
+                }
+            ],
+            "bbox": [
+                4264,
+                6067,
+                5262,
+                6754
+            ],
+            "full_article_id": 28,
+            "id": "28_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                56,
+                28
+            ],
+            "headline": "HOBsoy ASKS SIN MONTHS LEAVE.",
+            "article": "washington. Sept 2s.-Lleutenant Hobson has sp-\npiled to the Navy Department for six months\nleave OF absence because OF trouble with his eyes\nHe has experienced considerable pain In his eyes\nOF late. particularly when exposed 70 a strong\nlight. and Il Is understood that specialist has\nrecommended a complete rest for six months.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 5344,
+                    "y0": 8187,
+                    "x1": 6260,
+                    "y1": 8243
+                },
+                {
+                    "x0": 5303,
+                    "y0": 8249,
+                    "x1": 6322,
+                    "y1": 8527
+                }
+            ],
+            "bbox": [
+                5303,
+                8187,
+                6322,
+                8527
+            ],
+            "full_article_id": 29,
+            "id": "29_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                30
+            ],
+            "headline": "",
+            "article": "land. the Lake Shore line, and also crosses the\nLake Shore at Goshen, Ind is, President Gala\nway of the NewYork Central said last January\nprofitable feeder the Vanderbilt system to\nwhich it brings interchanging business from its\nlines extending south and Columbus and\nCincinnati, Louisville and Indianapolis Peoria and\nSt. Louis.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2200,
+                    "y0": 4640,
+                    "x1": 3212,
+                    "y1": 4911
+                }
+            ],
+            "bbox": [
+                2200,
+                4640,
+                3212,
+                4911
+            ],
+            "full_article_id": 31,
+            "id": "31_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                44,
+                60,
+                31
+            ],
+            "headline": "METH0D1sTs OPPOSE FAITH CURE.\n\nBISHOP M'CABE REPRIMANDs CLERGYMAN FOR\n\n\nHERETICAL DOCTRINES.",
+            "article": "North Tonawanda, N Y, Sept. pa sensation\nwas sprung the Genesee Methodist Conference\nwhen 1t learned that Bishop McCabe had\ncalled a clergyman before him and threatened him\nwith discipline unless he desisted from preaching\nheretical doctrines The preacher taught the doc\ntrines of organization called the Christian and\nMissionary Alliance, Of which DR.. Simpson, of\nNewly orf. is the leader This believes in\nthe laying on Of hands for the cure of physical i'll\nThe clergyman used his influence for the\nadvancement of the faith healing ideas until there\nhas been much division and some Withdrawals\nfrom his church",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2269,
+                    "y0": 5894,
+                    "x1": 3136,
+                    "y1": 5957
+                },
+                {
+                    "x0": 2207,
+                    "y0": 6012,
+                    "x1": 3219,
+                    "y1": 6137
+                },
+                {
+                    "x0": 2200,
+                    "y0": 6164,
+                    "x1": 3205,
+                    "y1": 6698
+                }
+            ],
+            "bbox": [
+                2200,
+                5894,
+                3219,
+                6698
+            ],
+            "full_article_id": 32,
+            "id": "32_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                47,
+                68,
+                32
+            ],
+            "headline": "PROGRESS OF CENSUS WORK.\n\nTHE BUREAU WILL BEGIN TO ANNOUNCE PoPu-\n\n\nLATIoN OF STATES THIS WEEK.",
+            "article": "LATIoN OF STATES THIS WEEK.\n\n\nwashington, Sept. 29-The Census Bureau to-\nday finished the enumeration of all the cities in\nthe United States of 25.OOO inha abitants with\nthe exception OF Los Angeles Cal, and\nSeattle and Tacoma Wash. The work Of an\nnouncing the population OF States will come next\nbeginning with Arkansas probably next Monde\nor Tuesday. The States will be announced in short\nbulletins giving the total population. increase over\nthe two preceding census reports. the popula alton\nby counties and the population OF each Of the\nunder 25,Ooo' Including all the incorporated towns\nwithin the State limits. II is hoped to complete\nthe work on the States by the time Congress\nassemblies, after which the vital statistics will be\npushed.\n\n\nIt IS probable that the present census will cost\nin the neighborhood Of S15OOO,O00.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3377,
+                    "y0": 2417,
+                    "x1": 4119,
+                    "y1": 2487
+                },
+                {
+                    "x0": 3246,
+                    "y0": 2535,
+                    "x1": 4244,
+                    "y1": 2674
+                },
+                {
+                    "x0": 3246,
+                    "y0": 2590,
+                    "x1": 4244,
+                    "y1": 3353
+                }
+            ],
+            "bbox": [
+                3246,
+                2417,
+                4244,
+                3353
+            ],
+            "full_article_id": 33,
+            "id": "33_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                33
+            ],
+            "headline": "",
+            "article": "n,er after an exciting chase. They were captured\nagain. however. by policemen who had been sta\ntoned at the entrance to the pier In court the\nprisoners were held in $3.50 bail suspicious per-\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 5303,
+                    "y0": 7065,
+                    "x1": 6301,
+                    "y1": 7239
+                }
+            ],
+            "bbox": [
+                5303,
+                7065,
+                6301,
+                7239
+            ],
+            "full_article_id": 34,
+            "id": "34_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                50,
+                78,
+                35
+            ],
+            "headline": "THROWS LAMP AT WoMEN's FEET.\n\nwoRKINGMANs ACT IMPERILs THE LIFE\n\n\nOF PEDESTRIAN",
+            "article": "OF PEDESTRIAN.\n\n\nMrs. Margaret Gilman. eighty-three years old.\nOF No. 273 Madson-ave.. with her maid, Miss c.\nMcguire, was passing No II East hirty-eighth-st.\nyesterday afternoon. when lighted lamp struck\nthe sidewalk directly In front of her. The lamp\nwas broken and the oil famed up setting fire TO\nthe clothing OF Mrs. Gilman. Miss Mcguire\npromptly beat out the flames with her hands. Sc\nverely burning them and her arms in doing so.\nMrs. Gilman not injured. The two women\nentered a cab and were driven home\n\n\nThe lamp was thrown from the second floor of\nthe building by Fritz Gunther. decorator. who\nlives at No. SlS Cedar Place. in The Bronx. He\nwas at work in the building. when the wick of the\nlamp suddenly hared UP. Fearing that the infam-\nmable material with which he was working would\nbecome ignited, Gunther grabbed the lamp and\nthrew II into the street. Mrs Gilman refused 70\nmake n complaint against Gunther, and he not\narrested.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3246,
+                    "y0": 263,
+                    "x1": 4230,
+                    "y1": 333
+                },
+                {
+                    "x0": 3239,
+                    "y0": 387,
+                    "x1": 4237,
+                    "y1": 513
+                },
+                {
+                    "x0": 3246,
+                    "y0": 477,
+                    "x1": 4237,
+                    "y1": 1289
+                }
+            ],
+            "bbox": [
+                3239,
+                263,
+                4237,
+                1289
+            ],
+            "full_article_id": 36,
+            "id": "36_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                63,
+                38
+            ],
+            "headline": "BORN WTTHOrT ARns OR LEGS.",
+            "article": "Mrs. Mary Catherwood, wife of Samuel Gather\nwood. of No. 35l Fifteenth-ave.. Newark. n. J..\ngave birth yesterday to a child without arms or\notherwise.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2283,
+                    "y0": 8304,
+                    "x1": 3115,
+                    "y1": 8361
+                },
+                {
+                    "x0": 2193,
+                    "y0": 8367,
+                    "x1": 3198,
+                    "y1": 8562
+                }
+            ],
+            "bbox": [
+                2193,
+                8304,
+                3198,
+                8562
+            ],
+            "full_article_id": 39,
+            "id": "39_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                45,
+                77,
+                46
+            ],
+            "headline": "SUIT AGAINST A LUMBER FIRM.\n\nPLA1NFIELD MILL OWNER INJURED BY A BREAK\n\n\nING sCAFFoLD WANTS $4,000",
+            "article": "\n\n\nPlainfeld, n. Y, Sept 2e.-Suit has been begun\nby J. D. Spcer. of the firm of Spcer & Hubbard\nmill owners. in this city, for 1000 against the\nlumber firm of Boice, Runyon & Co., for injuries\nreceived last spring by the breaking of a scaffold\nIN the lumber yard. The suit is in reality against\nthe Travellers Insurance Company. but has to be\nbrought against the firm, which insured\nagainst accidents of this kind.\n\n\nMr.. Spicer and John D. Runyon the scat\nfold twenty feet from the ground, examining um-\nDer. when the scaffold broke. Mr. Runyon died\nfrom his injuries but Mr.. Spicer after long ILL\nness Is able to be about again.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3343,
+                    "y0": 3373,
+                    "x1": 4133,
+                    "y1": 3450
+                },
+                {
+                    "x0": 3239,
+                    "y0": 3511,
+                    "x1": 4230,
+                    "y1": 3623
+                },
+                {
+                    "x0": 3239,
+                    "y0": 3608,
+                    "x1": 4237,
+                    "y1": 4163
+                }
+            ],
+            "bbox": [
+                3239,
+                3373,
+                4237,
+                4163
+            ],
+            "full_article_id": 47,
+            "id": "47_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                52
+            ],
+            "headline": "",
+            "article": "ALMOST EVERY BRANCH OF INDUSTRY\nis represented in the little advertisements Of the\npeople In the narrow columns.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2200,
+                    "y0": 8588,
+                    "x1": 3198,
+                    "y1": 8707
+                }
+            ],
+            "bbox": [
+                2200,
+                8588,
+                3198,
+                8707
+            ],
+            "full_article_id": 53,
+            "id": "53_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        },
+        {
+            "object_ids": [
+                80,
+                54
+            ],
+            "headline": "",
+            "article": "THE REAL THING\nin bargains may be found IN the little advsrtfse-\nments OF the people In the narrow columns ~ to-\ndays papo--",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 5573,
+                    "y0": 8554,
+                    "x1": 6045,
+                    "y1": 8589
+                },
+                {
+                    "x0": 5310,
+                    "y0": 8568,
+                    "x1": 6308,
+                    "y1": 8700
+                }
+            ],
+            "bbox": [
+                5310,
+                8554,
+                6308,
+                8700
+            ],
+            "full_article_id": 55,
+            "id": "55_1900-09-30_p3_sn83030214_00175040912_1900093001_0558.json"
+        }
+    ]
+}

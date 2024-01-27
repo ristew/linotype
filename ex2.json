@@ -1,0 +1,2598 @@
+{
+    "lccn": {
+        "title": "Evening star.",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2331-9968",
+        "lccn": "sn83045462",
+        "start_year": "1854",
+        "end_year": "1972",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [
+            "sn83045461"
+        ],
+        "successors": [
+            "sn83045463",
+            "sn82016181"
+        ],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn83045462",
+        "edition": "ed-01",
+        "date": "1900-06-08",
+        "pages": [
+            "seq-9",
+            "seq-16",
+            "seq-14",
+            "seq-3",
+            "seq-4",
+            "seq-5",
+            "seq-2",
+            "seq-6",
+            "seq-7",
+            "seq-11",
+            "seq-13",
+            "seq-10",
+            "seq-1",
+            "seq-12",
+            "seq-8",
+            "seq-15"
+        ]
+    },
+    "page_number": "15",
+    "scan": {
+        "lccn": "sn83045462",
+        "edition": "ed-01",
+        "date": "1900-06-08",
+        "page": "15",
+        "jp2_url": "https://chroniclingamerica.loc.gov/lccn/sn83045462/1900-06-08/ed-1/seq-15.jp2",
+        "ocr_text_url": "https://chroniclingamerica.loc.gov/lccn/sn83045462/1900-06-08/ed-1/seq-15/ocr.txt",
+        "ocr_xml_url": "https://chroniclingamerica.loc.gov/lccn/sn83045462/1900-06-08/ed-1/seq-15/ocr.xml",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/dlc_yorkie_ver01/data/sn83045462/00280655338/1900060801/0431.jp2",
+        "height": 6492,
+        "width": 4854
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1422,
+                "y0": 5213,
+                "x1": 2062,
+                "y1": 6330
+            },
+            "class": "article",
+            "raw_text": "TRUSTEES SALE OF THE WASHINGTON AND\n\n\nPOTOMAC RAILROAD.\n\n\nBy virtue of decree of the circuit court of the\nUnited States for the district Of Maryland. passed\nin the case Of the Union Trust Company OF Phila-\ndelphia vs.. the Washington and Potomac Railroad\nCompany. the undersigned. as trustee named in\ncourt house in Upper Marboe'; Prince Georges\nHHtfi EHGHrEESTH. MT T 1900. ~ AT TWEEVs ooi.ocK\nNOON IMS Al xn THE RALh0Ap OF TE WASH aSH\nPANY. beginning at Point Lookout at the con-\nfuence Of the Potomac river and the Chesaoeake\nbay. in St Mary's county. Maryland. and running\nthence to the city Of Washington, in the District\nof Columbia. its extensions and appurtenances.\nwith the equipments thereof. consisting Of all Its\npersonal property and effects u every kind and\nalso all the rights, liberties. privileges immuni-\nties and franchises Of the said Washington and\nPotomac Railroad Company. and also all the\nrights of way and land used in connection with or\nfor the construction and maintenance Of said\nwith all the bridges. culverts sidetracks. depots,\ngrounds, machine shops. buildings and other struc\nlures. properties. real and personal, and improve\nments Of every kind and description thereon.\ndon of It between Brandywtne, a station on the\nBaltimore and Potomac railroad In Prince\nGeorges county. and Mechanicsville, in st. Mary\ncounty Maryland. have been built and are now In\nactual operation.\n\n\nTerms of sale prescribed BY the decree are a.\nfollows, viz:\n\n\nNo bid less than twenty five thousand dollars\nten thousand dollars G$100O0) to be paid In cash\nand the balance either in cash or In bonds of the\ndefendant company. the dividend on which Will be\nposit of ten thousand dollars $4,000 in cash or\nnifty thousand dollars $3.50. .0O0) In said bonds to be\nmade II demanded by the trustee\n\n\nUNION TRUST COMPANY,\n\n\nof Philadelphia Trustee.\n\n\nJAMES 81. e. MITCHELL.\n3e1-1aw-8t AncttoneeIs",
+            "legibility": "Questionable",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 43,
+            "bbox": {
+                "x0": 1529,
+                "y0": 5137,
+                "x1": 1961,
+                "y1": 5199
+            },
+            "class": "headline",
+            "raw_text": "JOHN P. POE, SOLICITOR,\n100 e. Lexington ST., Baltimore.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 98,
+            "bbox": {
+                "x0": 1443,
+                "y0": 5213,
+                "x1": 2057,
+                "y1": 5245
+            },
+            "class": "author",
+            "raw_text": "TRUSTEES SALE OF THE WASHINGTON AMI",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3410,
+                "y0": 4275,
+                "x1": 4056,
+                "y1": 5230
+            },
+            "class": "article",
+            "raw_text": "SALE AT PUBLIC AUCTION OF A VALUABLE\n\n\nPIECE OF REAL ESTATE ON THE EAST\n\n\nSIDE OF TWELFTH STREET BETWEEN N\n\n\nAND STREETS NORTHWEST, KNOWN AS\n\n\nNO. 1341 TWELFTH STREET NORTHWEST.\n\n\nBy virtue Of deed in trust and the authority\ntherein given t. US from Ann Hall and Others\ndated February g. 1897, and recorded on the 29th\none of the land records of the District OF Column\nbia, the undersigned will sell at public auction to\nthe highest bidder, In front Of the premises. on\nMONDAY. JUNE EIGHTEENTH, 1900, AT FIVE\nO'CLOCK PM, the following described valuable\npiece Of real estate, situate on the east side Of\nTwelfth street west between and streets\nnorth, In the city Of Washington. District of Co.\nlumbia, viz: AL that part parcel Of lot num-\nbered six (6), In square numbered three hundred\nmetes and bounds: Beginning for the at a\npoint on Twelfth street west forty (4O) feet south\nfrom the northwest corner of said lot, thence\nming east ninety-fve (95) feet, the full depth Of\nsaid lot; thence -unning north twenty (20) feet;\nthence running west nnetyve 1851 feet to the line\nOf said Twelfth street, and thence running south,\nby the line of said Twelfth street. twenty COY feet\nto the place Of beginning, containing one thousand\nIn cash, and the balance in two equal installments.\npayable at six and twelve months. with six per\ncent interest, to be secured by deed of trust\nthe premises sold. all cash. at the option Of\nthe purchaser All conveyancng. recording and\nrevenue stamps to be at the purchasers cost. The\nterms Of sale must be complied with within fifteen\ndays otherwise the property will be resold at the\n\n\nCLIFTON NJ. BIGEEoW. Trustee.\n\n\nMASON N. RICHARDSON. Trustee.\n\n\nte6-d&dB S44 D st. NV.",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3405,
+                "y0": 5284,
+                "x1": 4045,
+                "y1": 6340
+            },
+            "class": "article",
+            "raw_text": "AND p TNIMPRovED REAL EsTATEIBRIcR is- B CT,\nSTORES AND DWELLINGS. nos. 148 c ST.\nSc. AND 800 9TH 81: Sc; BRICK DWELL\nSs Nos NJ sio 1sl2 aTn AZ ss isl4 6. 81 m\nNE, 1908 9TH ST. NV, AND sos SPRUCE\nST. LIE DROIT PARK. qNIMPROvED PROP\nERTY-15TH AND S. E.. d ST. BET. 18TH\nAND 2 18TH L sTs 4o sE 17TH sT ST BET Z AMP N\nSc, AND ON THE CORNER OF 5TH AND E\nSTS Me-\n\n\nThe undersigned, trustees. will sell. at public\nauction, In front of the respective premises. on\nTHURSDAY. FouRTEENTH DAY IA OF JUNE; 1902.\nPM, the following described real estate in Wash\n'\"kss. iss .ss 4 set % q 1916 81 s4s.\nOn On the be- SANE DAY. AT FIVE O'CLOCK Pm\nPIT. lot 9, SO. 1918.\n\n\nLots and 20. 50. 1889.\n\n\nLot 10. %. 1868.\n\n\nSs g. tss e e. s&Ms 4 e DAY. At SIX O'CLOCK PM\nLots SO to 81. included, So 1876.\nOn FRIDAY, FIFTEENTH DAY OF JUNE, AT\nHALF-PAsr -FOUR O'CLOCK Pm\nSAME DAY. AT FIVE O'CLOCK\nLot s2, block is. lie Droit Park\" together\nwith all the improvements, rights. &c.\nTerms: One-third cash, the balance in one and\ntwo years. with interest from date of sale at go\nspective premises or all cash. at option Of the pur-\nchaser. deposit Of 800 required on each parcel\nat the time Of sale. Terms to be compiled with\nIn Is days. All eonveyancing, stamps, &c, at the\ncost of the purchaser.\n\n\nBATES WARREN,\n\n\nJ. ]. DARLINGTON,\n\n\nCLARENCE A. BRANDENBURG.\n1e5d&da Trustees.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 54,
+            "bbox": {
+                "x0": 3446,
+                "y0": 5239,
+                "x1": 3995,
+                "y1": 5275
+            },
+            "class": "headline",
+            "raw_text": "JAMES W. RANL1FFE, AUcTIoNEER.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 4065,
+                "y0": 5102,
+                "x1": 4715,
+                "y1": 6340
+            },
+            "class": "article",
+            "raw_text": "TRUSTEES, SALE OF BEAUTIFULLY LOCATED\ntTS @ IN cIXNIRS TXIyERsITY III nEIGHT /; = :n BRo9K-\nPoTo2AC CIV WATER. 1sH.-c GAS. ETC e;i-foi'''o 'A\"S'\nBy virtue of four \"a certain deeds of trust to the\nundersigned Redford w. Walker and J. Henry\nsigned Redford W. Walker and George E Fleming.\nall recorded in the land records of the District Of\nIII ct seq: in I4ber No 1850 folio 70 ct seq. in\nfolio 2s1 seq. and at the request of the parties\nsecured thereby, the undersigned trustees will\nTME FL a1 Of J q S sss\nING AT THREE O'CLOCK P: NJ, at which hour We\na.. Immediately thereafter we will sell lots mum\nbered three 81 and four @ In block number twelve\n% Imme lately thereafter We will sell lot NUM-\nthereafter W. will sell lot number three in block\nnumber fifteen Q5). Immediately thereafter we will\n5iock number fifteen 15,, described as follows:\none hundred QJ feet north Of the southeast corner\n81 9hsn nsad lot and running thence porh 4o feet,\nnumber II; thence in a straight line to the place\nOf beginning All of said above mentioned lots and\nWalker, trus.ees'. recorded subdivision of tract\nCT land called University Heights\" as recorded in\nbis IN Der So County ah folio ss\n\n\nTerms Of sale: One-third of the purchase money\n: IAN and years. respeetiveiy. in notes q the pur.\nchaser. secured on the property sold, With interest\nsePess soS O. lot At\ntime Of sale. All conveyancing. stamps and record\nIng At purchases cost Terms to be S complied with\nthe right to resell ut risk and cost Of default\nBEDFORD W. WALKER. Trustee.\n\n\n1905 ct. NJ\n\n\nJ. HENRY BROOKS ] Trustee\n\n\nGEORGE r. FLEMING. Trustee.\n\n\nly8l-Ats 400 Ut. NV.",
+            "legibility": "Questionable",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 51,
+            "bbox": {
+                "x0": 4080,
+                "y0": 5061,
+                "x1": 4700,
+                "y1": 5098
+            },
+            "class": "headline",
+            "raw_text": "THOMAS J. OWEN. AucT.. sls F ST. NV.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 88,
+            "bbox": {
+                "x0": 4070,
+                "y0": 5102,
+                "x1": 4700,
+                "y1": 5159
+            },
+            "class": "headline",
+            "raw_text": "TRUSTEES SALE OF BEAUTIFULLY LOCATED\n\n\nLOTS N UNIVERSITY HEIGHTS'' BROOk",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2087,
+                "y0": 4397,
+                "x1": 2727,
+                "y1": 5072
+            },
+            "class": "article",
+            "raw_text": "=, BY virtue Of decree of the Supreme Court of\noee ~, plstflct l OF Columbia passed the 9Th day\nsS az pHblie auction In front Of the premises.\nIiALF.PAsT FOUR O'CLOCK PM, lot lettered\nIn stotts recorded subdivision Of original lot\nnumbered one ~. In square numbered six huLdretf\nand ninety four (6s4). comprising premises No 44s\nNew Jersey avenue southeast\n\n\nIhis property Is in good condition, is conveniently\nlocated with reference to the Capitol and the Con-\ngfes~lonal Library, and should command the atten-\ntion OF investors, and those desiring comfortable\nhome.\n\n\nTtr rms Of sale: One-t third Of the purchase money\nIn cash. and the balance In equal installments,\npayabie , In one and two years from day of sale.\nviii interest at the rate Of per cent per annum,\nsecured by deed OF trust upon the premises sold.\nOF an cash. at the option Of the purchaser AL\ne1nSeyahclng including revenue stamps, at the pur-\nchasers cost. A deposit of $1OO will be required\nut the time Of sale. II terms of sale not\neSEpiled with within ten days from day OF sale\nme trustee reserves the right to sell the property\nat the risk and cost Of the defauting purchaser,\natIer I'VE days advertisement In tie Washington\nPost or Star. SIDNEY F. THOMAS\n\n\nJeI-d&S Trustee, 452 d st. NV.",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2092,
+                "y0": 4128,
+                "x1": 2727,
+                "y1": 4388
+            },
+            "class": "headline",
+            "raw_text": "'a-H1N' '\" HAICLIFFE, AUCTIUNEEK.\nChancery Sale of a Two-\nstory and Basement\nBrick Dwelling, No. 448\nNew Jersey Avenue S.E.,\ni'm WASHINGTON Cifv.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2741,
+                "y0": 5513,
+                "x1": 3381,
+                "y1": 6335
+            },
+            "class": "article",
+            "raw_text": "CHANCERY SALE OF Two-sToRY BRICK\n\n\nNORTHEAST.\n\n\nBy virtue of decree of the Supreme Court Of\nthe District Of Of Columbia, passed on the I'd day q\nJune. d. 1900. In a certain cause therein pend\nM ing, whereby .e, John B. Geier Is complainant and\nknown as equity cause No 2ls75. docket 4s the\nEIGHTEENTH E!4I DII DAY OF JUNE. AT FIVE\npublic auction all that certain parcel Of real estate\nsituate In the city Of Washington District Of Co\nlumbia, known as lot numbered ten QO), in Will.\nlam r. HoltzmAn's subdivision Of parts Of certain\noriginal lots In square numbered seven hundred and\neighty-four (7S4), the said subdivision is re-\ncorded in Book No. 10, at page 131, in the office\nOf the surveyor of the District Of Columbia, I'm\nproved by a two-st0ry brick building, used as q\nblacksmith shop and dwelling\n\n\nTerms Of sale: One-third Of the purchase price\nin cash. balance in equal tnstalments at one and\ntwo years from day Of sale, to be secured by notes\nof purchaser, bearing six per cent interest, and\nthe purchasers option Taxes paid to day Of sale.\nAll conveyancing including cost Of recording and\nrevenue stamps. at cost Of purchaser. Deposit Of\none hundred dollars required at time Of sale.\nTerms Of sale to be complied with in fifteen days\nfrom day of sale. otherwise the trustee reserves\nthe right to resell at the cost and risk of default\ning purchaser, after five days notice Of such re-\nsale In The Evening Star.\n\n\nERNEST L. SCHMIDT, Trustee,\n\n\n1eSd&ds Eendau bldg. ~ and D ~. M.",
+            "legibility": "Questionable",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 92,
+            "bbox": {
+                "x0": 2766,
+                "y0": 5203,
+                "x1": 2909,
+                "y1": 5240
+            },
+            "class": "headline",
+            "raw_text": "my23-d&ds",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -4
+        },
+        {
+            "id": 89,
+            "bbox": {
+                "x0": 2761,
+                "y0": 5376,
+                "x1": 2879,
+                "y1": 5407
+            },
+            "class": "headline",
+            "raw_text": "je4-d&ds",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -3
+        },
+        {
+            "id": 50,
+            "bbox": {
+                "x0": 2908,
+                "y0": 5416,
+                "x1": 3209,
+                "y1": 5453
+            },
+            "class": "headline",
+            "raw_text": "FUTURE DAYS.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 59,
+            "bbox": {
+                "x0": 2787,
+                "y0": 5462,
+                "x1": 3330,
+                "y1": 5503
+            },
+            "class": "headline",
+            "raw_text": "JAMES W. RADCLIFFE, Auor1oNEER.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2746,
+                "y0": 4275,
+                "x1": 3391,
+                "y1": 5407
+            },
+            "class": "article",
+            "raw_text": "By virtue of a deed of trust, duly recorded in\nLiber No. 1880. folio II ct seq, one of the land\nrecords for the District Of Columbia and at the\nsigned trustees will offer for sale. by public aue\nsEe9NP 8 GO poI9AY DAY Of June: AID. 1900: A. HALF\nscribed real estate oituate in the county Of Wash\nington. in the District Of Columbia, to wit: Part\nOf lot numbered six (6) In Daniel Breeds subdi-\nWis vision Of part Of tract of land known MT\nNo. I page q In the surveyors Office Of said Dis\ntrict, said subdivision being called Breeds 8\nrace beginning for the same at the northwester-\nly corner Of said lot and running thence south\neasterly on the southerly line of Breeds Terrace\ntwentyn l2oQ feet; thence running southwesterly\nparallel with the westerly line of said lot eighty\nangles to the said westerly line of said lot twenty\nhye (Zol feet to point in said westerly line\neighty 800 feet southeasterly from the north\nwesterly corner thereof. and thence running north\neasterly on said westerly line eighty 500 feet to\nthe place Of beginning together with all the i'm\nprovements. rights etc.\n\n\ntwo years, with interest from the day Of sale, at\nsix per cent per annum, secured by deed of trust\non the property sold, all cash. at the option Of\nthe purchaser. deposit Of $500 required upon\ncompiled with In fifteen days from the day Of sale\nthe trustees reserve the right to resell the prop\nerty at the risk and cost of the defaulting pur\nchaser after five days advertisement Of such re-\nsale In some newspaper published in Washington,\np q. All conveyancing. stamps, etc, at pur-\nchasers cost\n\n\nJOHN A. SCHAEFER.\n\n\nWILLIAM R. McCLOSKY.\nmy23-d&ds Trustees.\nDTHE ABovE SALE IS POSTPONED, ON\naccount Of the rain. until SATURDAY, THE\nNINTH DAY OF JUNE. 1900. at the same hour\nand place.\n\n\nJOHN A. sCHAEFER.\n\n\nWILLIAM R. McCLOSKY.\nje4-d&ds Trustees.",
+            "legibility": "Questionable",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2756,
+                "y0": 3986,
+                "x1": 3391,
+                "y1": 4271
+            },
+            "class": "headline",
+            "raw_text": "JAMES W. RATCLIFFE, AUCTIoNEER\n\n\nTrustees Sale of Two=St0ry\nFrame, Mansard Roof\nDwelling, No. l46O\nBreeds Terrace or Coax\nStreet0. Mount Pleasant.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2082,
+                "y0": 5837,
+                "x1": 2727,
+                "y1": 6335
+            },
+            "class": "article",
+            "raw_text": "TRUSTEES SALE OF VALUABLE IMPROVED\nNv !aitGI paE0pERrY ~ In IN kENILwoRTH, D: g. ,.o,\nand recorded In Liber 5375 folio go ct seq, one\nOf the land ,h records Of The District Of Columbia\nwe will sell. at public Auction. in front Of the\nRETsPFssssi EsFsTH ,sao on WEDNEspAY 6 JUNE THIR,\nfollowing described land and premises, situated in\nthe county @ Of Washington, m said District yia.:\nand Lawrence o. Malery. ftnstees, subdivision Of\nRsst S1, S1 lot IN the tract heretofore known a.\nper plat recorded In the once of the surveyor for\nthe District Of Columbia. IN County Book 10, folio\nq twO-story frame dwelling\n\n\nTerms: 500 cash. balance easy.\n\n\n~ d. B. MACKAIL,\n\n\nT. o. MALLERY,\nss%8s,11&1s Hasteis",
+            "legibility": "Questionable",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 84,
+            "bbox": {
+                "x0": 2097,
+                "y0": 5746,
+                "x1": 2245,
+                "y1": 5777
+            },
+            "class": "headline",
+            "raw_text": "je2-d&ds",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -3
+        },
+        {
+            "id": 46,
+            "bbox": {
+                "x0": 2142,
+                "y0": 5787,
+                "x1": 2661,
+                "y1": 5823
+            },
+            "class": "headline",
+            "raw_text": "THOMAS DOWNING, AUcT1oNEER.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 90,
+            "bbox": {
+                "x0": 2087,
+                "y0": 5827,
+                "x1": 2727,
+                "y1": 5884
+            },
+            "class": "headline",
+            "raw_text": "TRUSTEES SALE OF VAIUARLE IMPROVED\n\n\nPROPERTY IN KENILXORTH. ID. @.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 4075,
+                "y0": 3672,
+                "x1": 4720,
+                "y1": 5032
+            },
+            "class": "article",
+            "raw_text": "CHANCERY TRUSTEES SALE OF VALUABLE\nsGsSRhAN sSIF r KES1PENGE s Fop TR9FERTI At\nBY PROFESSOR G. BROWN GoODE\n~. BY virtue Of decree of the Supreme Court of\ntrustees. Will offer for sale. at public auction in\nM front Of the premises. on WEDNESDAY. JUNE\nTHIRTEENTH. 1900, AT FIVE O'CLOCK PM.\nthe following described real estate. situate IN the\ncounty of Washington, District Of Columbia, to\nwit:\n\n\nAll Of lot numbered hundred and sixty-two\ntS'; OF e. Brown Go1de and others subdivision Of\nrecorded in the surveyors office of the District Of\nColumbia, in County Book 8. page 81: also\nAll that potion Of lot numbered ninety-two (92).\nOf Elizabeth Lanier Dunn's subdivision of ..Ianer\nHeights\" as said subdivision is recorded In Book\nmentioned lot one hundred and sixtytwo 162l, ex-\nfseptng f therefrom 91 hoWeSer all that part Of said\nsouthernmost lines fronting Ontario and\na line drawn parallel to said southernmost lines\nand twenty feet northerly tkerefrom between the\neastern and western lires Of said lot ninety-two\n(92) the line of Ontario avenue referred to being\nas laid down in said subdivision by Elizabeth\nAlso lots numbered one hundred and thirty -four\nRichard u. Goode and others subdivision in\n.Lanier Heights. said subdivision is recorded\nsurveyor the said property being improved by a\nlarge and commod;ous dwelling, with the necessary\nTerms Of sale: One-third of the purchase money\nin cash. third in one year and one third in two\nyears or al casn, at the option OF the purchaser.\nThe deferred payments, II any, to he represented\nby the promissory notes of the purchaser. hearing\ndate on the day of sale, and secured by deed Of\ntrust the property sold; said notes bearing in\nterest at the rate Of six per cent per annum. pay\nable semi Annually. deposit of $500 will be re.\nquired at the time of sale. All conveyancipg\ncording and revenue stamps to be at the purchas-\ner's cost. Terms Of sale to be complied with\nwithin ten days from the day of sale. or the trs-\ntees reserve the right to resell at the risk and\nof the defaulting purchaser, after five days\nadyertis ement of such resale.\n\n\nJOHN RIDoUT. Trustee.\n\n\n344 ID st. NV.\n\n\nFRANKLIN II. MACKEY. Trustee\n\n\nCOL ID NV.\n\n\n",
+            "legibility": "Questionable",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 93,
+            "bbox": {
+                "x0": 4090,
+                "y0": 3611,
+                "x1": 4700,
+                "y1": 3667
+            },
+            "class": "headline",
+            "raw_text": "W.\nEDWIN 3. HAY, Trustee,\nje4-d&ds Office 1925 n Y ave- NV",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1422,
+                "y0": 4600,
+                "x1": 2067,
+                "y1": 5108
+            },
+            "class": "article",
+            "raw_text": "Default having occurred under the provisions Of\na certain deed Of trust. recorded in Liber 2316, at\nfolio g1 ct seq of the land records of the District\nof Columbia, the undersigned, trustees. will offer\nfor sale. in front Of the premises. on MONDAY,\nJUNE ELEVENTH, AID 1900. AT FIVE O'CLOCK\nPm the west half of lot numbered 121. In BealTs\naddition to Georgetown, In the District Of Column\nbia being in square 60. in Georgetown, fronting\nBeall street.\n\n\nTerms: One-third cash. the balance in two\nyears at per cent per annum interest. payable\nsemi-annually, secured by deed Of trust the\nproperty sold, all cash. at the option of the\npurchaser. Deposit of 800 required the time\nOf sale Terms to be complied with within ten\ndays day Of sale, trustees reserve the right\nto resell the property at che risk and cost of de-\nfaultng purchaser. Conveyancing. recording and\nrevenue stamps at purchasers cost.\n\n\nJACKSON II. RALSTON,\n\n\nE. QUINCY SMITH,\n\n\nmy3O-d&ds Trustees.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 96,
+            "bbox": {
+                "x0": 1478,
+                "y0": 4351,
+                "x1": 2027,
+                "y1": 4388
+            },
+            "class": "headline",
+            "raw_text": "DUNcANsoN BROS, AUcT1oNEERs.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1427,
+                "y0": 4356,
+                "x1": 2067,
+                "y1": 4596
+            },
+            "class": "headline",
+            "raw_text": "DUNCANsoN BROS. AUCTIONEERs.\nTrustees Sale of Small Frame House\nand Large Lot on O Street (or\nBeall Street, Between Twenty\nseventh and Twenty-eighth Streets,\nWest Washington, d. c.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 4075,
+                "y0": 1688,
+                "x1": 4725,
+                "y1": 2486
+            },
+            "class": "article",
+            "raw_text": "TRUSTEES SALE OF Two-STORY FRAME AND\n\n\nBRiCk DWELLING. KNOWN AS No. 2262\n\n\n9Th STREET EXTENDED.\n\n\nUnder anu by virtue of certain deed Of trust\nbearing ea, date the i1th day of July, A. D. 1855,\nand recorded in Liber No. 1890 folio % ct seq\none OF the land records OF the District of Column\n6ia, the undersigned trustees will on WEDNfS-\nDAY, the THIRTEENTH DAY of JUNE A. d.\n1900. at HALFPAST FOUR O'CLOCK PM, in\nfront OF the premises, sell at public auction all\nthat certain piece or parcel of land and premises\nsituate In the county of Washington. In said Dis\ni tTict. known as and being lot iettered L.\" in\nWrights subdivision of lots included from sixty\nfour (64, to sixty yseven 67,. in Wright and Cox's\nsubdivision OF Pleasant Plains and Mount Pleas\nant as the same is recorded in the surveyors\noffice of said District, in Liber Levy Court No l.\nfolio 40. together with the improvements thereon\nconsisting Of twostory brick and frame dwelling\nTerms of sale: One third cash, balance in equal\ninstaliments at one and two years from the day\nof sale. secured by the promissory notes of the\npurchaser, bearing legal interest. and a deed Of\ntrust, to the satisfaction of the trustees on the\nproperty sold, or all cash. at purchasers option\nA deposit of 800 required at time of saie Sale\nto be closed within fifteen days. otherwise the\ntrustees reserve the right to resell at cost and\nrisk Of defaulting purchaser. Conveyancnr reye-\nnue. stamps and recording at purchasers cost\n\n\nBENZ. +. LEIGHTON Trustee.\n\n\nOffice 416 9Th st. n.w\n\n\nRICHARD e. PAlRO. Trustee\n\n\n)eo-d&ds Office 4S2 La ave- NV",
+            "legibility": "Questionable",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 53,
+            "bbox": {
+                "x0": 4090,
+                "y0": 1643,
+                "x1": 4700,
+                "y1": 1679
+            },
+            "class": "headline",
+            "raw_text": "THOMAS BOWLING & CO. AUcTIoNEERs",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 83,
+                "y0": 3174,
+                "x1": 739,
+                "y1": 6077
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON u C. POST OFFICE NOTICE.\nShould be read daily. as changes may occur at\nFOREIGN MAILS are forwarded TO the ports of\nsailing daily and the schedule of closings IS\nranged on the presumption Of their uninterrupted\noverland transit For the week ending June D.\n1900 the last connecting closes will be made from\n\n\nIRA Ss,Tr-,NTIc NAILS.\n\n\nFRIDAy-,c, At r:o5 NJ. for EUROPE. per\n,c, Al I:e5 M. for NETHERLANDS direct, per\nMail must be directed Per SIS statendam:'' tc,\nAl l1:o5 PM for NORWAY direct. per SIS: island\nfrom New York. Mail must he directed per SIS\n.PRINTED MATTER Erc.-German steamers\nmatter etc for GERMANY and specially ad.\ndressed printed matter. etc. for other parts OF\nAmerican and White Star steamers sailing from\nNew York on wednesdays German and French\nand Germsn steamers from New York on Saturdays\ntake printed matter, etc; for all countries for\nNAIL NAILS T FOR rs sorTH '11'' ASp CENTRAL AMERICA\n\n\nWEST INDIES. ETC.\nand GIsEYTowN per SIS Altai, from New York\nss5lS & l 6, At 1i:os PM for 81 KITS 1E vaas and\nhENEfhRA r r. Ter -, SIS ytwEG 5 Sp,SS fTn Hsw p.9 4gts\nRRAzII' ss '' per ss caEania; from New York zIa\nnRAzIl and LA Plata @ CoUNTRiES, ;, M %ns, p b be\nfor YrCNrAN. per SIS. Hermann, fr'm New York,\nSATURDAY At $50 AN. for La PLATA\nCOUNTRIES direct. per SIS Hilarious. from New\nSixnAY-uD At 1900 NJ for ST. r1ERRE-M-\nMails for NF,wFoUNDLAND by rail to North\nSydney and thence via steamer. close here daily.\n@ sS'1 Il ~ Saly m d, io' NJ\" anu on sunoass only\nMails for MIoUELOS. by rail to Boston and\nthence via steamer. close here daily at 3:15\ncihA NAILS close here via Port TAMPA. Fla; e;\nVia Miami Fla, Tuesdays and Saturdays at\nMalls f\"r MF,x,co overland. unless specially ad\ndressed for dispatch by steamer ling from New\nYork. close here daily at 1880 AM and 1000\nMails for COST, RIGA. BELIZE PUERTO COR\nEZ and GtArEMAmA by rnii 1T to ss;s New Orleans ms\nPM. III\" connecting closes for which being Sum\nday. sI9 TT Gsdays FOR z COST RIG4 RIG and Mondays\n\n\nTRANspAcIFIC MAILS.\nMs r e, GSa T.s.n. ,AS las ss4s sns sT n\nPM. up 70 Jnns IL. inclusive. for dispatch per S..\nMails Tor SoCITrY ISLANDS. via San Fran\ncisco. close here daily at 635 2 M up 10 June 8,\nM o r'r Gas elGspt h rGSs West bl @\nNEW ZEALAND HAWAII. FIJI and SAMOAN\nG.a5 PM mp to June 0. inclusive for dispatch per\n-, Mariposa 70,\n\n\nIPPiSF IsIANDst via San Francisco, % close here here\ndaily at e:25 rM M to June o. inclusive for dis\ni@Ih Mall fos CHM. M % and dAPAS' via Vancouver\nc!o-e h're daily At cs5 P,M. up 70 June y In\n\n\n\n\n\nRegistered mail must I've directed Via vancou-\nyer - tnt\n\n\nMails for CHINA. JAPAN and PHILIPPINE\nISLANDS,. via 2eattle. close here daily 6.35\nPM. up To June II for dispatch per Idznmi Maru.\nRegistered mail must he directed ''via Seattle (o)\nMails for CHINA. JAPAN, HAWAII and PHIL\nU1'INE iSLANI'St. via San Francisco. close here\ndaily AZ Gas r NJ up to June IT, inclusive, for\ndispatch Ter China. to)\n\n\nMalls FOR HAWAII. via San Francisco. close here\ndaily at 6:35 PM up TO June %. inclusive, for\nMails for AUSTRALIA texcept West Australia.\nVIII via nd Sey Zeala nd xxbf\ngoes via San Francisco,. HAWAII and FIJI ISL\nANpS via Vancouver. close here daily at e:35\nPM up to June 2s. inclusive. for dispatch per\n= Warrimoo (ob\n\n\nmalls for COCHIN CHINA are forwarded to\nNew York for connection with European steamers\nPHILIPPINE ISLANDS military rnaiD dis\npatched TO San Francisco closes for that Of\nsangs Of which are irregular.\n\n\ntb) Registered malls close at OO PM same\nfay\n\n\ntcl Registered mails close at 500 PM same\nGay\n\n\n\"a, Registered mails close at 500 AN same\nday\n\n\n(e, Registered mails close a. 100 PM previous\nSaturday.\n\n\n~ Registered mails close at 1900 PM previous\nday\n\n\n1kI Registered mails close at 500 PM previous\n%, Registered mails close at 600 PM previous\nGay\n\n\nje2 JOHN A. MERRITT Postmaster\n\n\nCommander Todd's Suspenaion.\nThe last acf of ono hsgora 10",
+            "legibility": "Questionable",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 39,
+            "bbox": {
+                "x0": 99,
+                "y0": 3114,
+                "x1": 733,
+                "y1": 3160
+            },
+            "class": "headline",
+            "raw_text": "FOREIGN POSTAL SERVICE",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2087,
+                "y0": 3078,
+                "x1": 2727,
+                "y1": 4104
+            },
+            "class": "article",
+            "raw_text": "JAMES W. RATt7.T4sEs Tt7.T4sEs AUc1IoNEER.\nEntire well=assorted stock\nof Doors, Bfinds, Sash,\nHoldings, Ffafi1es, Dress\nerr Doors, Desks, Cash\nRegister, &C., contained\ni'm the mill of Wlaeatley\nBros, Eighth and Rhode\nisland avenue N. w.;\n\n\nAlso,\n\n\nTwo Horses. PlatformWag\nON. Lumber Wagon, FIar=\nmess, to be sold by Pub\nLie Auction ON the above\npremises Thursday, q4th\nday of june, A. ID. 1900,\ncommencing at nOo'clock\na. mn, to which the at\ntenti0n of the trade and\nprivate buyers is called.\nTerms cash.\n\n\n5es-d&dbs JAMES W. RADCLIFFE, Auct.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3410,
+                "y0": 3707,
+                "x1": 4056,
+                "y1": 4210
+            },
+            "class": "article",
+            "raw_text": "TRUSTEES SALE OF IMPROVED PROPERTY\nON SHERIDAN AVENUE, ANACOSTIA. D: G.\nBy virtue Of a certain deed of trust. duly re-\nthe land records Of the District of Columbia, and\nat the request Of the parties secured thereby, we\nises, on WEDNESDAY, JUNE THIRTEENTH\n1900. at HALFPAST FOUR O'CLOCK PM, lot\nnumbered 10, section I, in Barry Farm. contain\ning one acre of ground, improved by a frame\ndwelling.\n\n\nyears, with interest, secured by deed of trust\non the property sold, all cash. at purchasers\noption A deposit Of 800 required at time of\nsale. Conveyancing, recording and revenue stamps\nat purchasers cost.\n\n\nW. N FREEMAN,\n\n\n]. II. DONY,\n\n\nTrustees.\nR. NJ. PARKER, Attorney for Party Secured.\n90",
+            "legibility": "Questionable",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 60,
+            "bbox": {
+                "x0": 3421,
+                "y0": 3661,
+                "x1": 4050,
+                "y1": 3698
+            },
+            "class": "headline",
+            "raw_text": "THos. J. OWEN. AUCTIoNEER, 9ls ST. NV.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1422,
+                "y0": 218,
+                "x1": 2067,
+                "y1": 3718
+            },
+            "class": "article",
+            "raw_text": "circumstances, de all Of them acts which\ncall forth the highest Qzafse for their zeal\nworth and courage of the American sol\nder\"\n\n\nThe Casualties.\n\n\nThe following Is the list Of casualties Of\nthis engagement:\n\n\nKilled-Sergeants Dustin L. George, Will\nliam J. Hall. Corporals Herbert Edwards,\nJdln F. ]. Hamilton. Cook Burton E. Hess,\nMusician Burton R.Wagner, Privates Treff-\nlie Pomelow, Otto B. Loose, Stephen Apper-\nII, Joseph Noeil. John E. Kuhn. Ralph H.\nZim, Edward Bramen. Chester A A. Conk-\nlin, Walter E. Collins. Joseph ]. Kerins,\nHenry Dumas. Philip Sailing and George A\nSlack.\n\n\nWounded-Corporal Lester Rushworth.\nshot in right leg, and Privates Harry C.\nLee. shot in left arm: Michael ]. Faron.\nshot in calf Of right leg: Corporal White of\nCompany F, shot near right hip, slight\"\n\n\nStory of the Rescue.\n\n\nLieut.. Sweeney. who commanded the\nrescuing party, reported to Capt Dey as\nfollows:\n\n\nMY detachment, which consisted of one\ncorporal and six privates of Company H,\nF, f3d Infantry, u. s. \", embarked at\nLaguan on the steamer Lao-ang 7:3O am.\non the 18th Of April, 1900, enroute to Ca\ntubig. where 1 had orders to resume COM\nmand OF that garrison When we had reach\ned point about one mile from Catubig the\ncaptain of the steamer was compelled to\nstop his boat because the river was Block\ned with trees laShed together, and 1t was\nimpossible to proceed further without dam\naging the steamer 1 Immediately procured\nall the axes available. and, lowering the\nsmall boats, landed a corporal and four\nmen on each side of the river to stand\nguard while 1 took the remainder of the\nmen to the blockade, which we destroyed\nafter much hard work A a hundred\nfeet high bordering on the river bank was\ncut at the base so that a strong pull on\nthe ropes that were tied near the top (and\nstretched across the river to the other\nbank) would have formed a second blockade\nalmost as complete as the first. Those ropes\nmy men cut and destroyed In four nipa\nhouses on the banks of the river which had\nbeen used as barracks by the insurgents 1\nfound over hundred pounds of fresh beef,\nwhich l ordered to be thrown in the river,\nand a hundred and fifty pounds of rice,\nwhich l confiscated. 1 ordered those houses\nburned and proceeded down the river.\nWhen within quarter of a mile from Ca\ntubig noise of an engagement could be\nheard coming from that direction. and 1\nordered the captain of the steamer to run\nhis boat at full speed, and We steamed into\ndirection. My men Immediately returned\nthe fire. I had the small boats lowered\nand prepared to load, after calling to the\nmen of the garrison to locate their position\n\n\n\n\n\nlage were in ashes and other houses were\nburning). Leaving three men on the steam\ner with orders to hold it. Immediately pro-\nceeded to make landing. but before every\nman was able to get into boats Corporal\nWhite. Company F. was shot in the left\nside and Private Farron. Company H. in\nthe calf of right leg. These two men were\nput back on the steamer and we started for\nshore. rifle fire coming from both sides Of\nthe river.\n\n\nJoining the Garrison.\n\n\nEve fortunately made a landing and were\ncompelled to fight our way across open\nground to rescue our men. who were in\nscme tall grass, distance of over seventy\nfive yards. Private Claucy. Company H.\nwas shot in the right instep in our advance\nacross this ground There was no cover OF\nany kind that We could avail ourselves of\nard we were placed in tfe center of a circle\nOf rifle r1re on open ground We could\nhave taken position I'm the grass (Where\nwe could not be seem. but by doing so we\ncould not command a view of the enemy s\nmovements. l sent two men In there 10\nbury Privates Pomelow and Loose in the\ntrenches the men had made. while we\nguarded them. the insurgents continuing\nthe fire and we returning 1t. AS soon as\ncould l got the wounded men and their\ncompanions, thirteen in all, into the boats\nand We boarded the steamer and returned.\n\n\nTHE streets of Catub.g were covered with\ndead Insurgents, and l saw two floating\ndown the river. l should estimate their\nloss was over two hundred The town was\nfortified at every turn. particularly along\nthe river front. where the in>lrgcnts used\nbags of rice. dirt and hemp for breast\nworks. On arriving at the place where We\nhad destroyed their blockade found that\nthey had made another attempt to block\nour passage for they had made a rope of\nlong bamboo strips and cane, had attached\n1t to the highest tree. and stretched 1t\nacross the river in the hope that tho smoke\nstacks Of the steamer would pull 1t down\non U.S. but the rope was hurriodiy and poor\nly made and snapped.\n\n\n81 strongly recommend the men OF my\ndetachment for the bravery and courage\nand perseverance they displayed in their\nwhen there was no support available for\nthem If they should lose. and absolutely no\nretreat\"",
+            "legibility": "Questionable",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2087,
+                "y0": 573,
+                "x1": 2732,
+                "y1": 1385
+            },
+            "class": "article",
+            "raw_text": "By virtue Of a deed Of trust duly recorded in\nLiber 1000 folio 81 ct seq q the land records of\nthe District Of ColnmbiaS and at the request Of the\ntrustee. viii ,n\"r for als 81 public auction, in\nDAY OF JUNE, 1900. At HALFPAsT FOUR\nsituate in the city of Washington. District Of Co\nberel 2 in square 40. beginning at the southeast\ncorner of said lot said point being 20 feet west of\n7th street norhwest), and running thence north 100\nfeet thence west 20 feet thence south 100 feet and\neasement over the rear shs feet Of the middle %\nfeet of said lot 2, together with all the improve.\nments, rights. etc.\n\n\nThis property will be sold subject however to a\nfirst trust Of 10000 with interest at per cent\nTerms. over and above the trust, cash. deposit\nOf $25O.OO will be required At the time of sale.\nTerms Of sale :, be complied with in Is DAYS from\nday of sale otherwise the trustee the right\nto resell the property at the risk and cost of de-\nfaulting purchaser after days advertisement Of\nsuch resale in some newspaper published in WASH\nihgton d. q. All conveynncing, stamps, etc. at\npurchasers cost.\n\n\nUPTON H RIDENOUR Jr,\nmy21 -d&ds Surviving Trustee.\nDTHE ABOVE SALE Is POSTPONED UNTIL,\nFRIDAY THE EIGHTH DAY OF JUNE, 1900, at\nthe same hour and place.\n\n\nUPTON II, RIDENoUR, Jr,\nje2-d&ds Surviving Trustee.",
+            "legibility": "Questionable",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 75,
+            "bbox": {
+                "x0": 2142,
+                "y0": 177,
+                "x1": 2712,
+                "y1": 315
+            },
+            "class": "headline",
+            "raw_text": "AUCTION SALES.\n\n\nTHIS AFTERNOON.\nJAMES \". RATAIFFFE.5 AuCr1oNEER,",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -2
+        },
+        {
+            "id": 41,
+            "bbox": {
+                "x0": 2097,
+                "y0": 284,
+                "x1": 2732,
+                "y1": 563
+            },
+            "class": "headline",
+            "raw_text": "JAMES \". RATHIFFEs9 AUCr1oNEER.\nTrustees Sale of Valuable\nReal Estate, being the\nFour-story Office Build\ning No. z0zs q Street\nNOrfhwestr",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2082,
+                "y0": 5137,
+                "x1": 2722,
+                "y1": 5777
+            },
+            "class": "article",
+            "raw_text": "1hUSIEtSS SALE OF TWO-STORY FRAME\nWEST q.\n\n\nDefault having occurred under the provisions of\nfolio 4S9 ct seq; of the land records of the Dis\n@ dfe. o, OF o9umbis the UNDERSIGNED trustees will\nDAY; DAY; June FoURTEEnMB. A. b. 1900, AT\nEVE tr i O'CLOCK PM, the south 20 feet front BY\nDenison and Benjamia r. Leighton. trustees,\nfaod,sissn Pons @ Of part Of Pleasant and Pleasant\nsubdivision, folio g. ofse of 1.-the records Of the\nsurveyors Office Of the District Of Columbia, with\nthe improvements therspn., I'D\n\n\nTerms: one-third @ cash, balance in one and two\nyears at n 81 per annYA interest payable semi\nerty sold or al cash III The option Of the pur-\nChaser Deposit Of $1or required at time Of sale.\nIerms OF sale to be Rsmplted with in 10 days.\notherwise trustees fesesys, the right to resell the\nproperty at the risk and cost Of defaulting pur-\nchaser. Conveyancfng, recording, revenue stamps,\n&C., at purchasers cOsfl -\n\n\nFRANCIS FL. SMITH,\n\n\nFRANK BIRGE SMITH,\nJeZd&ds Trustees,",
+            "legibility": "Questionable",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 72,
+            "bbox": {
+                "x0": 2153,
+                "y0": 5076,
+                "x1": 2691,
+                "y1": 5113
+            },
+            "class": "headline",
+            "raw_text": "DUNoANsoN BROS. IucT1oNEERs.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -2
+        },
+        {
+            "id": 95,
+            "bbox": {
+                "x0": 2082,
+                "y0": 5107,
+                "x1": 2727,
+                "y1": 5184
+            },
+            "class": "headline",
+            "raw_text": "TRUSTEES SALE OF Two- STORY FRAME\n\n\nDWELL DWELLING No. 1929 15TH STREET NORTH",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3416,
+                "y0": 299,
+                "x1": 4061,
+                "y1": 2724
+            },
+            "class": "article",
+            "raw_text": "AAhoS. . oWI->, olc = a. NV\nADMINISTRATORS SALE OF VERY VALUABLE\n\n\n40 srAsIE sIrGArkp HfsE HETwEEN ThS Mil Mil\n\n\nMr: AH9 TENTH s1Id iS ASp ro, sIREEs GMiE S3nTH-\n\n\nTENTH NIB STREET + ,, NoRTaWEST. I'll IIo7 M NEW\n\n\nsnMsHiHE sTREET HoRAHWEsE AHENsE NORTHWEST 2S2\"\nBY virtue of decree OF the Supreme Court OF\nthe District Of Columbia, holding Special Term\npending thesein-''In the matter Of the petition Of\nLewis B. Parker. administrator de bonis non of\nthe estate Of George s Parker late of the District\nOF Columbia. deceased for sale Of certain Of the\nreal estate of the decedent. etc. No. 6ss1. on\nistrator de bonis non therein appointed to SELL\nsell at public auction. in front of the respective\npremises PREF k the following described pieces and par:\nWashington. District Of Columbia. on the days and\n'ns oSs ~as nsmf4 1900\n\n\nHALF-PAST FOUR O'CLOCK PM,\n\n\nLots A. 42 and 49, in heirs of John Davidson\nin Liher n: K folios 1o2 and los Of the records\nOf Of the surveyors @ office of the District Of Column\nand John wilson's subdivision Of lots, in sanarc are\n1851. as per plat recorded in IIber \" K. folio 2i5\nthe Tally-ho stabIes.S located between Sn snd @ o\nand 9th and 10th SITS. NV. in the city of wash\na so-foot alley on the east e5 feet on a 2o.foot\nalley on the north and a5 feet on 15-foot alley\nbeing improved by fine two-story brick stable, in\ng gcSd Tsr TrePsiT covering the whole Of said lots\n\n\nON IlESIA1. JUNE NINETEENTH, 1900. AT\n\n\nHALF-PAST FOUR O'CLOCK PM.\n\n\nPart of lot II. in square south of square 5l6 be-\nginning on ! street at dividing line between lots\nII and II; thence east on said street fourteen 14\nfeet; thence south forty five (45 feet: thence west\nerly to line between lots II and 12 at a distance\nby and with said line forty-two (42) feet to 1\nstreet and beginning. being improved by a three\nALSO S' sASE n sfS fk\nLot \"a, in \"Redfern's subdivision of SQUARE 366\nas per plat recorded in Liber w. F.. folio 143. Of\nof Columbia Improved by two-story brick dwelling.\nkLcwn as premises No. 1411 10th st. NV. in\nTHURSDAY. JUNE TwENTY-FIRST. 1900, AT\n\n\nHALF-PAST FOUR O'CLOCK PM,\nLot 80, in Isaac Bradley's subdivision of lots in\nsquare Y. as per plat recorded in Liber H. X,\nfolio $40, of the records of the surveyors office of\nthe District of Columbia. improved by fine two\nfine repair, being premises No. 1107 New Hamp-\nshire re avenue emu s,Tz Sw in SAID said city o.n,n\nPart Of original lot r. in square ST. beginning at\nsouth seventy-fve (75l feet; thence west nineteen\nQ9) feet; thence north seventy-fve (75) feet and\nming improved by a.two-story and basement BRICK\ndwelling. being premises No. 1920 n st. NV, in\nTerms Of sale-One- third cash on each and every\npiece or parcel of land and premises above men,\nTONED, the balance Of purchase money on each and\ntwo years. or all cash. at the option Of the pur-\nchaser or purchasers the deferred payments to be\nsecured by deed Of trust or trusts. each piece\nof property sold. and to bear interest at the\nof per cent per annum. Conveyancirg. recording\nrevenue stamps at purchasers cost. deposit of\n$500 will be required the sale of the Tally -Ho\nStable\" property at the time of SALE and deposit\nof 5000 on each Of the other properties above men,\ntoned at the time of sale. Terms of sale to he\ncomplied with within ten days from day Of sale\non each and every piece OF property sold. the\nadministrator de bonis non. aforesaid reserves the\nright to resell the property at the risk and cost Of\nsuch defauting purchaser after five (5 days pre-\nvious advertisement Of such resale. published in\nsome newspaper In the District of Columbia\n\n\nLEWIS b. PARKER,\nAdministrator de bonis non. of the Estate Of\n\n\nGeorge $. Parker, late Of the District of Co\n\n\nlumba deceased.\n\n\nRICHARD r. BEALI,\n\n\n1406 e st. NV,",
+            "legibility": "Questionable",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 3542,
+                "y0": 172,
+                "x1": 3934,
+                "y1": 224
+            },
+            "class": "headline",
+            "raw_text": "AUCTION SALES.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -3
+        },
+        {
+            "id": 76,
+            "bbox": {
+                "x0": 3588,
+                "y0": 233,
+                "x1": 3888,
+                "y1": 269
+            },
+            "class": "headline",
+            "raw_text": "FUTURE DAYS.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -2
+        },
+        {
+            "id": 78,
+            "bbox": {
+                "x0": 3421,
+                "y0": 268,
+                "x1": 4045,
+                "y1": 320
+            },
+            "class": "headline",
+            "raw_text": "THos. J. OWEN, AUCrloNEER, sls ST. NV",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1422,
+                "y0": 4032,
+                "x1": 2067,
+                "y1": 4327
+            },
+            "class": "article",
+            "raw_text": "On SATURDAY AFTERNOON. JUNE SIX\nTENTH. AID. 1900. at HAIF-PAST FOUR\nO'CLOCK. I will offer for sale, by public auction.\nin front of the premises,\n\n\nLOT lS, BLOCK @,\n\n\n''TWINING CITY,\"\nimproved by two frame hoUses\nTerms: One third cash. bal. in one and two years,\nwith per cent interest all cash. 800. 90\nceptunce of bid Terms to be complied with in\nfifteen days. AL conveyancing. stamps. &C., ut\npurchasers cost.\n\n\njes-d&ds JAMES W. RATCIIFFE, Auct.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 68,
+            "bbox": {
+                "x0": 1544,
+                "y0": 3732,
+                "x1": 1946,
+                "y1": 3789
+            },
+            "class": "headline",
+            "raw_text": "AUCTION SALES.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -2
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 1432,
+                "y0": 3803,
+                "x1": 2067,
+                "y1": 4028
+            },
+            "class": "headline",
+            "raw_text": "FUTURE DAYS.\n\n\nJAMES W. RATuIFFE AUCTTONEER\nTwo Frame Houses on\nPennsylvania Avenue e\nExtended TWining City. }",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 99,
+                "y0": 6055,
+                "x1": 749,
+                "y1": 6325
+            },
+            "class": "article",
+            "raw_text": "The last act of Secretary Long before de-\n\n\nparting for Annapolis was to sign an order\nterminating the former order of suspension\nIn the case Of Commander Todd. chief of\nthe naval photographic office. The officer\nwas relic we'd from duty because he had ad-\ndressed letters to persons not in the naval\nservice seeking their aid In the struggle\nthe hydrographic Office was making to con-\ntrol the surveys as against the coast survey,",
+            "legibility": "Questionable",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 62,
+            "bbox": {
+                "x0": 139,
+                "y0": 6025,
+                "x1": 693,
+                "y1": 6051
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 25,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 758,
+                "y0": 907,
+                "x1": 1408,
+                "y1": 5757
+            },
+            "class": "article",
+            "raw_text": "The War Department has just received\nthe report of Captain H NJ. Dey, 43d United\nStates Volunteer Infantry. of the remark\nable experience of the garrison at Catubig,\nin the Philippine Islands. in which a party\nof thirty-one enlisted men of Company H\nof that regiment maintained a successful\ndefense against an attacking force esti-\nmated at over go insurgents. beginning\nSunday morning. April 10. and lasting until\nrescued by a party under the command of\nFirst Lieutenant Sweeney of that regiment.\non Thursday afternoon, April 49, during\nwhich the party sustained a loss of eighteen\nmen killed and five wounded, while con-\nservative estimate of the number of insur-\ngents killed is upward of 200.\n\n\nCatubig, at which this affair occurred, is\na small town on the Island of Samar.\nwhich is the extreme easternmost island of\nthe Viscaya group, lying to the southeast\nof LuZon, and about ten miles interior from\nthe extreme north coast of that island,\nfifty-six miles from Catbalogan, the cap\nital of the province. and 1913 miles east\nsoutheast from Manila, and had a popula-\nton at the time of the last Spanish census\noe 1855. The people of this island Eave\nreputation of being of warlike disposition,\nferocious in their nature and exceedingly\ntreacherOus. Although the SpaniGrds had\nlocal governor at Catbalogan. they never\nwere able to entirely suppress the people.\nThe trade was principally in hemp and CO.\ncoanut oil.\n\n\nFirst Lieut.. Joseph T. Sweeney the Of\nficer who commanded the relief party is\nnative of New York city and served during\nthe Spanish-American war as second lieu\ntenant of the 69th New York, with which\nregiment he was Eonorab.y mustered out\nJanuary 81. 1899. and was commissioned\nsecond lieutenant In the Add on the 14th\nof August. 1892 and promoted to first lieu\ntIN E.h of n1tN\n\n\nSergt. Dustin L. George, who commanded\nthe small party at CGtubig at the time of\nthe attack, Is a resident of Barre. VT, be-\ning son of Mrs Jennie NJ. Northup of No.\n174 Merchant street. Barre, VT: he was n\nmarried. Corporal Antkony ]. Carson. who.\nafter the death of Sergts. George and Hall.\nsucceeded to the command, and who is so\nhighly commended by Capt. Dey. is a resi-\ndent of Maiden. Mass. at which place he\nenlisted October 5, 1899, having formerly\nserved in Company F. Goth New York Vol\nuntcers. during the SpGZish-Amcrican war,\nat which time he gave his nearest relative\nas Mrs. David F. Carroll, No. 80 James\nstreet, Maiden, Mass.\n\n\nCapt. Dey's Report.\n\n\nCaptain Deys report is dated at Laguan.\nApril p, and is in part as follows:\n\n\nabout $50 am. Sunday, April Is, the\ngarrison was alarmed by shots coming\nfrom the rear of the church on the left\n\n\n\n\n\nprepared to resist the attack. Almost at\nthe same time a heavy fire was opened on\nthem from the hills on the right and left\nand also from every available part of the\ncity which could be utilized by the insurgents.\nThis fire was kept up all day long, but the\ngarrison. with great courage and coolness.\nmet and returned the fire. with the result\nthat several insurgents were killed or\nAll during the night the firing was kept up,\nbut not quite so heavy as during the day.\n\n\nAbout am. on Monday the firing was\nresumed, and each hour went by 1t be-\ncame more general. AT about am. they\ncommenced firing a cannon which was\nplanted on the hill to the right of the bar\nracks using cut nails and spikes for pro-\njectiles. Sergeant George who command\ned the garrison, ordered all the. fire from\nthe barracks to be concentrated on this can\nnon for the purpose of silencing 1t. and after\ntwo voleys had been fired succeeded in\nhis purpose. Heavy rifle firing was kept up\nall day and until about II pm. when 1t\nlessened up until daylight Tuesday morn\ning, at which time the heavy firing was re-\nsumed, about am. from the front and\nacross the river from the cannon. the cam\nnon having been changed to this new posi-\nton during the night: but few wel!-di-\nrected shots from the garrison silenced 1t\nfor the time being. Up to this time but one\nman of the garrison had been wounded,\nPrivate Lee, who was shot on the left arm,\nbut a great number of insurgents had been\nkilled. some from their position in trees,\nsome from trying to charge the barracks.\n\n\nAbout this time a large number of in\nsurgents had managed to make their way\ninto the church adjoining the barracks,\nand were causing SO much trouble that 1t\nbecame necessary to silence them Ser\ngeant George called for ten men to charge\nthe church and drive them out. The men\nImmediately responded. and under terri\nbly, heavy fire from all sides they succeeded\nin getting in. and finding nearly hundred\ninsurgents there Immediately poured sew\nIII ;,to tt,ayV, iycr\nDer. By this time all the firing was CEN\ntered the church. and Sergeant George,\nfinding that to remain longer would be\nfatal to his little band. retreated back to\nthe barracks. This brave deed was accom-\nplished without the loss of a single man.\nThe firing became SO heavy and the terri\nBILE strain on the men so great from their\nlong and continuous fighting that 1t re-\nquired them to put forth their greatest ef-\nforts to meet this heavy fire.\n\n\nThe Barracks Fired.\n\n\nabout this time the insurgents had man\naged to regain the church. and from the\nwindows made several unsuccessful efforts\nto set fire to the barracks. Finally they\nmanaged to throw some hemp saturated\nwith oil against the building and succeeded\nIn setting fire to It. All efforts to subdue\nthis fire proved unavailing, and when the\nbuilding became untenable. the heat being\n50 intense, the garrison hastily decided the\nonly course open to them was to make\ndash for the river and attempt to get\nacross. hoping to intrench themselves on\nthe opposite shore. They destroyed every\nthing which would be of value to the In\nsurgents, divided the ammunition between\nthem. cut hole in the floor and dropped\nthrough one at time to the basement be-\nlow. When all of them had gotten through\nthey made a rush for the river. Some OF\nthem were killed before they reached the\nriver. Corporal Carson. with fifteen men.\nImmediately started to build trench, using\ntheir bayonets to dig with. The rest Of the\nmen attempted to cross the river. but were\nall killed while getting in the boat\n\n\nHeld Trench for Two Days.\n\n\nFor two days Corporal Carson and his\nsquad held this trench. fighting all the\ntime against great odds and having two\nmen killed and three wounded. one OF\nwhom. Sergeant Hall. has since died. until\nhe was finally rescued on Thursday morn\ning by Lieutenant Sweeney and his de-\ntachment. His report accompanies this\none and shows the difficulties which he en-\ncountered in the rescue. conservative\nestimate of the number of insurgents killed\nis upward of 900. but have no record Of the\nnumber of wounded. The loss we sustained\nIs eighteen killed and five wounded, one of\nwhom has since died. l also lost q large\namount of ordnance stores. quartermaster\nand commissary supplies, of which 1 will\nsubmit certificate to the officers Of those\ndepartments.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 56,
+            "bbox": {
+                "x0": 758,
+                "y0": 182,
+                "x1": 1408,
+                "y1": 848
+            },
+            "class": "headline",
+            "raw_text": "A BRAVE DEFENSE.\nGallant Work of Volunteers in the\n\n\nPhilippines.\nWERE ODFNUMBERED TWENTY TO ONE\nHeroicaIIy Resisted Attacks for\nFive Days.\nSTORY OF TIL ETR RESCTJE",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": -3
+        },
+        {
+            "id": 85,
+            "bbox": {
+                "x0": 793,
+                "y0": 502,
+                "x1": 1408,
+                "y1": 574
+            },
+            "class": "headline",
+            "raw_text": "7BRE ODTNUMBERED TWENTY TO ONE",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": -2
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 768,
+                "y0": 806,
+                "x1": 1403,
+                "y1": 868
+            },
+            "class": "headline",
+            "raw_text": "STORY OF THEIR RESCUE",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": -1
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 4080,
+                "y0": 334,
+                "x1": 4725,
+                "y1": 1040
+            },
+            "class": "article",
+            "raw_text": "TRUSTEES SALE OF BRICK HOUSE No. 1903\n\n\nEMERSON STREET NORTHEAST\n\n\nby virtue OF a deed of trust. duly recorded In\nLiber 2lfs. folio No. IFS ct seq Of the land\nrecords for the District OF Columbia and at the\nrequest of the party secured thereby. the under\nsigned surviving trustee will offer for sale by\npublic auction. in front Of the p,cmis,s n\nTuESpM, the NINETEENTH DAY Of JUNE.\n1900, at FIVE O'CLOCK PM. the following do.\nscribed real estate. situate I'm the city OF Wash.\nington District OF Columbia. to wit: Lot numbered\none hundred and forty-six ui6, in Louis D. Wine\nand William Mayse's subdivision Of square num-\nbered one thousand and twenty nine ,Ioaa, as\nper plat in book n. folio 63 In the Office Of the\nsurveyor for said District. together with all the\nimprovements, rights. &c.\n\n\nTerms: One third cash. balance In one and two\nyenrs. with interest from the day Of sale AT six\nper cent per annum secured by deed of trust ON\nthe property sold. or all cash, at the option OF\nthe purchaser. 500 deposit required at time n\nsale. Terms of sale to be complied with in Is\ndays from day Of sale. otherwise trustee reserves\nthe right to resell the property at the risk and\ncost of the defauiting purchaser, after five days\nadvertisement OF Nch resale in newspaper\npublished In Washington. u. G. All Conveyance\nIng, recording, stamps. &c, at purchasers cost.\n\n\nje1 d&ds",
+            "legibility": "Questionable",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 40,
+            "bbox": {
+                "x0": 4202,
+                "y0": 177,
+                "x1": 4598,
+                "y1": 229
+            },
+            "class": "headline",
+            "raw_text": "AUCTION SALES.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": -4
+        },
+        {
+            "id": 67,
+            "bbox": {
+                "x0": 4252,
+                "y0": 238,
+                "x1": 4542,
+                "y1": 274
+            },
+            "class": "headline",
+            "raw_text": "FUTURE DAYS.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": -3
+        },
+        {
+            "id": 65,
+            "bbox": {
+                "x0": 4121,
+                "y0": 278,
+                "x1": 4669,
+                "y1": 315
+            },
+            "class": "headline",
+            "raw_text": "JAMES W. RArcLIrFE. AUcrIoytrN",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": -2
+        },
+        {
+            "id": 94,
+            "bbox": {
+                "x0": 4080,
+                "y0": 324,
+                "x1": 4710,
+                "y1": 371
+            },
+            "class": "headline",
+            "raw_text": "iHo lEES tlIrnA SALE % OF ERICk morSE No. lso'",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": -1
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 93,
+                "y0": 258,
+                "x1": 739,
+                "y1": 1289
+            },
+            "class": "article",
+            "raw_text": "THE WEEAiS STEAMBOAT GO.\n\n\nPOTOMAC RIVER ROUTE.\n\n\nSUMMER S''HEiIl LIE.\nSTEAMERS NoRrHl MBkRi-AN, and POTOMAC:\n,,u and after June :. 1870. the will\nleave ifh st. wha-f every Sunday, Tuesday and\nTHURSDAY at p. III. for Baltimore and river land\niugs.\n\n\ni;ultfIurr,. freight solicited\nArromin ,iatious Passengers strictly first class\nSTEPHENSON X BRO, Agts. Telephone ii5.\nJeG-12tf\n\n\nE = RANDALI.S POTOMAC RIVER LINE.\nSteamer HARRY RANDALL will leave River\nView wharf Sundays Tuesdays and Thursdays at\nZ am landing Il Colonial Beach. Chapel Point\nand ali uiarv.s as FAR down Is Lower Machodoe.\nRefurnin. on Mondays and Wednesdays at D. N.\nand ou Fridays about 80 pm\n\n\nUNITED STATES NAH. ROUTE.\nWASHINGTON. u. G. To GLYMONT, ND,\n\n\nand intermediate landings\nThe new stcainer ESTEI.LE RANDALL. daily,\nexcept Sunday go 4 m Returning about m\nPassenger accomInudi lions first class. Freight re-\nccived until the honr OF sailing.\n\n\nF.. RANDALL.\n\n\nPropretpr and Manager.\nGEO. q CA.ti'INTER, General Agent. Washington.\nwM NJ REARDo\\. Agent. Alexandria. sc1s-tf. 20\n\n\nSTEAMER WAKEFIELD.\n\n\nFOR POTOMAC RIVER LANDINGS\nLeaves Washington. u e. 9TH st. Ferry WHARF.\nMondays, an. fo- intermediate landings to Co\nlonal Beach. Rushwood Rock Tt. COlton's, Nom\nini Creek Abeils. Leonaritown. Stones. Howard\nand Cnbrum's-\n\n\nWednesdays am. for intermediate landings to\nColonial Beach. Bushwood. Rock Point Coiton's.\nIeonardtown. Abelrs. Nomini Creek. COan and\nYeoronico rivers.\n\n\nSaturday. am. for intermediate landings to\nColonial Reach. Bushwcod. Rock Point. Coltons,\nNonin Creek\n\n\nSee schedule in erecr August 81. 1899.\naui61stf C W RIDLEY. General Manager.",
+            "legibility": "Questionable",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 49,
+            "bbox": {
+                "x0": 134,
+                "y0": 182,
+                "x1": 713,
+                "y1": 234
+            },
+            "class": "headline",
+            "raw_text": "POTOMAC RIVER BOATS",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": -2
+        },
+        {
+            "id": 97,
+            "bbox": {
+                "x0": 215,
+                "y0": 248,
+                "x1": 617,
+                "y1": 315
+            },
+            "class": "headline",
+            "raw_text": "THE WEEMS STEAMBOAT 60\nPOTOMAC RIVER ROUTE.\n\n\nSIMMER SEIIt.ItJIE",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": -1
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3410,
+                "y0": 2774,
+                "x1": 4056,
+                "y1": 3662
+            },
+            "class": "article",
+            "raw_text": "PROVED SUBURBAN PROPERTY. BEING 15\n\n\nACRES ADJOINING REFORM SCHOOL.\n\n\nBy virtue Of certain deed of trust, dated April\n4, 1894. and recorded In Liber 1895. folio 422 ct\nseq Of the land records Of the District of Co.\nlumbia. and at the request of the party secured.\nwe will offer for sale. at public auction, upon the\npremises. THURSDAY. JUNE FOURTEENTH. A.\nd. 1900. AT HALF-PAST FIVE O'CLOCK PM,\nthe following described real estate situate in the\ncounty Of Washington. in the District Of Columbia,\nknown and designated as part Of tract of land\ncalled ''Seamens Delight\" and part of Green\nvale\" being lots numbered sixteen d6,, seventeen\n40 and eighteen uS,. according to subdivision\n,as recorded ! in the office Of the surveyor of the\nof lot numbered seven 90. in the division of the\nsurveyors office. in Book District\" page g. said\nproperty adjoining the grounds of the Reform\nSchool, and but shoEt distance from the\n\"Bladensburg road\"\n\n\nTerms of sale: 0ne-fourth cash, balance in\nequal installments payable in six 49,, eighteen\n0s), twenty four (24 and thirty (30) months after\ndate, respectively, with interest at the rate of 5\nper cent per annum, payable semi annually, to be\nsecured by deed Of trust on the property sold.\nall cash. deposit Of one hundred (S1O0) will be\nrequired at the time of sale. ALI conveyancing,\nrecording. notarial fees and revenue stamps at the\ncost Of purchaser. Terms of sale to be complied\nwith within ten t10) days Of date of sale. or the\ntrustees the right to resell the property at\nthe risk and cost of the purchaser.\n\n\nEDWIN G. CUTTER, Trustee\n\n\n\". RILEY DEEBLE. Trustee.\n\n\nje2-d&ds 1919 at. NV.",
+            "legibility": "Questionable",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        },
+        {
+            "id": 83,
+            "bbox": {
+                "x0": 3416,
+                "y0": 2733,
+                "x1": 4040,
+                "y1": 2775
+            },
+            "class": "headline",
+            "raw_text": "G. C. SLOAN CO.. AUcTIoNEERs. 14o7 G 81",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": -1
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 88,
+                "y0": 1972,
+                "x1": 744,
+                "y1": 2247
+            },
+            "class": "article",
+            "raw_text": "UNITED STATES MAIL STEAMSHIPS.\nSAIL FROM NEW YORk EVERY SATURDAY FOR\n\n\nGLASGOW VIA LONDONDERRY.\nSALOON PASSAGE $50 AND UPWARD.\nTo Paris and return. first-class $3.50 and upward.\n\n\nSECOND CABIN. $50 To $37 so.\n\n\nSteerage Passage:\nRome. $780, Furnessia, $24.5o Other Strs $235 50.\nFor Book Of Tours and further Information. apply\nto HENDERSON BROTHERS. Gen Agts., II & 10\nBrosdway New York. q. W. MOSS. 1927 st.\nNV, or Z. F. DROOP * SONS 925 Pa. e..Wash.\n\n\n",
+            "legibility": "Questionable",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 77,
+            "bbox": {
+                "x0": 215,
+                "y0": 1927,
+                "x1": 612,
+                "y1": 1963
+            },
+            "class": "headline",
+            "raw_text": "ANCHOR LIME",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": -1
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 4075,
+                "y0": 2541,
+                "x1": 4725,
+                "y1": 3673
+            },
+            "class": "article",
+            "raw_text": "TRUSTEES SALE OF EIGHT ROOM FRAME\n\n\nDWELLING: KNOWN AS 20 NINTH STREET\n\n\n~ ~S0KTHEAST, AND NINERoOM FRAME\n\n\nSTREET SOUTHEAST\n\n\nUnder and by virtue of decree of the Sspreme\nCourt of the District OF Columbia, passed in\ncause wherein Charles J. Thorpe ct al. are COM\nPENDANTS, known Equity Cause No. 21O4s, the\nundersigned, trustees, Will. sn FRIDAY. THE\nr Eni,FIIEHETH r y II DAY OF JUNE A-D 1900, AT\npremises. sell. at public auction the following de-\nscrlbed real estate, situate in the city of Washing\nton, In said District to wit: The south twenty\nSIX S26 feet front by full depth of original lot\nhundred and nineteen (919) more particularly de-\nscribed in the petition In said cause together with\nme improvements thereon. consisting OF two\nstory frame dwelling, containing eight rooms and\nbath. known No. 20 9th street northeast\n\n\nAnd on the SAME DAY. AT FIVE O'CLOCK\nPM. they will in like manner sell at public auc-\ntion In front Of the premises. the following de-\nseribed, real estate situate aforesaid 10 wit:\nfarfs OF original lots numbered six t6l. twelve 2p\nand thirteen t13), and all of original lot numbered\nseven 10. In square numbered seven hundred and\npetition In said cause, together with the improve\nments thereon. consisting OF nine-room two-story\nframe dwelling, known 1921 I'd street southeast.\nTerms Of sale prescribed by said decree. One\nthird cash. before the final ratification of the SALE\nbalance III two equal inst ailments. and\nyears from day Of SALE secured by the rfomissory\nnotes or the purchaser bearing legal interest and\na deed OF trust on the property sold to the salts\nfaction Of the trustees all cash. at purchasers\noption. Sale to be closed within fifteen days.\notherwise the trustees the right to resell\nposit of 500 each piece Of property required at\ntime OF sale. Conveyancing. revenue stamps and\nrecording at purchasers cost.\n\n\nBENJAMIN F. LEIGHTON, Trustee\n\n\nOffice 416 Fifth street. NV.\n\n\nEDWIN 3. HAY, Trustee,\n\n\nje4-d&ds Office 1925 ~ Y ave. NV.",
+            "legibility": "Questionable",
+            "full_article_id": 34,
+            "reading_order_id": 0
+        },
+        {
+            "id": 45,
+            "bbox": {
+                "x0": 4090,
+                "y0": 2495,
+                "x1": 4705,
+                "y1": 2531
+            },
+            "class": "headline",
+            "raw_text": "THOMAS BOWLING CO., AUcrIoNEERs.",
+            "legibility": "Legible",
+            "full_article_id": 34,
+            "reading_order_id": -1
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 93,
+                "y0": 1364,
+                "x1": 739,
+                "y1": 1918
+            },
+            "class": "article",
+            "raw_text": "TRANSATLANTIC PASSENGER AGENCY.\nWhite Star Line, Cuuard Line,\nAmerican Line, Anchor Line.\nmy9-52t' A. L. vELATi. Agent. l4OSLs G st. NV\nNORTH UERwlAN LLOYD\n\n\nFAST ENrt.r->> SERVICES.\nCHERBOULG. SOUTHAMPTON BREMEN.\nLain June L. Kaiser VIM. d Gr. July\nTrave. June IL Lain. July 10\nKaiserin Mar. Tn June ~ Kaisern Mar. TIL July II\n\n\nDeparture L. An.\n\n\nTWIN-SCREW PASSi-\\',tR SERVICE\nSOUTHAMPTON LONDON. BREMEN.\nPr. d. CIR. Ju e Il. X. I.Ise July 10, 10 am\nBrelnen.- July 5. 10 am Bremen. Aug. .. am\n\n\nCHEKBOURt;, PARIS. BREMEN.\nX. Luise June IA. II am G.Kurfurst. June o, noon\n\n\nMEDrrERRANEAN SERVICE.\n\n\nSIYRAiTA NAPLES. GENOA.\nEms. .......... June 10 Werra. June q\n\n\nDeparture IL An.\nOEJLIOHS & CO, No. BROADWAY, n. 7.\nApply TO E. +. DRooP s25 Pa. ave-,\nfe7-ly Agent for Warrington",
+            "legibility": "Questionable",
+            "full_article_id": 35,
+            "reading_order_id": 0
+        },
+        {
+            "id": 52,
+            "bbox": {
+                "x0": 230,
+                "y0": 1303,
+                "x1": 612,
+                "y1": 1345
+            },
+            "class": "headline",
+            "raw_text": "OCEAN TRAVEL.",
+            "legibility": "Legible",
+            "full_article_id": 35,
+            "reading_order_id": -1
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 4080,
+                "y0": 1227,
+                "x1": 4725,
+                "y1": 1634
+            },
+            "class": "article",
+            "raw_text": "To close an estate will offer for sale at auc-\nti0n, THU RSDAY. JUNE FOURTEENTH 1900\nAl FIVE Pm the substantial threestory brick\nbuilding No. 622-24 d st. NV. being part OF lot\n8 In square 45S 30 feet front by about 40 feet\ndeep. containing 200 square feet\n\n\nTerms: one-half cash, balance In one and two\nyears, at per cent per annum. secured on\nproperty sold, or all cash. at option OF purchaser\nDeposit OF $500 on day OF sale Upon failure to\ncomply within ten days property To be sold at risk\nand cost Of defaulting purchaser. All conveyanc-\ning, recording and stampsat purchasers cost\n\n\nCfAS. lSEMANN\n\n\nADOLPH FEIDNOSS,\nWALTER A. BROWN, Agent.\n\n\n1923 Pa. ave- ie7-d,s",
+            "legibility": "Questionable",
+            "full_article_id": 39,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 4080,
+                "y0": 1049,
+                "x1": 4725,
+                "y1": 1218
+            },
+            "class": "headline",
+            "raw_text": "C. G. SLOAN & co. AUCTGONEERS. i4o7 G ST.\nVALUABLE BUSINESS PROP\n\n\nERTY, 622-24 d STREET\n\n\nNORTHWEST AT AITCTION",
+            "legibility": "Legible",
+            "full_article_id": 39,
+            "reading_order_id": -1
+        },
+        {
+            "id": 44,
+            "bbox": {
+                "x0": 2751,
+                "y0": 659,
+                "x1": 3396,
+                "y1": 959
+            },
+            "class": "article",
+            "raw_text": "OUR REGULAR SATURDAY SALE.\nOn TOMORROW, JUNE NINTH, COMMENCING\nAT TEN O'CLOCK AM. we shall sell. within and\nin front of sales room. corner 10th and Penna.\nave. NV, general assortment of Household Goods\nOF every description. removed from private resi-\ndences for convenience of sale.\n\n\nALSO\n\n\nTwo Mirror-f front Folding Beds. Show Cases. etc.\n\n\nALSO, AT TWELVE O'CLOCK NJ,\nOne Canopy Surrey, uph. in leather built to\nder. WALTER b. WILLIAMS Il CO..\n1t Auctioneers.",
+            "legibility": "Questionable",
+            "full_article_id": 45,
+            "reading_order_id": 0
+        },
+        {
+            "id": 70,
+            "bbox": {
+                "x0": 2756,
+                "y0": 618,
+                "x1": 3391,
+                "y1": 655
+            },
+            "class": "headline",
+            "raw_text": "WALTER B. WILLIAMS 4 CO., AucrIoNEERs",
+            "legibility": "Legible",
+            "full_article_id": 45,
+            "reading_order_id": -1
+        },
+        {
+            "id": 47,
+            "bbox": {
+                "x0": 2746,
+                "y0": 3007,
+                "x1": 3391,
+                "y1": 3399
+            },
+            "class": "article",
+            "raw_text": "MoRTGAGEE's SALE OF VALUABLE REAL Es-\n\n\nSTATE NEAR BRANCHVILLE, PRINCE\n\n\nGEORGES COUNTY, MD.\n\n\nBy virtue of the power contained In a mort\ngage from Margaret E. Warfeld and Joshua d.\nWarfeld, her husband, the undersigned will offer\nat public sale in front Of the post ONCE at Belts\nVile; in said county on S SATURDAY; @ JUNE\nhcres, adjoining the lands of John p. Turner and\nothers about 10 miles from Washington. 2 miles\niI viiie. improved by large dwelling, % bank In barn\nand corn house. The land s mostly arabic and\ncontains many beautiful aa ,.i, building sites ,,\nTUCK. POI n. Calvert ST.. Baltimore. Md. my30-st",
+            "legibility": "Questionable",
+            "full_article_id": 48,
+            "reading_order_id": 0
+        },
+        {
+            "id": 48,
+            "bbox": {
+                "x0": 2746,
+                "y0": 2733,
+                "x1": 3391,
+                "y1": 2983
+            },
+            "class": "article",
+            "raw_text": "ROOM BY AUCTION.\n\n\nOn SATURDAY MORNING, JUNE NINTH, at\nTEN O'CLOCK. l will sell within my sales rooms.\n920 Pa. ave. NV, the entire contents of a lunch\nROOM consisting In part Of l Steam Table. 3 Cof-\nfee Brns Tables, Chairs Milk Can Electric Fan,\nCastors, &c. Removed to my rooms for conven-\nfence of sale.\n\n\nje7-2t JAMES W. RADCLIFFE, Auct.",
+            "legibility": "Questionable",
+            "full_article_id": 49,
+            "reading_order_id": 0
+        },
+        {
+            "id": 58,
+            "bbox": {
+                "x0": 2797,
+                "y0": 2698,
+                "x1": 3335,
+                "y1": 2739
+            },
+            "class": "headline",
+            "raw_text": "JAMES W. RADCLIFFE, Aucr1osEER.",
+            "legibility": "Legible",
+            "full_article_id": 49,
+            "reading_order_id": -1
+        },
+        {
+            "id": 55,
+            "bbox": {
+                "x0": 93,
+                "y0": 2317,
+                "x1": 739,
+                "y1": 2587
+            },
+            "class": "article",
+            "raw_text": "Compagnle Generate lransatlantlque\nDIRECT LINE TO HAvRE-PARIS France).\n\n\nSailing every Thursday at 10 am.\nFrom Pier No. AZ North River. foot Morton st.\nLa Gascogne. June \"A La Touraine. July 3\nLa Champagne June Il La Lorraine -. July IL\nL'Aquitaine. June % La Bretagne. July 10\nFirst Sailing 4 New Twin:screw Express Steamer\n\n\nIL LORR E.\n\n\nFrom New York. July r. 1900\n\n\nGeneral Agency. 80 Broadway, New York.\nG w MOSS 1927 F ST NV frl Sm.1T",
+            "legibility": "Questionable",
+            "full_article_id": 56,
+            "reading_order_id": 0
+        },
+        {
+            "id": 57,
+            "bbox": {
+                "x0": 190,
+                "y0": 2256,
+                "x1": 617,
+                "y1": 2308
+            },
+            "class": "headline",
+            "raw_text": "FRENCH LINE.",
+            "legibility": "Legible",
+            "full_article_id": 56,
+            "reading_order_id": -1
+        },
+        {
+            "id": 66,
+            "bbox": {
+                "x0": 2751,
+                "y0": 314,
+                "x1": 3396,
+                "y1": 609
+            },
+            "class": "article",
+            "raw_text": "REGULAR SALE OF FURNITURE. CARPETS.\nHORSES. WAGONS, CARRIAGES HAR-\nTOMORROW tSATURDAY MORNING, AT\nTEN O'CLOCK, Will sell. within my sales rooms.\ngo Pa. NV, Furniture. Carpets, contents Of\nLunch Room, vapor Baths, ONCE Furniture,\nCrockery, &c.\n\n\nAT IL NJ,\nin front of sales rooms Horses, Carriages. wag-\nons, Harness, &c. JAMES W. RADCLIFFE.\n1t Auctioneer.",
+            "legibility": "Legible",
+            "full_article_id": 67,
+            "reading_order_id": 0
+        },
+        {
+            "id": 69,
+            "bbox": {
+                "x0": 2878,
+                "y0": 177,
+                "x1": 3275,
+                "y1": 229
+            },
+            "class": "headline",
+            "raw_text": "AUCTION SALES.",
+            "legibility": "Legible",
+            "full_article_id": 67,
+            "reading_order_id": -3
+        },
+        {
+            "id": 79,
+            "bbox": {
+                "x0": 2969,
+                "y0": 238,
+                "x1": 3178,
+                "y1": 274
+            },
+            "class": "headline",
+            "raw_text": "TOMORROW,",
+            "legibility": "Legible",
+            "full_article_id": 67,
+            "reading_order_id": -2
+        },
+        {
+            "id": 73,
+            "bbox": {
+                "x0": 2802,
+                "y0": 289,
+                "x1": 3371,
+                "y1": 320
+            },
+            "class": "headline",
+            "raw_text": "JAMES W. RADCLIFFE. AUCTIoNEER.",
+            "legibility": "Legible",
+            "full_article_id": 67,
+            "reading_order_id": -1
+        },
+        {
+            "id": 74,
+            "bbox": {
+                "x0": 99,
+                "y0": 2601,
+                "x1": 733,
+                "y1": 2800
+            },
+            "class": "article",
+            "raw_text": "American Line.\n\n\nFAST EXPRESS SERVICE\nNEW YORK OTTHAMPTON-LONDOS.\nCALLING WESTROUND AT CHERBOU R0.\n\n\nSailing Wednesdays at 10 AM\nNew York. June 90 New York. July II\nst. Paul. -. June q St Paul. July 18\nSt Louis. July j st. Louis. July IS",
+            "legibility": "Legible",
+            "full_article_id": 75,
+            "reading_order_id": 0
+        },
+        {
+            "id": 80,
+            "bbox": {
+                "x0": 3426,
+                "y0": 4164,
+                "x1": 4030,
+                "y1": 4215
+            },
+            "class": "article",
+            "raw_text": "R.. NJ. PARKER, Attorney for Party Secured.\nje2-d&ds",
+            "legibility": "Legible",
+            "full_article_id": 81,
+            "reading_order_id": 0
+        },
+        {
+            "id": 63,
+            "bbox": {
+                "x0": 3431,
+                "y0": 4229,
+                "x1": 4030,
+                "y1": 4261
+            },
+            "class": "headline",
+            "raw_text": "THOMAS DOWNING & CO., AUCTIoNEERs",
+            "legibility": "Legible",
+            "full_article_id": 81,
+            "reading_order_id": -1
+        },
+        {
+            "id": 81,
+            "bbox": {
+                "x0": 93,
+                "y0": 2860,
+                "x1": 739,
+                "y1": 3099
+            },
+            "class": "article",
+            "raw_text": "NEW OBSERVATION-DISCLOSURES\n\n\nEvery Wednesday at IL\n.Friesland June I3 Wcsternland June 21\nSouthwark. June 20 Kensington.. July\n'Callilc Southampton.\n\n\nINTERNATIONAL NAVIGATION COMPANY.\nPiers Il & Is Mr. 0Sice. 73 broadway, New York\nPhiladelphia office. sO5-3o7 Walnut st.\nWASHINGTON OFFICE. 1906 F st. NV. Or\nG. W Moss. Agent. at Sanders Stayman's. 1921\nst. u SeI",
+            "legibility": "Questionable",
+            "full_article_id": 82,
+            "reading_order_id": 0
+        },
+        {
+            "id": 86,
+            "bbox": {
+                "x0": 230,
+                "y0": 2809,
+                "x1": 612,
+                "y1": 2851
+            },
+            "class": "headline",
+            "raw_text": "Red Star Line.",
+            "legibility": "Legible",
+            "full_article_id": 82,
+            "reading_order_id": -1
+        },
+        {
+            "id": 87,
+            "bbox": {
+                "x0": 1427,
+                "y0": 187,
+                "x1": 2072,
+                "y1": 335
+            },
+            "class": "article",
+            "raw_text": "wounded comrades under the most trying\ncircumstances, are all Of them acts which\n\n\nand ability. and is Hitting example of the\nworth and courage of the American SOL",
+            "legibility": "Legible",
+            "full_article_id": 88,
+            "reading_order_id": 0
+        },
+        {
+            "id": 99,
+            "bbox": {
+                "x0": 2137,
+                "y0": 4113,
+                "x1": 2691,
+                "y1": 4144
+            },
+            "class": "article",
+            "raw_text": "JAMES w. RATcLIFTE, AUcr1oNEER.",
+            "legibility": "Legible",
+            "full_article_id": 100,
+            "reading_order_id": 0
+        }
+    ],
+    "full articles": [
+        {
+            "object_ids": [
+                43,
+                98,
+                0
+            ],
+            "headline": "JOHN P. POE, SOLICITOR,\n100 e. Lexington ST., Baltimore.",
+            "article": "TRUSTEES SALE OF THE WASHINGTON AND\n\n\nPOTOMAC RAILROAD.\n\n\nBy virtue of decree of the circuit court of the\nUnited States for the district Of Maryland. passed\nin the case Of the Union Trust Company OF Phila-\ndelphia vs.. the Washington and Potomac Railroad\nCompany. the undersigned. as trustee named in\ncourt house in Upper Marboe'; Prince Georges\nHHtfi EHGHrEESTH. MT T 1900. ~ AT TWEEVs ooi.ocK\nNOON IMS Al xn THE RALh0Ap OF TE WASH aSH\nPANY. beginning at Point Lookout at the con-\nfuence Of the Potomac river and the Chesaoeake\nbay. in St Mary's county. Maryland. and running\nthence to the city Of Washington, in the District\nof Columbia. its extensions and appurtenances.\nwith the equipments thereof. consisting Of all Its\npersonal property and effects u every kind and\nalso all the rights, liberties. privileges immuni-\nties and franchises Of the said Washington and\nPotomac Railroad Company. and also all the\nrights of way and land used in connection with or\nfor the construction and maintenance Of said\nwith all the bridges. culverts sidetracks. depots,\ngrounds, machine shops. buildings and other struc\nlures. properties. real and personal, and improve\nments Of every kind and description thereon.\ndon of It between Brandywtne, a station on the\nBaltimore and Potomac railroad In Prince\nGeorges county. and Mechanicsville, in st. Mary\ncounty Maryland. have been built and are now In\nactual operation.\n\n\nTerms of sale prescribed BY the decree are a.\nfollows, viz:\n\n\nNo bid less than twenty five thousand dollars\nten thousand dollars G$100O0) to be paid In cash\nand the balance either in cash or In bonds of the\ndefendant company. the dividend on which Will be\nposit of ten thousand dollars $4,000 in cash or\nnifty thousand dollars $3.50. .0O0) In said bonds to be\nmade II demanded by the trustee\n\n\nUNION TRUST COMPANY,\n\n\nof Philadelphia Trustee.\n\n\nJAMES 81. e. MITCHELL.\n3e1-1aw-8t AncttoneeIs",
+            "byline": "TRUSTEES SALE OF THE WASHINGTON AMI",
+            "bbox_list": [
+                {
+                    "x0": 1529,
+                    "y0": 5137,
+                    "x1": 1961,
+                    "y1": 5199
+                },
+                {
+                    "x0": 1443,
+                    "y0": 5213,
+                    "x1": 2057,
+                    "y1": 5245
+                },
+                {
+                    "x0": 1422,
+                    "y0": 5213,
+                    "x1": 2062,
+                    "y1": 6330
+                }
+            ],
+            "bbox": [
+                1422,
+                5137,
+                2062,
+                6330
+            ],
+            "full_article_id": 1,
+            "id": "1_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "SALE AT PUBLIC AUCTION OF A VALUABLE\n\n\nPIECE OF REAL ESTATE ON THE EAST\n\n\nSIDE OF TWELFTH STREET BETWEEN N\n\n\nAND STREETS NORTHWEST, KNOWN AS\n\n\nNO. 1341 TWELFTH STREET NORTHWEST.\n\n\nBy virtue Of deed in trust and the authority\ntherein given t. US from Ann Hall and Others\ndated February g. 1897, and recorded on the 29th\none of the land records of the District OF Column\nbia, the undersigned will sell at public auction to\nthe highest bidder, In front Of the premises. on\nMONDAY. JUNE EIGHTEENTH, 1900, AT FIVE\nO'CLOCK PM, the following described valuable\npiece Of real estate, situate on the east side Of\nTwelfth street west between and streets\nnorth, In the city Of Washington. District of Co.\nlumbia, viz: AL that part parcel Of lot num-\nbered six (6), In square numbered three hundred\nmetes and bounds: Beginning for the at a\npoint on Twelfth street west forty (4O) feet south\nfrom the northwest corner of said lot, thence\nming east ninety-fve (95) feet, the full depth Of\nsaid lot; thence -unning north twenty (20) feet;\nthence running west nnetyve 1851 feet to the line\nOf said Twelfth street, and thence running south,\nby the line of said Twelfth street. twenty COY feet\nto the place Of beginning, containing one thousand\nIn cash, and the balance in two equal installments.\npayable at six and twelve months. with six per\ncent interest, to be secured by deed of trust\nthe premises sold. all cash. at the option Of\nthe purchaser All conveyancng. recording and\nrevenue stamps to be at the purchasers cost. The\nterms Of sale must be complied with within fifteen\ndays otherwise the property will be resold at the\n\n\nCLIFTON NJ. BIGEEoW. Trustee.\n\n\nMASON N. RICHARDSON. Trustee.\n\n\nte6-d&dB S44 D st. NV.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3410,
+                    "y0": 4275,
+                    "x1": 4056,
+                    "y1": 5230
+                }
+            ],
+            "bbox": [
+                3410,
+                4275,
+                4056,
+                5230
+            ],
+            "full_article_id": 2,
+            "id": "2_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                54,
+                2
+            ],
+            "headline": "JAMES W. RANL1FFE, AUcTIoNEER.",
+            "article": "AND p TNIMPRovED REAL EsTATEIBRIcR is- B CT,\nSTORES AND DWELLINGS. nos. 148 c ST.\nSc. AND 800 9TH 81: Sc; BRICK DWELL\nSs Nos NJ sio 1sl2 aTn AZ ss isl4 6. 81 m\nNE, 1908 9TH ST. NV, AND sos SPRUCE\nST. LIE DROIT PARK. qNIMPROvED PROP\nERTY-15TH AND S. E.. d ST. BET. 18TH\nAND 2 18TH L sTs 4o sE 17TH sT ST BET Z AMP N\nSc, AND ON THE CORNER OF 5TH AND E\nSTS Me-\n\n\nThe undersigned, trustees. will sell. at public\nauction, In front of the respective premises. on\nTHURSDAY. FouRTEENTH DAY IA OF JUNE; 1902.\nPM, the following described real estate in Wash\n'\"kss. iss .ss 4 set % q 1916 81 s4s.\nOn On the be- SANE DAY. AT FIVE O'CLOCK Pm\nPIT. lot 9, SO. 1918.\n\n\nLots and 20. 50. 1889.\n\n\nLot 10. %. 1868.\n\n\nSs g. tss e e. s&Ms 4 e DAY. At SIX O'CLOCK PM\nLots SO to 81. included, So 1876.\nOn FRIDAY, FIFTEENTH DAY OF JUNE, AT\nHALF-PAsr -FOUR O'CLOCK Pm\nSAME DAY. AT FIVE O'CLOCK\nLot s2, block is. lie Droit Park\" together\nwith all the improvements, rights. &c.\nTerms: One-third cash, the balance in one and\ntwo years. with interest from date of sale at go\nspective premises or all cash. at option Of the pur-\nchaser. deposit Of 800 required on each parcel\nat the time Of sale. Terms to be compiled with\nIn Is days. All eonveyancing, stamps, &c, at the\ncost of the purchaser.\n\n\nBATES WARREN,\n\n\nJ. ]. DARLINGTON,\n\n\nCLARENCE A. BRANDENBURG.\n1e5d&da Trustees.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3446,
+                    "y0": 5239,
+                    "x1": 3995,
+                    "y1": 5275
+                },
+                {
+                    "x0": 3405,
+                    "y0": 5284,
+                    "x1": 4045,
+                    "y1": 6340
+                }
+            ],
+            "bbox": [
+                3405,
+                5239,
+                4045,
+                6340
+            ],
+            "full_article_id": 3,
+            "id": "3_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                51,
+                88,
+                3
+            ],
+            "headline": "THOMAS J. OWEN. AucT.. sls F ST. NV.\n\nTRUSTEES SALE OF BEAUTIFULLY LOCATED\n\n\nLOTS N UNIVERSITY HEIGHTS'' BROOk",
+            "article": "TRUSTEES, SALE OF BEAUTIFULLY LOCATED\ntTS @ IN cIXNIRS TXIyERsITY III nEIGHT /; = :n BRo9K-\nPoTo2AC CIV WATER. 1sH.-c GAS. ETC e;i-foi'''o 'A\"S'\nBy virtue of four \"a certain deeds of trust to the\nundersigned Redford w. Walker and J. Henry\nsigned Redford W. Walker and George E Fleming.\nall recorded in the land records of the District Of\nIII ct seq: in I4ber No 1850 folio 70 ct seq. in\nfolio 2s1 seq. and at the request of the parties\nsecured thereby, the undersigned trustees will\nTME FL a1 Of J q S sss\nING AT THREE O'CLOCK P: NJ, at which hour We\na.. Immediately thereafter we will sell lots mum\nbered three 81 and four @ In block number twelve\n% Imme lately thereafter We will sell lot NUM-\nthereafter W. will sell lot number three in block\nnumber fifteen Q5). Immediately thereafter we will\n5iock number fifteen 15,, described as follows:\none hundred QJ feet north Of the southeast corner\n81 9hsn nsad lot and running thence porh 4o feet,\nnumber II; thence in a straight line to the place\nOf beginning All of said above mentioned lots and\nWalker, trus.ees'. recorded subdivision of tract\nCT land called University Heights\" as recorded in\nbis IN Der So County ah folio ss\n\n\nTerms Of sale: One-third of the purchase money\n: IAN and years. respeetiveiy. in notes q the pur.\nchaser. secured on the property sold, With interest\nsePess soS O. lot At\ntime Of sale. All conveyancing. stamps and record\nIng At purchases cost Terms to be S complied with\nthe right to resell ut risk and cost Of default\nBEDFORD W. WALKER. Trustee.\n\n\n1905 ct. NJ\n\n\nJ. HENRY BROOKS ] Trustee\n\n\nGEORGE r. FLEMING. Trustee.\n\n\nly8l-Ats 400 Ut. NV.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4080,
+                    "y0": 5061,
+                    "x1": 4700,
+                    "y1": 5098
+                },
+                {
+                    "x0": 4070,
+                    "y0": 5102,
+                    "x1": 4700,
+                    "y1": 5159
+                },
+                {
+                    "x0": 4065,
+                    "y0": 5102,
+                    "x1": 4715,
+                    "y1": 6340
+                }
+            ],
+            "bbox": [
+                4065,
+                5061,
+                4715,
+                6340
+            ],
+            "full_article_id": 4,
+            "id": "4_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                23,
+                4
+            ],
+            "headline": "'a-H1N' '\" HAICLIFFE, AUCTIUNEEK.\nChancery Sale of a Two-\nstory and Basement\nBrick Dwelling, No. 448\nNew Jersey Avenue S.E.,\ni'm WASHINGTON Cifv.",
+            "article": "=, BY virtue Of decree of the Supreme Court of\noee ~, plstflct l OF Columbia passed the 9Th day\nsS az pHblie auction In front Of the premises.\nIiALF.PAsT FOUR O'CLOCK PM, lot lettered\nIn stotts recorded subdivision Of original lot\nnumbered one ~. In square numbered six huLdretf\nand ninety four (6s4). comprising premises No 44s\nNew Jersey avenue southeast\n\n\nIhis property Is in good condition, is conveniently\nlocated with reference to the Capitol and the Con-\ngfes~lonal Library, and should command the atten-\ntion OF investors, and those desiring comfortable\nhome.\n\n\nTtr rms Of sale: One-t third Of the purchase money\nIn cash. and the balance In equal installments,\npayabie , In one and two years from day of sale.\nviii interest at the rate Of per cent per annum,\nsecured by deed OF trust upon the premises sold.\nOF an cash. at the option Of the purchaser AL\ne1nSeyahclng including revenue stamps, at the pur-\nchasers cost. A deposit of $1OO will be required\nut the time Of sale. II terms of sale not\neSEpiled with within ten days from day OF sale\nme trustee reserves the right to sell the property\nat the risk and cost Of the defauting purchaser,\natIer I'VE days advertisement In tie Washington\nPost or Star. SIDNEY F. THOMAS\n\n\nJeI-d&S Trustee, 452 d st. NV.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2092,
+                    "y0": 4128,
+                    "x1": 2727,
+                    "y1": 4388
+                },
+                {
+                    "x0": 2087,
+                    "y0": 4397,
+                    "x1": 2727,
+                    "y1": 5072
+                }
+            ],
+            "bbox": [
+                2087,
+                4128,
+                2727,
+                5072
+            ],
+            "full_article_id": 5,
+            "id": "5_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                92,
+                89,
+                50,
+                59,
+                5
+            ],
+            "headline": "my23-d&ds\n\nje4-d&ds\n\nFUTURE DAYS.\n\nJAMES W. RADCLIFFE, Auor1oNEER.",
+            "article": "CHANCERY SALE OF Two-sToRY BRICK\n\n\nNORTHEAST.\n\n\nBy virtue of decree of the Supreme Court Of\nthe District Of Of Columbia, passed on the I'd day q\nJune. d. 1900. In a certain cause therein pend\nM ing, whereby .e, John B. Geier Is complainant and\nknown as equity cause No 2ls75. docket 4s the\nEIGHTEENTH E!4I DII DAY OF JUNE. AT FIVE\npublic auction all that certain parcel Of real estate\nsituate In the city Of Washington District Of Co\nlumbia, known as lot numbered ten QO), in Will.\nlam r. HoltzmAn's subdivision Of parts Of certain\noriginal lots In square numbered seven hundred and\neighty-four (7S4), the said subdivision is re-\ncorded in Book No. 10, at page 131, in the office\nOf the surveyor of the District Of Columbia, I'm\nproved by a two-st0ry brick building, used as q\nblacksmith shop and dwelling\n\n\nTerms Of sale: One-third Of the purchase price\nin cash. balance in equal tnstalments at one and\ntwo years from day Of sale, to be secured by notes\nof purchaser, bearing six per cent interest, and\nthe purchasers option Taxes paid to day Of sale.\nAll conveyancing including cost Of recording and\nrevenue stamps. at cost Of purchaser. Deposit Of\none hundred dollars required at time Of sale.\nTerms Of sale to be complied with in fifteen days\nfrom day of sale. otherwise the trustee reserves\nthe right to resell at the cost and risk of default\ning purchaser, after five days notice Of such re-\nsale In The Evening Star.\n\n\nERNEST L. SCHMIDT, Trustee,\n\n\n1eSd&ds Eendau bldg. ~ and D ~. M.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2766,
+                    "y0": 5203,
+                    "x1": 2909,
+                    "y1": 5240
+                },
+                {
+                    "x0": 2761,
+                    "y0": 5376,
+                    "x1": 2879,
+                    "y1": 5407
+                },
+                {
+                    "x0": 2908,
+                    "y0": 5416,
+                    "x1": 3209,
+                    "y1": 5453
+                },
+                {
+                    "x0": 2787,
+                    "y0": 5462,
+                    "x1": 3330,
+                    "y1": 5503
+                },
+                {
+                    "x0": 2741,
+                    "y0": 5513,
+                    "x1": 3381,
+                    "y1": 6335
+                }
+            ],
+            "bbox": [
+                2741,
+                5203,
+                3381,
+                6335
+            ],
+            "full_article_id": 6,
+            "id": "6_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                8,
+                6
+            ],
+            "headline": "JAMES W. RATCLIFFE, AUCTIoNEER\n\n\nTrustees Sale of Two=St0ry\nFrame, Mansard Roof\nDwelling, No. l46O\nBreeds Terrace or Coax\nStreet0. Mount Pleasant.",
+            "article": "By virtue of a deed of trust, duly recorded in\nLiber No. 1880. folio II ct seq, one of the land\nrecords for the District Of Columbia and at the\nsigned trustees will offer for sale. by public aue\nsEe9NP 8 GO poI9AY DAY Of June: AID. 1900: A. HALF\nscribed real estate oituate in the county Of Wash\nington. in the District Of Columbia, to wit: Part\nOf lot numbered six (6) In Daniel Breeds subdi-\nWis vision Of part Of tract of land known MT\nNo. I page q In the surveyors Office Of said Dis\ntrict, said subdivision being called Breeds 8\nrace beginning for the same at the northwester-\nly corner Of said lot and running thence south\neasterly on the southerly line of Breeds Terrace\ntwentyn l2oQ feet; thence running southwesterly\nparallel with the westerly line of said lot eighty\nangles to the said westerly line of said lot twenty\nhye (Zol feet to point in said westerly line\neighty 800 feet southeasterly from the north\nwesterly corner thereof. and thence running north\neasterly on said westerly line eighty 500 feet to\nthe place Of beginning together with all the i'm\nprovements. rights etc.\n\n\ntwo years, with interest from the day Of sale, at\nsix per cent per annum, secured by deed of trust\non the property sold, all cash. at the option Of\nthe purchaser. deposit Of $500 required upon\ncompiled with In fifteen days from the day Of sale\nthe trustees reserve the right to resell the prop\nerty at the risk and cost of the defaulting pur\nchaser after five days advertisement Of such re-\nsale In some newspaper published in Washington,\np q. All conveyancing. stamps, etc, at pur-\nchasers cost\n\n\nJOHN A. SCHAEFER.\n\n\nWILLIAM R. McCLOSKY.\nmy23-d&ds Trustees.\nDTHE ABovE SALE IS POSTPONED, ON\naccount Of the rain. until SATURDAY, THE\nNINTH DAY OF JUNE. 1900. at the same hour\nand place.\n\n\nJOHN A. sCHAEFER.\n\n\nWILLIAM R. McCLOSKY.\nje4-d&ds Trustees.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2756,
+                    "y0": 3986,
+                    "x1": 3391,
+                    "y1": 4271
+                },
+                {
+                    "x0": 2746,
+                    "y0": 4275,
+                    "x1": 3391,
+                    "y1": 5407
+                }
+            ],
+            "bbox": [
+                2746,
+                3986,
+                3391,
+                5407
+            ],
+            "full_article_id": 7,
+            "id": "7_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                84,
+                46,
+                90,
+                7
+            ],
+            "headline": "je2-d&ds\n\nTHOMAS DOWNING, AUcT1oNEER.\n\nTRUSTEES SALE OF VAIUARLE IMPROVED\n\n\nPROPERTY IN KENILXORTH. ID. @.",
+            "article": "TRUSTEES SALE OF VALUABLE IMPROVED\nNv !aitGI paE0pERrY ~ In IN kENILwoRTH, D: g. ,.o,\nand recorded In Liber 5375 folio go ct seq, one\nOf the land ,h records Of The District Of Columbia\nwe will sell. at public Auction. in front Of the\nRETsPFssssi EsFsTH ,sao on WEDNEspAY 6 JUNE THIR,\nfollowing described land and premises, situated in\nthe county @ Of Washington, m said District yia.:\nand Lawrence o. Malery. ftnstees, subdivision Of\nRsst S1, S1 lot IN the tract heretofore known a.\nper plat recorded In the once of the surveyor for\nthe District Of Columbia. IN County Book 10, folio\nq twO-story frame dwelling\n\n\nTerms: 500 cash. balance easy.\n\n\n~ d. B. MACKAIL,\n\n\nT. o. MALLERY,\nss%8s,11&1s Hasteis",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2097,
+                    "y0": 5746,
+                    "x1": 2245,
+                    "y1": 5777
+                },
+                {
+                    "x0": 2142,
+                    "y0": 5787,
+                    "x1": 2661,
+                    "y1": 5823
+                },
+                {
+                    "x0": 2087,
+                    "y0": 5827,
+                    "x1": 2727,
+                    "y1": 5884
+                },
+                {
+                    "x0": 2082,
+                    "y0": 5837,
+                    "x1": 2727,
+                    "y1": 6335
+                }
+            ],
+            "bbox": [
+                2082,
+                5746,
+                2727,
+                6335
+            ],
+            "full_article_id": 8,
+            "id": "8_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                93,
+                9
+            ],
+            "headline": "W.\nEDWIN 3. HAY, Trustee,\nje4-d&ds Office 1925 n Y ave- NV",
+            "article": "CHANCERY TRUSTEES SALE OF VALUABLE\nsGsSRhAN sSIF r KES1PENGE s Fop TR9FERTI At\nBY PROFESSOR G. BROWN GoODE\n~. BY virtue Of decree of the Supreme Court of\ntrustees. Will offer for sale. at public auction in\nM front Of the premises. on WEDNESDAY. JUNE\nTHIRTEENTH. 1900, AT FIVE O'CLOCK PM.\nthe following described real estate. situate IN the\ncounty of Washington, District Of Columbia, to\nwit:\n\n\nAll Of lot numbered hundred and sixty-two\ntS'; OF e. Brown Go1de and others subdivision Of\nrecorded in the surveyors office of the District Of\nColumbia, in County Book 8. page 81: also\nAll that potion Of lot numbered ninety-two (92).\nOf Elizabeth Lanier Dunn's subdivision of ..Ianer\nHeights\" as said subdivision is recorded In Book\nmentioned lot one hundred and sixtytwo 162l, ex-\nfseptng f therefrom 91 hoWeSer all that part Of said\nsouthernmost lines fronting Ontario and\na line drawn parallel to said southernmost lines\nand twenty feet northerly tkerefrom between the\neastern and western lires Of said lot ninety-two\n(92) the line of Ontario avenue referred to being\nas laid down in said subdivision by Elizabeth\nAlso lots numbered one hundred and thirty -four\nRichard u. Goode and others subdivision in\n.Lanier Heights. said subdivision is recorded\nsurveyor the said property being improved by a\nlarge and commod;ous dwelling, with the necessary\nTerms Of sale: One-third of the purchase money\nin cash. third in one year and one third in two\nyears or al casn, at the option OF the purchaser.\nThe deferred payments, II any, to he represented\nby the promissory notes of the purchaser. hearing\ndate on the day of sale, and secured by deed Of\ntrust the property sold; said notes bearing in\nterest at the rate Of six per cent per annum. pay\nable semi Annually. deposit of $500 will be re.\nquired at the time of sale. All conveyancipg\ncording and revenue stamps to be at the purchas-\ner's cost. Terms Of sale to be complied with\nwithin ten days from the day of sale. or the trs-\ntees reserve the right to resell at the risk and\nof the defaulting purchaser, after five days\nadyertis ement of such resale.\n\n\nJOHN RIDoUT. Trustee.\n\n\n344 ID st. NV.\n\n\nFRANKLIN II. MACKEY. Trustee\n\n\nCOL ID NV.\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4090,
+                    "y0": 3611,
+                    "x1": 4700,
+                    "y1": 3667
+                },
+                {
+                    "x0": 4075,
+                    "y0": 3672,
+                    "x1": 4720,
+                    "y1": 5032
+                }
+            ],
+            "bbox": [
+                4075,
+                3611,
+                4720,
+                5032
+            ],
+            "full_article_id": 10,
+            "id": "10_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                96,
+                14,
+                10
+            ],
+            "headline": "DUNcANsoN BROS, AUcT1oNEERs.\n\nDUNCANsoN BROS. AUCTIONEERs.\nTrustees Sale of Small Frame House\nand Large Lot on O Street (or\nBeall Street, Between Twenty\nseventh and Twenty-eighth Streets,\nWest Washington, d. c.",
+            "article": "Default having occurred under the provisions Of\na certain deed Of trust. recorded in Liber 2316, at\nfolio g1 ct seq of the land records of the District\nof Columbia, the undersigned, trustees. will offer\nfor sale. in front Of the premises. on MONDAY,\nJUNE ELEVENTH, AID 1900. AT FIVE O'CLOCK\nPm the west half of lot numbered 121. In BealTs\naddition to Georgetown, In the District Of Column\nbia being in square 60. in Georgetown, fronting\nBeall street.\n\n\nTerms: One-third cash. the balance in two\nyears at per cent per annum interest. payable\nsemi-annually, secured by deed Of trust the\nproperty sold, all cash. at the option of the\npurchaser. Deposit of 800 required the time\nOf sale Terms to be complied with within ten\ndays day Of sale, trustees reserve the right\nto resell the property at che risk and cost of de-\nfaultng purchaser. Conveyancing. recording and\nrevenue stamps at purchasers cost.\n\n\nJACKSON II. RALSTON,\n\n\nE. QUINCY SMITH,\n\n\nmy3O-d&ds Trustees.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1478,
+                    "y0": 4351,
+                    "x1": 2027,
+                    "y1": 4388
+                },
+                {
+                    "x0": 1427,
+                    "y0": 4356,
+                    "x1": 2067,
+                    "y1": 4596
+                },
+                {
+                    "x0": 1422,
+                    "y0": 4600,
+                    "x1": 2067,
+                    "y1": 5108
+                }
+            ],
+            "bbox": [
+                1422,
+                4351,
+                2067,
+                5108
+            ],
+            "full_article_id": 11,
+            "id": "11_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                53,
+                11
+            ],
+            "headline": "THOMAS BOWLING & CO. AUcTIoNEERs",
+            "article": "TRUSTEES SALE OF Two-STORY FRAME AND\n\n\nBRiCk DWELLING. KNOWN AS No. 2262\n\n\n9Th STREET EXTENDED.\n\n\nUnder anu by virtue of certain deed Of trust\nbearing ea, date the i1th day of July, A. D. 1855,\nand recorded in Liber No. 1890 folio % ct seq\none OF the land records OF the District of Column\n6ia, the undersigned trustees will on WEDNfS-\nDAY, the THIRTEENTH DAY of JUNE A. d.\n1900. at HALFPAST FOUR O'CLOCK PM, in\nfront OF the premises, sell at public auction all\nthat certain piece or parcel of land and premises\nsituate In the county of Washington. In said Dis\ni tTict. known as and being lot iettered L.\" in\nWrights subdivision of lots included from sixty\nfour (64, to sixty yseven 67,. in Wright and Cox's\nsubdivision OF Pleasant Plains and Mount Pleas\nant as the same is recorded in the surveyors\noffice of said District, in Liber Levy Court No l.\nfolio 40. together with the improvements thereon\nconsisting Of twostory brick and frame dwelling\nTerms of sale: One third cash, balance in equal\ninstaliments at one and two years from the day\nof sale. secured by the promissory notes of the\npurchaser, bearing legal interest. and a deed Of\ntrust, to the satisfaction of the trustees on the\nproperty sold, or all cash. at purchasers option\nA deposit of 800 required at time of saie Sale\nto be closed within fifteen days. otherwise the\ntrustees reserve the right to resell at cost and\nrisk Of defaulting purchaser. Conveyancnr reye-\nnue. stamps and recording at purchasers cost\n\n\nBENZ. +. LEIGHTON Trustee.\n\n\nOffice 416 9Th st. n.w\n\n\nRICHARD e. PAlRO. Trustee\n\n\n)eo-d&ds Office 4S2 La ave- NV",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4090,
+                    "y0": 1643,
+                    "x1": 4700,
+                    "y1": 1679
+                },
+                {
+                    "x0": 4075,
+                    "y0": 1688,
+                    "x1": 4725,
+                    "y1": 2486
+                }
+            ],
+            "bbox": [
+                4075,
+                1643,
+                4725,
+                2486
+            ],
+            "full_article_id": 12,
+            "id": "12_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                39,
+                12
+            ],
+            "headline": "FOREIGN POSTAL SERVICE",
+            "article": "WASHINGTON u C. POST OFFICE NOTICE.\nShould be read daily. as changes may occur at\nFOREIGN MAILS are forwarded TO the ports of\nsailing daily and the schedule of closings IS\nranged on the presumption Of their uninterrupted\noverland transit For the week ending June D.\n1900 the last connecting closes will be made from\n\n\nIRA Ss,Tr-,NTIc NAILS.\n\n\nFRIDAy-,c, At r:o5 NJ. for EUROPE. per\n,c, Al I:e5 M. for NETHERLANDS direct, per\nMail must be directed Per SIS statendam:'' tc,\nAl l1:o5 PM for NORWAY direct. per SIS: island\nfrom New York. Mail must he directed per SIS\n.PRINTED MATTER Erc.-German steamers\nmatter etc for GERMANY and specially ad.\ndressed printed matter. etc. for other parts OF\nAmerican and White Star steamers sailing from\nNew York on wednesdays German and French\nand Germsn steamers from New York on Saturdays\ntake printed matter, etc; for all countries for\nNAIL NAILS T FOR rs sorTH '11'' ASp CENTRAL AMERICA\n\n\nWEST INDIES. ETC.\nand GIsEYTowN per SIS Altai, from New York\nss5lS & l 6, At 1i:os PM for 81 KITS 1E vaas and\nhENEfhRA r r. Ter -, SIS ytwEG 5 Sp,SS fTn Hsw p.9 4gts\nRRAzII' ss '' per ss caEania; from New York zIa\nnRAzIl and LA Plata @ CoUNTRiES, ;, M %ns, p b be\nfor YrCNrAN. per SIS. Hermann, fr'm New York,\nSATURDAY At $50 AN. for La PLATA\nCOUNTRIES direct. per SIS Hilarious. from New\nSixnAY-uD At 1900 NJ for ST. r1ERRE-M-\nMails for NF,wFoUNDLAND by rail to North\nSydney and thence via steamer. close here daily.\n@ sS'1 Il ~ Saly m d, io' NJ\" anu on sunoass only\nMails for MIoUELOS. by rail to Boston and\nthence via steamer. close here daily at 3:15\ncihA NAILS close here via Port TAMPA. Fla; e;\nVia Miami Fla, Tuesdays and Saturdays at\nMalls f\"r MF,x,co overland. unless specially ad\ndressed for dispatch by steamer ling from New\nYork. close here daily at 1880 AM and 1000\nMails for COST, RIGA. BELIZE PUERTO COR\nEZ and GtArEMAmA by rnii 1T to ss;s New Orleans ms\nPM. III\" connecting closes for which being Sum\nday. sI9 TT Gsdays FOR z COST RIG4 RIG and Mondays\n\n\nTRANspAcIFIC MAILS.\nMs r e, GSa T.s.n. ,AS las ss4s sns sT n\nPM. up 70 Jnns IL. inclusive. for dispatch per S..\nMails Tor SoCITrY ISLANDS. via San Fran\ncisco. close here daily at 635 2 M up 10 June 8,\nM o r'r Gas elGspt h rGSs West bl @\nNEW ZEALAND HAWAII. FIJI and SAMOAN\nG.a5 PM mp to June 0. inclusive for dispatch per\n-, Mariposa 70,\n\n\nIPPiSF IsIANDst via San Francisco, % close here here\ndaily at e:25 rM M to June o. inclusive for dis\ni@Ih Mall fos CHM. M % and dAPAS' via Vancouver\nc!o-e h're daily At cs5 P,M. up 70 June y In\n\n\n\n\n\nRegistered mail must I've directed Via vancou-\nyer - tnt\n\n\nMails for CHINA. JAPAN and PHILIPPINE\nISLANDS,. via 2eattle. close here daily 6.35\nPM. up To June II for dispatch per Idznmi Maru.\nRegistered mail must he directed ''via Seattle (o)\nMails for CHINA. JAPAN, HAWAII and PHIL\nU1'INE iSLANI'St. via San Francisco. close here\ndaily AZ Gas r NJ up to June IT, inclusive, for\ndispatch Ter China. to)\n\n\nMalls FOR HAWAII. via San Francisco. close here\ndaily at 6:35 PM up TO June %. inclusive, for\nMails for AUSTRALIA texcept West Australia.\nVIII via nd Sey Zeala nd xxbf\ngoes via San Francisco,. HAWAII and FIJI ISL\nANpS via Vancouver. close here daily at e:35\nPM up to June 2s. inclusive. for dispatch per\n= Warrimoo (ob\n\n\nmalls for COCHIN CHINA are forwarded to\nNew York for connection with European steamers\nPHILIPPINE ISLANDS military rnaiD dis\npatched TO San Francisco closes for that Of\nsangs Of which are irregular.\n\n\ntb) Registered malls close at OO PM same\nfay\n\n\ntcl Registered mails close at 500 PM same\nGay\n\n\n\"a, Registered mails close at 500 AN same\nday\n\n\n(e, Registered mails close a. 100 PM previous\nSaturday.\n\n\n~ Registered mails close at 1900 PM previous\nday\n\n\n1kI Registered mails close at 500 PM previous\n%, Registered mails close at 600 PM previous\nGay\n\n\nje2 JOHN A. MERRITT Postmaster\n\n\nCommander Todd's Suspenaion.\nThe last acf of ono hsgora 10",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 99,
+                    "y0": 3114,
+                    "x1": 733,
+                    "y1": 3160
+                },
+                {
+                    "x0": 83,
+                    "y0": 3174,
+                    "x1": 739,
+                    "y1": 6077
+                }
+            ],
+            "bbox": [
+                83,
+                3114,
+                739,
+                6077
+            ],
+            "full_article_id": 13,
+            "id": "13_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "JAMES W. RATt7.T4sEs Tt7.T4sEs AUc1IoNEER.\nEntire well=assorted stock\nof Doors, Bfinds, Sash,\nHoldings, Ffafi1es, Dress\nerr Doors, Desks, Cash\nRegister, &C., contained\ni'm the mill of Wlaeatley\nBros, Eighth and Rhode\nisland avenue N. w.;\n\n\nAlso,\n\n\nTwo Horses. PlatformWag\nON. Lumber Wagon, FIar=\nmess, to be sold by Pub\nLie Auction ON the above\npremises Thursday, q4th\nday of june, A. ID. 1900,\ncommencing at nOo'clock\na. mn, to which the at\ntenti0n of the trade and\nprivate buyers is called.\nTerms cash.\n\n\n5es-d&dbs JAMES W. RADCLIFFE, Auct.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2087,
+                    "y0": 3078,
+                    "x1": 2727,
+                    "y1": 4104
+                }
+            ],
+            "bbox": [
+                2087,
+                3078,
+                2727,
+                4104
+            ],
+            "full_article_id": 14,
+            "id": "14_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                60,
+                15
+            ],
+            "headline": "THos. J. OWEN. AUCTIoNEER, 9ls ST. NV.",
+            "article": "TRUSTEES SALE OF IMPROVED PROPERTY\nON SHERIDAN AVENUE, ANACOSTIA. D: G.\nBy virtue Of a certain deed of trust. duly re-\nthe land records Of the District of Columbia, and\nat the request Of the parties secured thereby, we\nises, on WEDNESDAY, JUNE THIRTEENTH\n1900. at HALFPAST FOUR O'CLOCK PM, lot\nnumbered 10, section I, in Barry Farm. contain\ning one acre of ground, improved by a frame\ndwelling.\n\n\nyears, with interest, secured by deed of trust\non the property sold, all cash. at purchasers\noption A deposit Of 800 required at time of\nsale. Conveyancing, recording and revenue stamps\nat purchasers cost.\n\n\nW. N FREEMAN,\n\n\n]. II. DONY,\n\n\nTrustees.\nR. NJ. PARKER, Attorney for Party Secured.\n90",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3421,
+                    "y0": 3661,
+                    "x1": 4050,
+                    "y1": 3698
+                },
+                {
+                    "x0": 3410,
+                    "y0": 3707,
+                    "x1": 4056,
+                    "y1": 4210
+                }
+            ],
+            "bbox": [
+                3410,
+                3661,
+                4056,
+                4210
+            ],
+            "full_article_id": 16,
+            "id": "16_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "circumstances, de all Of them acts which\ncall forth the highest Qzafse for their zeal\nworth and courage of the American sol\nder\"\n\n\nThe Casualties.\n\n\nThe following Is the list Of casualties Of\nthis engagement:\n\n\nKilled-Sergeants Dustin L. George, Will\nliam J. Hall. Corporals Herbert Edwards,\nJdln F. ]. Hamilton. Cook Burton E. Hess,\nMusician Burton R.Wagner, Privates Treff-\nlie Pomelow, Otto B. Loose, Stephen Apper-\nII, Joseph Noeil. John E. Kuhn. Ralph H.\nZim, Edward Bramen. Chester A A. Conk-\nlin, Walter E. Collins. Joseph ]. Kerins,\nHenry Dumas. Philip Sailing and George A\nSlack.\n\n\nWounded-Corporal Lester Rushworth.\nshot in right leg, and Privates Harry C.\nLee. shot in left arm: Michael ]. Faron.\nshot in calf Of right leg: Corporal White of\nCompany F, shot near right hip, slight\"\n\n\nStory of the Rescue.\n\n\nLieut.. Sweeney. who commanded the\nrescuing party, reported to Capt Dey as\nfollows:\n\n\nMY detachment, which consisted of one\ncorporal and six privates of Company H,\nF, f3d Infantry, u. s. \", embarked at\nLaguan on the steamer Lao-ang 7:3O am.\non the 18th Of April, 1900, enroute to Ca\ntubig. where 1 had orders to resume COM\nmand OF that garrison When we had reach\ned point about one mile from Catubig the\ncaptain of the steamer was compelled to\nstop his boat because the river was Block\ned with trees laShed together, and 1t was\nimpossible to proceed further without dam\naging the steamer 1 Immediately procured\nall the axes available. and, lowering the\nsmall boats, landed a corporal and four\nmen on each side of the river to stand\nguard while 1 took the remainder of the\nmen to the blockade, which we destroyed\nafter much hard work A a hundred\nfeet high bordering on the river bank was\ncut at the base so that a strong pull on\nthe ropes that were tied near the top (and\nstretched across the river to the other\nbank) would have formed a second blockade\nalmost as complete as the first. Those ropes\nmy men cut and destroyed In four nipa\nhouses on the banks of the river which had\nbeen used as barracks by the insurgents 1\nfound over hundred pounds of fresh beef,\nwhich l ordered to be thrown in the river,\nand a hundred and fifty pounds of rice,\nwhich l confiscated. 1 ordered those houses\nburned and proceeded down the river.\nWhen within quarter of a mile from Ca\ntubig noise of an engagement could be\nheard coming from that direction. and 1\nordered the captain of the steamer to run\nhis boat at full speed, and We steamed into\ndirection. My men Immediately returned\nthe fire. I had the small boats lowered\nand prepared to load, after calling to the\nmen of the garrison to locate their position\n\n\n\n\n\nlage were in ashes and other houses were\nburning). Leaving three men on the steam\ner with orders to hold it. Immediately pro-\nceeded to make landing. but before every\nman was able to get into boats Corporal\nWhite. Company F. was shot in the left\nside and Private Farron. Company H. in\nthe calf of right leg. These two men were\nput back on the steamer and we started for\nshore. rifle fire coming from both sides Of\nthe river.\n\n\nJoining the Garrison.\n\n\nEve fortunately made a landing and were\ncompelled to fight our way across open\nground to rescue our men. who were in\nscme tall grass, distance of over seventy\nfive yards. Private Claucy. Company H.\nwas shot in the right instep in our advance\nacross this ground There was no cover OF\nany kind that We could avail ourselves of\nard we were placed in tfe center of a circle\nOf rifle r1re on open ground We could\nhave taken position I'm the grass (Where\nwe could not be seem. but by doing so we\ncould not command a view of the enemy s\nmovements. l sent two men In there 10\nbury Privates Pomelow and Loose in the\ntrenches the men had made. while we\nguarded them. the insurgents continuing\nthe fire and we returning 1t. AS soon as\ncould l got the wounded men and their\ncompanions, thirteen in all, into the boats\nand We boarded the steamer and returned.\n\n\nTHE streets of Catub.g were covered with\ndead Insurgents, and l saw two floating\ndown the river. l should estimate their\nloss was over two hundred The town was\nfortified at every turn. particularly along\nthe river front. where the in>lrgcnts used\nbags of rice. dirt and hemp for breast\nworks. On arriving at the place where We\nhad destroyed their blockade found that\nthey had made another attempt to block\nour passage for they had made a rope of\nlong bamboo strips and cane, had attached\n1t to the highest tree. and stretched 1t\nacross the river in the hope that tho smoke\nstacks Of the steamer would pull 1t down\non U.S. but the rope was hurriodiy and poor\nly made and snapped.\n\n\n81 strongly recommend the men OF my\ndetachment for the bravery and courage\nand perseverance they displayed in their\nwhen there was no support available for\nthem If they should lose. and absolutely no\nretreat\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1422,
+                    "y0": 218,
+                    "x1": 2067,
+                    "y1": 3718
+                }
+            ],
+            "bbox": [
+                1422,
+                218,
+                2067,
+                3718
+            ],
+            "full_article_id": 18,
+            "id": "18_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                75,
+                41,
+                18
+            ],
+            "headline": "AUCTION SALES.\n\n\nTHIS AFTERNOON.\nJAMES \". RATAIFFFE.5 AuCr1oNEER,\n\nJAMES \". RATHIFFEs9 AUCr1oNEER.\nTrustees Sale of Valuable\nReal Estate, being the\nFour-story Office Build\ning No. z0zs q Street\nNOrfhwestr",
+            "article": "By virtue Of a deed Of trust duly recorded in\nLiber 1000 folio 81 ct seq q the land records of\nthe District Of ColnmbiaS and at the request Of the\ntrustee. viii ,n\"r for als 81 public auction, in\nDAY OF JUNE, 1900. At HALFPAsT FOUR\nsituate in the city of Washington. District Of Co\nberel 2 in square 40. beginning at the southeast\ncorner of said lot said point being 20 feet west of\n7th street norhwest), and running thence north 100\nfeet thence west 20 feet thence south 100 feet and\neasement over the rear shs feet Of the middle %\nfeet of said lot 2, together with all the improve.\nments, rights. etc.\n\n\nThis property will be sold subject however to a\nfirst trust Of 10000 with interest at per cent\nTerms. over and above the trust, cash. deposit\nOf $25O.OO will be required At the time of sale.\nTerms Of sale :, be complied with in Is DAYS from\nday of sale otherwise the trustee the right\nto resell the property at the risk and cost of de-\nfaulting purchaser after days advertisement Of\nsuch resale in some newspaper published in WASH\nihgton d. q. All conveynncing, stamps, etc. at\npurchasers cost.\n\n\nUPTON H RIDENOUR Jr,\nmy21 -d&ds Surviving Trustee.\nDTHE ABOVE SALE Is POSTPONED UNTIL,\nFRIDAY THE EIGHTH DAY OF JUNE, 1900, at\nthe same hour and place.\n\n\nUPTON II, RIDENoUR, Jr,\nje2-d&ds Surviving Trustee.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2142,
+                    "y0": 177,
+                    "x1": 2712,
+                    "y1": 315
+                },
+                {
+                    "x0": 2097,
+                    "y0": 284,
+                    "x1": 2732,
+                    "y1": 563
+                },
+                {
+                    "x0": 2087,
+                    "y0": 573,
+                    "x1": 2732,
+                    "y1": 1385
+                }
+            ],
+            "bbox": [
+                2087,
+                177,
+                2732,
+                1385
+            ],
+            "full_article_id": 19,
+            "id": "19_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                72,
+                95,
+                19
+            ],
+            "headline": "DUNoANsoN BROS. IucT1oNEERs.\n\nTRUSTEES SALE OF Two- STORY FRAME\n\n\nDWELL DWELLING No. 1929 15TH STREET NORTH",
+            "article": "1hUSIEtSS SALE OF TWO-STORY FRAME\nWEST q.\n\n\nDefault having occurred under the provisions of\nfolio 4S9 ct seq; of the land records of the Dis\n@ dfe. o, OF o9umbis the UNDERSIGNED trustees will\nDAY; DAY; June FoURTEEnMB. A. b. 1900, AT\nEVE tr i O'CLOCK PM, the south 20 feet front BY\nDenison and Benjamia r. Leighton. trustees,\nfaod,sissn Pons @ Of part Of Pleasant and Pleasant\nsubdivision, folio g. ofse of 1.-the records Of the\nsurveyors Office Of the District Of Columbia, with\nthe improvements therspn., I'D\n\n\nTerms: one-third @ cash, balance in one and two\nyears at n 81 per annYA interest payable semi\nerty sold or al cash III The option Of the pur-\nChaser Deposit Of $1or required at time Of sale.\nIerms OF sale to be Rsmplted with in 10 days.\notherwise trustees fesesys, the right to resell the\nproperty at the risk and cost Of defaulting pur-\nchaser. Conveyancfng, recording, revenue stamps,\n&C., at purchasers cOsfl -\n\n\nFRANCIS FL. SMITH,\n\n\nFRANK BIRGE SMITH,\nJeZd&ds Trustees,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2153,
+                    "y0": 5076,
+                    "x1": 2691,
+                    "y1": 5113
+                },
+                {
+                    "x0": 2082,
+                    "y0": 5107,
+                    "x1": 2727,
+                    "y1": 5184
+                },
+                {
+                    "x0": 2082,
+                    "y0": 5137,
+                    "x1": 2722,
+                    "y1": 5777
+                }
+            ],
+            "bbox": [
+                2082,
+                5076,
+                2727,
+                5777
+            ],
+            "full_article_id": 20,
+            "id": "20_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                37,
+                76,
+                78,
+                21
+            ],
+            "headline": "AUCTION SALES.\n\nFUTURE DAYS.\n\nTHos. J. OWEN, AUCrloNEER, sls ST. NV",
+            "article": "AAhoS. . oWI->, olc = a. NV\nADMINISTRATORS SALE OF VERY VALUABLE\n\n\n40 srAsIE sIrGArkp HfsE HETwEEN ThS Mil Mil\n\n\nMr: AH9 TENTH s1Id iS ASp ro, sIREEs GMiE S3nTH-\n\n\nTENTH NIB STREET + ,, NoRTaWEST. I'll IIo7 M NEW\n\n\nsnMsHiHE sTREET HoRAHWEsE AHENsE NORTHWEST 2S2\"\nBY virtue of decree OF the Supreme Court OF\nthe District Of Columbia, holding Special Term\npending thesein-''In the matter Of the petition Of\nLewis B. Parker. administrator de bonis non of\nthe estate Of George s Parker late of the District\nOF Columbia. deceased for sale Of certain Of the\nreal estate of the decedent. etc. No. 6ss1. on\nistrator de bonis non therein appointed to SELL\nsell at public auction. in front of the respective\npremises PREF k the following described pieces and par:\nWashington. District Of Columbia. on the days and\n'ns oSs ~as nsmf4 1900\n\n\nHALF-PAST FOUR O'CLOCK PM,\n\n\nLots A. 42 and 49, in heirs of John Davidson\nin Liher n: K folios 1o2 and los Of the records\nOf Of the surveyors @ office of the District Of Column\nand John wilson's subdivision Of lots, in sanarc are\n1851. as per plat recorded in IIber \" K. folio 2i5\nthe Tally-ho stabIes.S located between Sn snd @ o\nand 9th and 10th SITS. NV. in the city of wash\na so-foot alley on the east e5 feet on a 2o.foot\nalley on the north and a5 feet on 15-foot alley\nbeing improved by fine two-story brick stable, in\ng gcSd Tsr TrePsiT covering the whole Of said lots\n\n\nON IlESIA1. JUNE NINETEENTH, 1900. AT\n\n\nHALF-PAST FOUR O'CLOCK PM.\n\n\nPart of lot II. in square south of square 5l6 be-\nginning on ! street at dividing line between lots\nII and II; thence east on said street fourteen 14\nfeet; thence south forty five (45 feet: thence west\nerly to line between lots II and 12 at a distance\nby and with said line forty-two (42) feet to 1\nstreet and beginning. being improved by a three\nALSO S' sASE n sfS fk\nLot \"a, in \"Redfern's subdivision of SQUARE 366\nas per plat recorded in Liber w. F.. folio 143. Of\nof Columbia Improved by two-story brick dwelling.\nkLcwn as premises No. 1411 10th st. NV. in\nTHURSDAY. JUNE TwENTY-FIRST. 1900, AT\n\n\nHALF-PAST FOUR O'CLOCK PM,\nLot 80, in Isaac Bradley's subdivision of lots in\nsquare Y. as per plat recorded in Liber H. X,\nfolio $40, of the records of the surveyors office of\nthe District of Columbia. improved by fine two\nfine repair, being premises No. 1107 New Hamp-\nshire re avenue emu s,Tz Sw in SAID said city o.n,n\nPart Of original lot r. in square ST. beginning at\nsouth seventy-fve (75l feet; thence west nineteen\nQ9) feet; thence north seventy-fve (75) feet and\nming improved by a.two-story and basement BRICK\ndwelling. being premises No. 1920 n st. NV, in\nTerms Of sale-One- third cash on each and every\npiece or parcel of land and premises above men,\nTONED, the balance Of purchase money on each and\ntwo years. or all cash. at the option Of the pur-\nchaser or purchasers the deferred payments to be\nsecured by deed Of trust or trusts. each piece\nof property sold. and to bear interest at the\nof per cent per annum. Conveyancirg. recording\nrevenue stamps at purchasers cost. deposit of\n$500 will be required the sale of the Tally -Ho\nStable\" property at the time of SALE and deposit\nof 5000 on each Of the other properties above men,\ntoned at the time of sale. Terms of sale to he\ncomplied with within ten days from day Of sale\non each and every piece OF property sold. the\nadministrator de bonis non. aforesaid reserves the\nright to resell the property at the risk and cost Of\nsuch defauting purchaser after five (5 days pre-\nvious advertisement Of such resale. published in\nsome newspaper In the District of Columbia\n\n\nLEWIS b. PARKER,\nAdministrator de bonis non. of the Estate Of\n\n\nGeorge $. Parker, late Of the District of Co\n\n\nlumba deceased.\n\n\nRICHARD r. BEALI,\n\n\n1406 e st. NV,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3542,
+                    "y0": 172,
+                    "x1": 3934,
+                    "y1": 224
+                },
+                {
+                    "x0": 3588,
+                    "y0": 233,
+                    "x1": 3888,
+                    "y1": 269
+                },
+                {
+                    "x0": 3421,
+                    "y0": 268,
+                    "x1": 4045,
+                    "y1": 320
+                },
+                {
+                    "x0": 3416,
+                    "y0": 299,
+                    "x1": 4061,
+                    "y1": 2724
+                }
+            ],
+            "bbox": [
+                3416,
+                172,
+                4061,
+                2724
+            ],
+            "full_article_id": 22,
+            "id": "22_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                68,
+                30,
+                22
+            ],
+            "headline": "AUCTION SALES.\n\nFUTURE DAYS.\n\n\nJAMES W. RATuIFFE AUCTTONEER\nTwo Frame Houses on\nPennsylvania Avenue e\nExtended TWining City. }",
+            "article": "On SATURDAY AFTERNOON. JUNE SIX\nTENTH. AID. 1900. at HAIF-PAST FOUR\nO'CLOCK. I will offer for sale, by public auction.\nin front of the premises,\n\n\nLOT lS, BLOCK @,\n\n\n''TWINING CITY,\"\nimproved by two frame hoUses\nTerms: One third cash. bal. in one and two years,\nwith per cent interest all cash. 800. 90\nceptunce of bid Terms to be complied with in\nfifteen days. AL conveyancing. stamps. &C., ut\npurchasers cost.\n\n\njes-d&ds JAMES W. RATCIIFFE, Auct.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1544,
+                    "y0": 3732,
+                    "x1": 1946,
+                    "y1": 3789
+                },
+                {
+                    "x0": 1432,
+                    "y0": 3803,
+                    "x1": 2067,
+                    "y1": 4028
+                },
+                {
+                    "x0": 1422,
+                    "y0": 4032,
+                    "x1": 2067,
+                    "y1": 4327
+                }
+            ],
+            "bbox": [
+                1422,
+                3732,
+                2067,
+                4327
+            ],
+            "full_article_id": 23,
+            "id": "23_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                62,
+                24
+            ],
+            "headline": "",
+            "article": "The last act of Secretary Long before de-\n\n\nparting for Annapolis was to sign an order\nterminating the former order of suspension\nIn the case Of Commander Todd. chief of\nthe naval photographic office. The officer\nwas relic we'd from duty because he had ad-\ndressed letters to persons not in the naval\nservice seeking their aid In the struggle\nthe hydrographic Office was making to con-\ntrol the surveys as against the coast survey,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 139,
+                    "y0": 6025,
+                    "x1": 693,
+                    "y1": 6051
+                },
+                {
+                    "x0": 99,
+                    "y0": 6055,
+                    "x1": 749,
+                    "y1": 6325
+                }
+            ],
+            "bbox": [
+                99,
+                6025,
+                749,
+                6325
+            ],
+            "full_article_id": 25,
+            "id": "25_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                56,
+                85,
+                35,
+                25
+            ],
+            "headline": "A BRAVE DEFENSE.\nGallant Work of Volunteers in the\n\n\nPhilippines.\nWERE ODFNUMBERED TWENTY TO ONE\nHeroicaIIy Resisted Attacks for\nFive Days.\nSTORY OF TIL ETR RESCTJE\n\n7BRE ODTNUMBERED TWENTY TO ONE\n\nSTORY OF THEIR RESCUE",
+            "article": "The War Department has just received\nthe report of Captain H NJ. Dey, 43d United\nStates Volunteer Infantry. of the remark\nable experience of the garrison at Catubig,\nin the Philippine Islands. in which a party\nof thirty-one enlisted men of Company H\nof that regiment maintained a successful\ndefense against an attacking force esti-\nmated at over go insurgents. beginning\nSunday morning. April 10. and lasting until\nrescued by a party under the command of\nFirst Lieutenant Sweeney of that regiment.\non Thursday afternoon, April 49, during\nwhich the party sustained a loss of eighteen\nmen killed and five wounded, while con-\nservative estimate of the number of insur-\ngents killed is upward of 200.\n\n\nCatubig, at which this affair occurred, is\na small town on the Island of Samar.\nwhich is the extreme easternmost island of\nthe Viscaya group, lying to the southeast\nof LuZon, and about ten miles interior from\nthe extreme north coast of that island,\nfifty-six miles from Catbalogan, the cap\nital of the province. and 1913 miles east\nsoutheast from Manila, and had a popula-\nton at the time of the last Spanish census\noe 1855. The people of this island Eave\nreputation of being of warlike disposition,\nferocious in their nature and exceedingly\ntreacherOus. Although the SpaniGrds had\nlocal governor at Catbalogan. they never\nwere able to entirely suppress the people.\nThe trade was principally in hemp and CO.\ncoanut oil.\n\n\nFirst Lieut.. Joseph T. Sweeney the Of\nficer who commanded the relief party is\nnative of New York city and served during\nthe Spanish-American war as second lieu\ntenant of the 69th New York, with which\nregiment he was Eonorab.y mustered out\nJanuary 81. 1899. and was commissioned\nsecond lieutenant In the Add on the 14th\nof August. 1892 and promoted to first lieu\ntIN E.h of n1tN\n\n\nSergt. Dustin L. George, who commanded\nthe small party at CGtubig at the time of\nthe attack, Is a resident of Barre. VT, be-\ning son of Mrs Jennie NJ. Northup of No.\n174 Merchant street. Barre, VT: he was n\nmarried. Corporal Antkony ]. Carson. who.\nafter the death of Sergts. George and Hall.\nsucceeded to the command, and who is so\nhighly commended by Capt. Dey. is a resi-\ndent of Maiden. Mass. at which place he\nenlisted October 5, 1899, having formerly\nserved in Company F. Goth New York Vol\nuntcers. during the SpGZish-Amcrican war,\nat which time he gave his nearest relative\nas Mrs. David F. Carroll, No. 80 James\nstreet, Maiden, Mass.\n\n\nCapt. Dey's Report.\n\n\nCaptain Deys report is dated at Laguan.\nApril p, and is in part as follows:\n\n\nabout $50 am. Sunday, April Is, the\ngarrison was alarmed by shots coming\nfrom the rear of the church on the left\n\n\n\n\n\nprepared to resist the attack. Almost at\nthe same time a heavy fire was opened on\nthem from the hills on the right and left\nand also from every available part of the\ncity which could be utilized by the insurgents.\nThis fire was kept up all day long, but the\ngarrison. with great courage and coolness.\nmet and returned the fire. with the result\nthat several insurgents were killed or\nAll during the night the firing was kept up,\nbut not quite so heavy as during the day.\n\n\nAbout am. on Monday the firing was\nresumed, and each hour went by 1t be-\ncame more general. AT about am. they\ncommenced firing a cannon which was\nplanted on the hill to the right of the bar\nracks using cut nails and spikes for pro-\njectiles. Sergeant George who command\ned the garrison, ordered all the. fire from\nthe barracks to be concentrated on this can\nnon for the purpose of silencing 1t. and after\ntwo voleys had been fired succeeded in\nhis purpose. Heavy rifle firing was kept up\nall day and until about II pm. when 1t\nlessened up until daylight Tuesday morn\ning, at which time the heavy firing was re-\nsumed, about am. from the front and\nacross the river from the cannon. the cam\nnon having been changed to this new posi-\nton during the night: but few wel!-di-\nrected shots from the garrison silenced 1t\nfor the time being. Up to this time but one\nman of the garrison had been wounded,\nPrivate Lee, who was shot on the left arm,\nbut a great number of insurgents had been\nkilled. some from their position in trees,\nsome from trying to charge the barracks.\n\n\nAbout this time a large number of in\nsurgents had managed to make their way\ninto the church adjoining the barracks,\nand were causing SO much trouble that 1t\nbecame necessary to silence them Ser\ngeant George called for ten men to charge\nthe church and drive them out. The men\nImmediately responded. and under terri\nbly, heavy fire from all sides they succeeded\nin getting in. and finding nearly hundred\ninsurgents there Immediately poured sew\nIII ;,to tt,ayV, iycr\nDer. By this time all the firing was CEN\ntered the church. and Sergeant George,\nfinding that to remain longer would be\nfatal to his little band. retreated back to\nthe barracks. This brave deed was accom-\nplished without the loss of a single man.\nThe firing became SO heavy and the terri\nBILE strain on the men so great from their\nlong and continuous fighting that 1t re-\nquired them to put forth their greatest ef-\nforts to meet this heavy fire.\n\n\nThe Barracks Fired.\n\n\nabout this time the insurgents had man\naged to regain the church. and from the\nwindows made several unsuccessful efforts\nto set fire to the barracks. Finally they\nmanaged to throw some hemp saturated\nwith oil against the building and succeeded\nIn setting fire to It. All efforts to subdue\nthis fire proved unavailing, and when the\nbuilding became untenable. the heat being\n50 intense, the garrison hastily decided the\nonly course open to them was to make\ndash for the river and attempt to get\nacross. hoping to intrench themselves on\nthe opposite shore. They destroyed every\nthing which would be of value to the In\nsurgents, divided the ammunition between\nthem. cut hole in the floor and dropped\nthrough one at time to the basement be-\nlow. When all of them had gotten through\nthey made a rush for the river. Some OF\nthem were killed before they reached the\nriver. Corporal Carson. with fifteen men.\nImmediately started to build trench, using\ntheir bayonets to dig with. The rest Of the\nmen attempted to cross the river. but were\nall killed while getting in the boat\n\n\nHeld Trench for Two Days.\n\n\nFor two days Corporal Carson and his\nsquad held this trench. fighting all the\ntime against great odds and having two\nmen killed and three wounded. one OF\nwhom. Sergeant Hall. has since died. until\nhe was finally rescued on Thursday morn\ning by Lieutenant Sweeney and his de-\ntachment. His report accompanies this\none and shows the difficulties which he en-\ncountered in the rescue. conservative\nestimate of the number of insurgents killed\nis upward of 900. but have no record Of the\nnumber of wounded. The loss we sustained\nIs eighteen killed and five wounded, one of\nwhom has since died. l also lost q large\namount of ordnance stores. quartermaster\nand commissary supplies, of which 1 will\nsubmit certificate to the officers Of those\ndepartments.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 758,
+                    "y0": 182,
+                    "x1": 1408,
+                    "y1": 848
+                },
+                {
+                    "x0": 793,
+                    "y0": 502,
+                    "x1": 1408,
+                    "y1": 574
+                },
+                {
+                    "x0": 768,
+                    "y0": 806,
+                    "x1": 1403,
+                    "y1": 868
+                },
+                {
+                    "x0": 758,
+                    "y0": 907,
+                    "x1": 1408,
+                    "y1": 5757
+                }
+            ],
+            "bbox": [
+                758,
+                182,
+                1408,
+                5757
+            ],
+            "full_article_id": 26,
+            "id": "26_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                40,
+                67,
+                65,
+                94,
+                26
+            ],
+            "headline": "AUCTION SALES.\n\nFUTURE DAYS.\n\nJAMES W. RArcLIrFE. AUcrIoytrN\n\niHo lEES tlIrnA SALE % OF ERICk morSE No. lso'",
+            "article": "TRUSTEES SALE OF BRICK HOUSE No. 1903\n\n\nEMERSON STREET NORTHEAST\n\n\nby virtue OF a deed of trust. duly recorded In\nLiber 2lfs. folio No. IFS ct seq Of the land\nrecords for the District OF Columbia and at the\nrequest of the party secured thereby. the under\nsigned surviving trustee will offer for sale by\npublic auction. in front Of the p,cmis,s n\nTuESpM, the NINETEENTH DAY Of JUNE.\n1900, at FIVE O'CLOCK PM. the following do.\nscribed real estate. situate I'm the city OF Wash.\nington District OF Columbia. to wit: Lot numbered\none hundred and forty-six ui6, in Louis D. Wine\nand William Mayse's subdivision Of square num-\nbered one thousand and twenty nine ,Ioaa, as\nper plat in book n. folio 63 In the Office Of the\nsurveyor for said District. together with all the\nimprovements, rights. &c.\n\n\nTerms: One third cash. balance In one and two\nyenrs. with interest from the day Of sale AT six\nper cent per annum secured by deed of trust ON\nthe property sold. or all cash, at the option OF\nthe purchaser. 500 deposit required at time n\nsale. Terms of sale to be complied with in Is\ndays from day Of sale. otherwise trustee reserves\nthe right to resell the property at the risk and\ncost of the defauiting purchaser, after five days\nadvertisement OF Nch resale in newspaper\npublished In Washington. u. G. All Conveyance\nIng, recording, stamps. &c, at purchasers cost.\n\n\nje1 d&ds",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4202,
+                    "y0": 177,
+                    "x1": 4598,
+                    "y1": 229
+                },
+                {
+                    "x0": 4252,
+                    "y0": 238,
+                    "x1": 4542,
+                    "y1": 274
+                },
+                {
+                    "x0": 4121,
+                    "y0": 278,
+                    "x1": 4669,
+                    "y1": 315
+                },
+                {
+                    "x0": 4080,
+                    "y0": 324,
+                    "x1": 4710,
+                    "y1": 371
+                },
+                {
+                    "x0": 4080,
+                    "y0": 334,
+                    "x1": 4725,
+                    "y1": 1040
+                }
+            ],
+            "bbox": [
+                4080,
+                177,
+                4725,
+                1040
+            ],
+            "full_article_id": 27,
+            "id": "27_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                49,
+                97,
+                28
+            ],
+            "headline": "POTOMAC RIVER BOATS\n\nTHE WEEMS STEAMBOAT 60\nPOTOMAC RIVER ROUTE.\n\n\nSIMMER SEIIt.ItJIE",
+            "article": "THE WEEAiS STEAMBOAT GO.\n\n\nPOTOMAC RIVER ROUTE.\n\n\nSUMMER S''HEiIl LIE.\nSTEAMERS NoRrHl MBkRi-AN, and POTOMAC:\n,,u and after June :. 1870. the will\nleave ifh st. wha-f every Sunday, Tuesday and\nTHURSDAY at p. III. for Baltimore and river land\niugs.\n\n\ni;ultfIurr,. freight solicited\nArromin ,iatious Passengers strictly first class\nSTEPHENSON X BRO, Agts. Telephone ii5.\nJeG-12tf\n\n\nE = RANDALI.S POTOMAC RIVER LINE.\nSteamer HARRY RANDALL will leave River\nView wharf Sundays Tuesdays and Thursdays at\nZ am landing Il Colonial Beach. Chapel Point\nand ali uiarv.s as FAR down Is Lower Machodoe.\nRefurnin. on Mondays and Wednesdays at D. N.\nand ou Fridays about 80 pm\n\n\nUNITED STATES NAH. ROUTE.\nWASHINGTON. u. G. To GLYMONT, ND,\n\n\nand intermediate landings\nThe new stcainer ESTEI.LE RANDALL. daily,\nexcept Sunday go 4 m Returning about m\nPassenger accomInudi lions first class. Freight re-\nccived until the honr OF sailing.\n\n\nF.. RANDALL.\n\n\nPropretpr and Manager.\nGEO. q CA.ti'INTER, General Agent. Washington.\nwM NJ REARDo\\. Agent. Alexandria. sc1s-tf. 20\n\n\nSTEAMER WAKEFIELD.\n\n\nFOR POTOMAC RIVER LANDINGS\nLeaves Washington. u e. 9TH st. Ferry WHARF.\nMondays, an. fo- intermediate landings to Co\nlonal Beach. Rushwood Rock Tt. COlton's, Nom\nini Creek Abeils. Leonaritown. Stones. Howard\nand Cnbrum's-\n\n\nWednesdays am. for intermediate landings to\nColonial Beach. Bushwood. Rock Point Coiton's.\nIeonardtown. Abelrs. Nomini Creek. COan and\nYeoronico rivers.\n\n\nSaturday. am. for intermediate landings to\nColonial Reach. Bushwcod. Rock Point. Coltons,\nNonin Creek\n\n\nSee schedule in erecr August 81. 1899.\naui61stf C W RIDLEY. General Manager.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 134,
+                    "y0": 182,
+                    "x1": 713,
+                    "y1": 234
+                },
+                {
+                    "x0": 215,
+                    "y0": 248,
+                    "x1": 617,
+                    "y1": 315
+                },
+                {
+                    "x0": 93,
+                    "y0": 258,
+                    "x1": 739,
+                    "y1": 1289
+                }
+            ],
+            "bbox": [
+                93,
+                182,
+                739,
+                1289
+            ],
+            "full_article_id": 29,
+            "id": "29_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                83,
+                29
+            ],
+            "headline": "G. C. SLOAN CO.. AUcTIoNEERs. 14o7 G 81",
+            "article": "PROVED SUBURBAN PROPERTY. BEING 15\n\n\nACRES ADJOINING REFORM SCHOOL.\n\n\nBy virtue Of certain deed of trust, dated April\n4, 1894. and recorded In Liber 1895. folio 422 ct\nseq Of the land records Of the District of Co.\nlumbia. and at the request of the party secured.\nwe will offer for sale. at public auction, upon the\npremises. THURSDAY. JUNE FOURTEENTH. A.\nd. 1900. AT HALF-PAST FIVE O'CLOCK PM,\nthe following described real estate situate in the\ncounty Of Washington. in the District Of Columbia,\nknown and designated as part Of tract of land\ncalled ''Seamens Delight\" and part of Green\nvale\" being lots numbered sixteen d6,, seventeen\n40 and eighteen uS,. according to subdivision\n,as recorded ! in the office Of the surveyor of the\nof lot numbered seven 90. in the division of the\nsurveyors office. in Book District\" page g. said\nproperty adjoining the grounds of the Reform\nSchool, and but shoEt distance from the\n\"Bladensburg road\"\n\n\nTerms of sale: 0ne-fourth cash, balance in\nequal installments payable in six 49,, eighteen\n0s), twenty four (24 and thirty (30) months after\ndate, respectively, with interest at the rate of 5\nper cent per annum, payable semi annually, to be\nsecured by deed Of trust on the property sold.\nall cash. deposit Of one hundred (S1O0) will be\nrequired at the time of sale. ALI conveyancing,\nrecording. notarial fees and revenue stamps at the\ncost Of purchaser. Terms of sale to be complied\nwith within ten t10) days Of date of sale. or the\ntrustees the right to resell the property at\nthe risk and cost of the purchaser.\n\n\nEDWIN G. CUTTER, Trustee\n\n\n\". RILEY DEEBLE. Trustee.\n\n\nje2-d&ds 1919 at. NV.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3416,
+                    "y0": 2733,
+                    "x1": 4040,
+                    "y1": 2775
+                },
+                {
+                    "x0": 3410,
+                    "y0": 2774,
+                    "x1": 4056,
+                    "y1": 3662
+                }
+            ],
+            "bbox": [
+                3410,
+                2733,
+                4056,
+                3662
+            ],
+            "full_article_id": 30,
+            "id": "30_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                77,
+                32
+            ],
+            "headline": "ANCHOR LIME",
+            "article": "UNITED STATES MAIL STEAMSHIPS.\nSAIL FROM NEW YORk EVERY SATURDAY FOR\n\n\nGLASGOW VIA LONDONDERRY.\nSALOON PASSAGE $50 AND UPWARD.\nTo Paris and return. first-class $3.50 and upward.\n\n\nSECOND CABIN. $50 To $37 so.\n\n\nSteerage Passage:\nRome. $780, Furnessia, $24.5o Other Strs $235 50.\nFor Book Of Tours and further Information. apply\nto HENDERSON BROTHERS. Gen Agts., II & 10\nBrosdway New York. q. W. MOSS. 1927 st.\nNV, or Z. F. DROOP * SONS 925 Pa. e..Wash.\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 215,
+                    "y0": 1927,
+                    "x1": 612,
+                    "y1": 1963
+                },
+                {
+                    "x0": 88,
+                    "y0": 1972,
+                    "x1": 744,
+                    "y1": 2247
+                }
+            ],
+            "bbox": [
+                88,
+                1927,
+                744,
+                2247
+            ],
+            "full_article_id": 33,
+            "id": "33_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                45,
+                33
+            ],
+            "headline": "THOMAS BOWLING CO., AUcrIoNEERs.",
+            "article": "TRUSTEES SALE OF EIGHT ROOM FRAME\n\n\nDWELLING: KNOWN AS 20 NINTH STREET\n\n\n~ ~S0KTHEAST, AND NINERoOM FRAME\n\n\nSTREET SOUTHEAST\n\n\nUnder and by virtue of decree of the Sspreme\nCourt of the District OF Columbia, passed in\ncause wherein Charles J. Thorpe ct al. are COM\nPENDANTS, known Equity Cause No. 21O4s, the\nundersigned, trustees, Will. sn FRIDAY. THE\nr Eni,FIIEHETH r y II DAY OF JUNE A-D 1900, AT\npremises. sell. at public auction the following de-\nscrlbed real estate, situate in the city of Washing\nton, In said District to wit: The south twenty\nSIX S26 feet front by full depth of original lot\nhundred and nineteen (919) more particularly de-\nscribed in the petition In said cause together with\nme improvements thereon. consisting OF two\nstory frame dwelling, containing eight rooms and\nbath. known No. 20 9th street northeast\n\n\nAnd on the SAME DAY. AT FIVE O'CLOCK\nPM. they will in like manner sell at public auc-\ntion In front Of the premises. the following de-\nseribed, real estate situate aforesaid 10 wit:\nfarfs OF original lots numbered six t6l. twelve 2p\nand thirteen t13), and all of original lot numbered\nseven 10. In square numbered seven hundred and\npetition In said cause, together with the improve\nments thereon. consisting OF nine-room two-story\nframe dwelling, known 1921 I'd street southeast.\nTerms Of sale prescribed by said decree. One\nthird cash. before the final ratification of the SALE\nbalance III two equal inst ailments. and\nyears from day Of SALE secured by the rfomissory\nnotes or the purchaser bearing legal interest and\na deed OF trust on the property sold to the salts\nfaction Of the trustees all cash. at purchasers\noption. Sale to be closed within fifteen days.\notherwise the trustees the right to resell\nposit of 500 each piece Of property required at\ntime OF sale. Conveyancing. revenue stamps and\nrecording at purchasers cost.\n\n\nBENJAMIN F. LEIGHTON, Trustee\n\n\nOffice 416 Fifth street. NV.\n\n\nEDWIN 3. HAY, Trustee,\n\n\nje4-d&ds Office 1925 ~ Y ave. NV.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4090,
+                    "y0": 2495,
+                    "x1": 4705,
+                    "y1": 2531
+                },
+                {
+                    "x0": 4075,
+                    "y0": 2541,
+                    "x1": 4725,
+                    "y1": 3673
+                }
+            ],
+            "bbox": [
+                4075,
+                2495,
+                4725,
+                3673
+            ],
+            "full_article_id": 34,
+            "id": "34_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                52,
+                34
+            ],
+            "headline": "OCEAN TRAVEL.",
+            "article": "TRANSATLANTIC PASSENGER AGENCY.\nWhite Star Line, Cuuard Line,\nAmerican Line, Anchor Line.\nmy9-52t' A. L. vELATi. Agent. l4OSLs G st. NV\nNORTH UERwlAN LLOYD\n\n\nFAST ENrt.r->> SERVICES.\nCHERBOULG. SOUTHAMPTON BREMEN.\nLain June L. Kaiser VIM. d Gr. July\nTrave. June IL Lain. July 10\nKaiserin Mar. Tn June ~ Kaisern Mar. TIL July II\n\n\nDeparture L. An.\n\n\nTWIN-SCREW PASSi-\\',tR SERVICE\nSOUTHAMPTON LONDON. BREMEN.\nPr. d. CIR. Ju e Il. X. I.Ise July 10, 10 am\nBrelnen.- July 5. 10 am Bremen. Aug. .. am\n\n\nCHEKBOURt;, PARIS. BREMEN.\nX. Luise June IA. II am G.Kurfurst. June o, noon\n\n\nMEDrrERRANEAN SERVICE.\n\n\nSIYRAiTA NAPLES. GENOA.\nEms. .......... June 10 Werra. June q\n\n\nDeparture IL An.\nOEJLIOHS & CO, No. BROADWAY, n. 7.\nApply TO E. +. DRooP s25 Pa. ave-,\nfe7-ly Agent for Warrington",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 230,
+                    "y0": 1303,
+                    "x1": 612,
+                    "y1": 1345
+                },
+                {
+                    "x0": 93,
+                    "y0": 1364,
+                    "x1": 739,
+                    "y1": 1918
+                }
+            ],
+            "bbox": [
+                93,
+                1303,
+                739,
+                1918
+            ],
+            "full_article_id": 35,
+            "id": "35_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                31,
+                38
+            ],
+            "headline": "C. G. SLOAN & co. AUCTGONEERS. i4o7 G ST.\nVALUABLE BUSINESS PROP\n\n\nERTY, 622-24 d STREET\n\n\nNORTHWEST AT AITCTION",
+            "article": "To close an estate will offer for sale at auc-\nti0n, THU RSDAY. JUNE FOURTEENTH 1900\nAl FIVE Pm the substantial threestory brick\nbuilding No. 622-24 d st. NV. being part OF lot\n8 In square 45S 30 feet front by about 40 feet\ndeep. containing 200 square feet\n\n\nTerms: one-half cash, balance In one and two\nyears, at per cent per annum. secured on\nproperty sold, or all cash. at option OF purchaser\nDeposit OF $500 on day OF sale Upon failure to\ncomply within ten days property To be sold at risk\nand cost Of defaulting purchaser. All conveyanc-\ning, recording and stampsat purchasers cost\n\n\nCfAS. lSEMANN\n\n\nADOLPH FEIDNOSS,\nWALTER A. BROWN, Agent.\n\n\n1923 Pa. ave- ie7-d,s",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4080,
+                    "y0": 1049,
+                    "x1": 4725,
+                    "y1": 1218
+                },
+                {
+                    "x0": 4080,
+                    "y0": 1227,
+                    "x1": 4725,
+                    "y1": 1634
+                }
+            ],
+            "bbox": [
+                4080,
+                1049,
+                4725,
+                1634
+            ],
+            "full_article_id": 39,
+            "id": "39_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                70,
+                44
+            ],
+            "headline": "WALTER B. WILLIAMS 4 CO., AucrIoNEERs",
+            "article": "OUR REGULAR SATURDAY SALE.\nOn TOMORROW, JUNE NINTH, COMMENCING\nAT TEN O'CLOCK AM. we shall sell. within and\nin front of sales room. corner 10th and Penna.\nave. NV, general assortment of Household Goods\nOF every description. removed from private resi-\ndences for convenience of sale.\n\n\nALSO\n\n\nTwo Mirror-f front Folding Beds. Show Cases. etc.\n\n\nALSO, AT TWELVE O'CLOCK NJ,\nOne Canopy Surrey, uph. in leather built to\nder. WALTER b. WILLIAMS Il CO..\n1t Auctioneers.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2756,
+                    "y0": 618,
+                    "x1": 3391,
+                    "y1": 655
+                },
+                {
+                    "x0": 2751,
+                    "y0": 659,
+                    "x1": 3396,
+                    "y1": 959
+                }
+            ],
+            "bbox": [
+                2751,
+                618,
+                3396,
+                959
+            ],
+            "full_article_id": 45,
+            "id": "45_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                47
+            ],
+            "headline": "",
+            "article": "MoRTGAGEE's SALE OF VALUABLE REAL Es-\n\n\nSTATE NEAR BRANCHVILLE, PRINCE\n\n\nGEORGES COUNTY, MD.\n\n\nBy virtue of the power contained In a mort\ngage from Margaret E. Warfeld and Joshua d.\nWarfeld, her husband, the undersigned will offer\nat public sale in front Of the post ONCE at Belts\nVile; in said county on S SATURDAY; @ JUNE\nhcres, adjoining the lands of John p. Turner and\nothers about 10 miles from Washington. 2 miles\niI viiie. improved by large dwelling, % bank In barn\nand corn house. The land s mostly arabic and\ncontains many beautiful aa ,.i, building sites ,,\nTUCK. POI n. Calvert ST.. Baltimore. Md. my30-st",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2746,
+                    "y0": 3007,
+                    "x1": 3391,
+                    "y1": 3399
+                }
+            ],
+            "bbox": [
+                2746,
+                3007,
+                3391,
+                3399
+            ],
+            "full_article_id": 48,
+            "id": "48_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                58,
+                48
+            ],
+            "headline": "JAMES W. RADCLIFFE, Aucr1osEER.",
+            "article": "ROOM BY AUCTION.\n\n\nOn SATURDAY MORNING, JUNE NINTH, at\nTEN O'CLOCK. l will sell within my sales rooms.\n920 Pa. ave. NV, the entire contents of a lunch\nROOM consisting In part Of l Steam Table. 3 Cof-\nfee Brns Tables, Chairs Milk Can Electric Fan,\nCastors, &c. Removed to my rooms for conven-\nfence of sale.\n\n\nje7-2t JAMES W. RADCLIFFE, Auct.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2797,
+                    "y0": 2698,
+                    "x1": 3335,
+                    "y1": 2739
+                },
+                {
+                    "x0": 2746,
+                    "y0": 2733,
+                    "x1": 3391,
+                    "y1": 2983
+                }
+            ],
+            "bbox": [
+                2746,
+                2698,
+                3391,
+                2983
+            ],
+            "full_article_id": 49,
+            "id": "49_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                57,
+                55
+            ],
+            "headline": "FRENCH LINE.",
+            "article": "Compagnle Generate lransatlantlque\nDIRECT LINE TO HAvRE-PARIS France).\n\n\nSailing every Thursday at 10 am.\nFrom Pier No. AZ North River. foot Morton st.\nLa Gascogne. June \"A La Touraine. July 3\nLa Champagne June Il La Lorraine -. July IL\nL'Aquitaine. June % La Bretagne. July 10\nFirst Sailing 4 New Twin:screw Express Steamer\n\n\nIL LORR E.\n\n\nFrom New York. July r. 1900\n\n\nGeneral Agency. 80 Broadway, New York.\nG w MOSS 1927 F ST NV frl Sm.1T",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 190,
+                    "y0": 2256,
+                    "x1": 617,
+                    "y1": 2308
+                },
+                {
+                    "x0": 93,
+                    "y0": 2317,
+                    "x1": 739,
+                    "y1": 2587
+                }
+            ],
+            "bbox": [
+                93,
+                2256,
+                739,
+                2587
+            ],
+            "full_article_id": 56,
+            "id": "56_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                69,
+                79,
+                73,
+                66
+            ],
+            "headline": "AUCTION SALES.\n\nTOMORROW,\n\nJAMES W. RADCLIFFE. AUCTIoNEER.",
+            "article": "REGULAR SALE OF FURNITURE. CARPETS.\nHORSES. WAGONS, CARRIAGES HAR-\nTOMORROW tSATURDAY MORNING, AT\nTEN O'CLOCK, Will sell. within my sales rooms.\ngo Pa. NV, Furniture. Carpets, contents Of\nLunch Room, vapor Baths, ONCE Furniture,\nCrockery, &c.\n\n\nAT IL NJ,\nin front of sales rooms Horses, Carriages. wag-\nons, Harness, &c. JAMES W. RADCLIFFE.\n1t Auctioneer.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2878,
+                    "y0": 177,
+                    "x1": 3275,
+                    "y1": 229
+                },
+                {
+                    "x0": 2969,
+                    "y0": 238,
+                    "x1": 3178,
+                    "y1": 274
+                },
+                {
+                    "x0": 2802,
+                    "y0": 289,
+                    "x1": 3371,
+                    "y1": 320
+                },
+                {
+                    "x0": 2751,
+                    "y0": 314,
+                    "x1": 3396,
+                    "y1": 609
+                }
+            ],
+            "bbox": [
+                2751,
+                177,
+                3396,
+                609
+            ],
+            "full_article_id": 67,
+            "id": "67_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                74
+            ],
+            "headline": "",
+            "article": "American Line.\n\n\nFAST EXPRESS SERVICE\nNEW YORK OTTHAMPTON-LONDOS.\nCALLING WESTROUND AT CHERBOU R0.\n\n\nSailing Wednesdays at 10 AM\nNew York. June 90 New York. July II\nst. Paul. -. June q St Paul. July 18\nSt Louis. July j st. Louis. July IS",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 99,
+                    "y0": 2601,
+                    "x1": 733,
+                    "y1": 2800
+                }
+            ],
+            "bbox": [
+                99,
+                2601,
+                733,
+                2800
+            ],
+            "full_article_id": 75,
+            "id": "75_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                63,
+                80
+            ],
+            "headline": "THOMAS DOWNING & CO., AUCTIoNEERs",
+            "article": "R.. NJ. PARKER, Attorney for Party Secured.\nje2-d&ds",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3431,
+                    "y0": 4229,
+                    "x1": 4030,
+                    "y1": 4261
+                },
+                {
+                    "x0": 3426,
+                    "y0": 4164,
+                    "x1": 4030,
+                    "y1": 4215
+                }
+            ],
+            "bbox": [
+                3426,
+                4164,
+                4030,
+                4261
+            ],
+            "full_article_id": 81,
+            "id": "81_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                86,
+                81
+            ],
+            "headline": "Red Star Line.",
+            "article": "NEW OBSERVATION-DISCLOSURES\n\n\nEvery Wednesday at IL\n.Friesland June I3 Wcsternland June 21\nSouthwark. June 20 Kensington.. July\n'Callilc Southampton.\n\n\nINTERNATIONAL NAVIGATION COMPANY.\nPiers Il & Is Mr. 0Sice. 73 broadway, New York\nPhiladelphia office. sO5-3o7 Walnut st.\nWASHINGTON OFFICE. 1906 F st. NV. Or\nG. W Moss. Agent. at Sanders Stayman's. 1921\nst. u SeI",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 230,
+                    "y0": 2809,
+                    "x1": 612,
+                    "y1": 2851
+                },
+                {
+                    "x0": 93,
+                    "y0": 2860,
+                    "x1": 739,
+                    "y1": 3099
+                }
+            ],
+            "bbox": [
+                93,
+                2809,
+                739,
+                3099
+            ],
+            "full_article_id": 82,
+            "id": "82_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                87
+            ],
+            "headline": "",
+            "article": "wounded comrades under the most trying\ncircumstances, are all Of them acts which\n\n\nand ability. and is Hitting example of the\nworth and courage of the American SOL",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1427,
+                    "y0": 187,
+                    "x1": 2072,
+                    "y1": 335
+                }
+            ],
+            "bbox": [
+                1427,
+                187,
+                2072,
+                335
+            ],
+            "full_article_id": 88,
+            "id": "88_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        },
+        {
+            "object_ids": [
+                99
+            ],
+            "headline": "",
+            "article": "JAMES w. RATcLIFTE, AUcr1oNEER.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2137,
+                    "y0": 4113,
+                    "x1": 2691,
+                    "y1": 4144
+                }
+            ],
+            "bbox": [
+                2137,
+                4113,
+                2691,
+                4144
+            ],
+            "full_article_id": 100,
+            "id": "100_1900-06-08_p15_sn83045462_00280655338_1900060801_0431.json"
+        }
+    ]
+}
